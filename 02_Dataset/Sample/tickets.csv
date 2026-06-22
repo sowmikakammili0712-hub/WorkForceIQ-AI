@@ -1,0 +1,1001 @@
+TicketID,Category,Priority,AssignedAgent,ResolutionHours,SLAHours,Status,SLAMet
+TKT00001,Login Issue,Critical,AG071,5.6,4,Resolved,False
+TKT00002,Billing,Medium,AG053,23.83,8,Resolved,False
+TKT00003,Login Issue,Medium,AG049,1.1,24,Resolved,True
+TKT00004,Hosting,High,AG055,33.74,24,Resolved,False
+TKT00005,Billing,High,AG028,46.53,4,Resolved,False
+TKT00006,Login Issue,Low,AG075,23.41,8,Resolved,False
+TKT00007,Website Builder,Low,AG024,4.22,4,Resolved,False
+TKT00008,Hosting,Low,AG073,12.57,4,Open,False
+TKT00009,Login Issue,Critical,AG085,28.43,12,Resolved,False
+TKT00010,Billing,High,AG031,13.48,8,Resolved,False
+TKT00011,Hosting,High,AG097,44.98,4,Resolved,False
+TKT00012,Website Builder,Low,AG010,26.27,12,Resolved,False
+TKT00013,Domain Management,Low,AG032,18.37,8,Resolved,False
+TKT00014,Website Builder,High,AG079,47.24,4,Open,False
+TKT00015,Domain Management,Low,AG018,13.43,4,Open,False
+TKT00016,Billing,High,AG037,29.43,12,Resolved,False
+TKT00017,Email Support,High,AG065,23.96,4,Resolved,False
+TKT00018,Email Support,Critical,AG036,3.07,12,Resolved,True
+TKT00019,Email Support,High,AG021,35.84,24,Open,False
+TKT00020,Login Issue,Low,AG010,45.42,8,Open,False
+TKT00021,Login Issue,High,AG075,26.97,24,Resolved,False
+TKT00022,Login Issue,High,AG047,43.25,4,Resolved,False
+TKT00023,Billing,Medium,AG086,5.83,24,Open,True
+TKT00024,Email Support,Medium,AG031,41.64,8,Resolved,False
+TKT00025,Login Issue,Medium,AG095,44.45,24,Resolved,False
+TKT00026,Domain Management,Medium,AG090,6.08,4,Resolved,False
+TKT00027,Billing,Medium,AG059,17.43,8,Resolved,False
+TKT00028,Login Issue,Medium,AG052,16.43,4,Resolved,False
+TKT00029,Domain Management,Critical,AG087,47.11,12,Resolved,False
+TKT00030,Login Issue,High,AG023,28.29,12,Resolved,False
+TKT00031,Login Issue,Critical,AG045,35.24,12,Resolved,False
+TKT00032,Website Builder,Low,AG050,43.28,8,Resolved,False
+TKT00033,Login Issue,Critical,AG001,25.44,8,Resolved,False
+TKT00034,Hosting,Low,AG086,44.28,12,Resolved,False
+TKT00035,Email Support,High,AG065,15.54,24,Resolved,True
+TKT00036,Hosting,High,AG071,6.98,24,Resolved,True
+TKT00037,Email Support,Medium,AG079,27.75,24,Open,False
+TKT00038,Login Issue,High,AG037,10.88,12,Resolved,True
+TKT00039,Hosting,Critical,AG087,11.04,24,Resolved,True
+TKT00040,Email Support,Low,AG037,25.23,12,Resolved,False
+TKT00041,Billing,High,AG029,38.91,8,Resolved,False
+TKT00042,Login Issue,Medium,AG061,29.73,4,Resolved,False
+TKT00043,Hosting,Medium,AG092,33.73,24,Resolved,False
+TKT00044,Billing,Medium,AG084,33.32,4,Resolved,False
+TKT00045,Billing,Medium,AG090,25.34,4,Open,False
+TKT00046,Billing,Low,AG059,7.27,24,Open,True
+TKT00047,Website Builder,High,AG097,42.9,24,Open,False
+TKT00048,Hosting,Medium,AG096,41.49,24,Resolved,False
+TKT00049,Billing,High,AG099,37.55,24,Resolved,False
+TKT00050,Domain Management,Critical,AG010,34.54,8,Resolved,False
+TKT00051,Domain Management,High,AG070,4.79,8,Resolved,True
+TKT00052,Hosting,Medium,AG091,11.06,24,Resolved,True
+TKT00053,Domain Management,Critical,AG054,3.93,24,Resolved,True
+TKT00054,Website Builder,Low,AG098,28.06,24,Resolved,False
+TKT00055,Domain Management,High,AG097,19.33,24,Open,True
+TKT00056,Email Support,Medium,AG063,11.31,24,Resolved,True
+TKT00057,Login Issue,Critical,AG044,32.44,24,Resolved,False
+TKT00058,Hosting,Medium,AG080,26.1,24,Open,False
+TKT00059,Website Builder,Low,AG011,31.21,8,Resolved,False
+TKT00060,Billing,Low,AG034,18.82,8,Resolved,False
+TKT00061,Domain Management,High,AG098,42.34,12,Resolved,False
+TKT00062,Domain Management,Low,AG061,1.91,4,Resolved,True
+TKT00063,Billing,Low,AG100,45.99,4,Resolved,False
+TKT00064,Billing,Medium,AG003,30.2,8,Resolved,False
+TKT00065,Hosting,Low,AG073,45.54,24,Resolved,False
+TKT00066,Domain Management,Medium,AG078,29.54,4,Resolved,False
+TKT00067,Domain Management,Low,AG075,2.21,12,Open,True
+TKT00068,Email Support,Critical,AG051,45.25,8,Resolved,False
+TKT00069,Website Builder,Medium,AG014,33.77,12,Open,False
+TKT00070,Login Issue,Low,AG045,26.04,12,Resolved,False
+TKT00071,Website Builder,High,AG002,40.93,24,Resolved,False
+TKT00072,Hosting,High,AG082,42.9,24,Resolved,False
+TKT00073,Hosting,Medium,AG094,25.52,12,Open,False
+TKT00074,Website Builder,Critical,AG060,21.47,12,Resolved,False
+TKT00075,Billing,Low,AG036,42.44,8,Resolved,False
+TKT00076,Website Builder,Critical,AG044,2.35,12,Resolved,True
+TKT00077,Hosting,Medium,AG046,38.5,12,Resolved,False
+TKT00078,Website Builder,High,AG072,1.48,8,Resolved,True
+TKT00079,Billing,Critical,AG063,27.09,8,Resolved,False
+TKT00080,Email Support,Critical,AG058,38.27,4,Resolved,False
+TKT00081,Billing,Critical,AG089,12.44,12,Resolved,False
+TKT00082,Website Builder,High,AG055,47.84,12,Resolved,False
+TKT00083,Email Support,Critical,AG035,15.41,8,Resolved,False
+TKT00084,Email Support,Medium,AG041,6.62,8,Resolved,True
+TKT00085,Billing,Critical,AG036,35.06,12,Resolved,False
+TKT00086,Billing,High,AG030,17.96,12,Resolved,False
+TKT00087,Email Support,Medium,AG036,3.14,4,Open,True
+TKT00088,Domain Management,Medium,AG082,41.82,24,Resolved,False
+TKT00089,Login Issue,High,AG061,23.5,12,Resolved,False
+TKT00090,Login Issue,High,AG062,6.36,4,Resolved,False
+TKT00091,Hosting,Low,AG074,30.58,4,Resolved,False
+TKT00092,Billing,High,AG011,47.71,4,Open,False
+TKT00093,Hosting,Medium,AG100,25.56,24,Resolved,False
+TKT00094,Domain Management,Critical,AG040,27.73,4,Open,False
+TKT00095,Email Support,Low,AG098,10.77,8,Resolved,False
+TKT00096,Email Support,Low,AG021,12.27,4,Resolved,False
+TKT00097,Login Issue,Critical,AG058,33.4,24,Resolved,False
+TKT00098,Login Issue,Medium,AG037,34.23,24,Resolved,False
+TKT00099,Email Support,Medium,AG034,38.03,8,Resolved,False
+TKT00100,Login Issue,Medium,AG083,8.0,12,Resolved,True
+TKT00101,Login Issue,Low,AG022,38.25,12,Resolved,False
+TKT00102,Login Issue,Critical,AG089,15.29,24,Resolved,True
+TKT00103,Website Builder,Critical,AG057,4.78,4,Resolved,False
+TKT00104,Email Support,High,AG078,12.77,4,Resolved,False
+TKT00105,Email Support,Low,AG098,32.6,12,Open,False
+TKT00106,Login Issue,Medium,AG061,25.39,24,Resolved,False
+TKT00107,Billing,Critical,AG082,39.27,4,Resolved,False
+TKT00108,Domain Management,Critical,AG043,16.09,4,Resolved,False
+TKT00109,Domain Management,Critical,AG089,24.29,24,Open,False
+TKT00110,Login Issue,Critical,AG012,15.78,12,Resolved,False
+TKT00111,Hosting,Low,AG085,41.86,24,Resolved,False
+TKT00112,Login Issue,Medium,AG067,18.0,24,Resolved,True
+TKT00113,Login Issue,Medium,AG035,26.81,12,Resolved,False
+TKT00114,Email Support,Critical,AG016,2.36,8,Resolved,True
+TKT00115,Domain Management,Low,AG071,20.18,8,Resolved,False
+TKT00116,Hosting,Low,AG083,40.11,24,Resolved,False
+TKT00117,Website Builder,High,AG054,40.23,24,Resolved,False
+TKT00118,Hosting,Medium,AG050,9.96,8,Resolved,False
+TKT00119,Domain Management,Critical,AG044,44.91,12,Resolved,False
+TKT00120,Domain Management,High,AG076,28.26,24,Resolved,False
+TKT00121,Hosting,Critical,AG045,16.62,24,Resolved,True
+TKT00122,Domain Management,Medium,AG090,12.22,24,Resolved,True
+TKT00123,Hosting,Low,AG041,36.0,24,Resolved,False
+TKT00124,Email Support,Medium,AG064,46.35,8,Open,False
+TKT00125,Website Builder,High,AG013,42.09,24,Resolved,False
+TKT00126,Website Builder,Critical,AG002,34.95,24,Resolved,False
+TKT00127,Login Issue,Critical,AG034,16.91,24,Resolved,True
+TKT00128,Domain Management,Critical,AG041,30.46,24,Open,False
+TKT00129,Login Issue,Low,AG031,30.66,12,Resolved,False
+TKT00130,Email Support,Low,AG056,46.98,4,Resolved,False
+TKT00131,Billing,High,AG004,3.16,4,Resolved,True
+TKT00132,Domain Management,High,AG056,7.84,24,Open,True
+TKT00133,Email Support,Medium,AG022,9.23,24,Open,True
+TKT00134,Email Support,Medium,AG064,43.9,8,Resolved,False
+TKT00135,Hosting,High,AG059,13.0,4,Resolved,False
+TKT00136,Domain Management,Medium,AG010,21.76,12,Open,False
+TKT00137,Domain Management,Critical,AG089,12.75,12,Resolved,False
+TKT00138,Hosting,Critical,AG014,12.15,12,Open,False
+TKT00139,Domain Management,High,AG003,46.96,24,Resolved,False
+TKT00140,Login Issue,Low,AG078,36.02,12,Resolved,False
+TKT00141,Website Builder,High,AG029,30.92,12,Resolved,False
+TKT00142,Email Support,Low,AG081,31.38,12,Resolved,False
+TKT00143,Login Issue,High,AG094,7.18,12,Resolved,True
+TKT00144,Email Support,Critical,AG023,10.44,12,Open,True
+TKT00145,Website Builder,High,AG022,13.08,24,Resolved,True
+TKT00146,Email Support,High,AG015,23.01,4,Resolved,False
+TKT00147,Billing,Critical,AG072,18.19,24,Resolved,True
+TKT00148,Domain Management,Low,AG059,18.32,12,Open,False
+TKT00149,Hosting,High,AG014,32.72,24,Resolved,False
+TKT00150,Website Builder,High,AG079,11.4,4,Resolved,False
+TKT00151,Email Support,High,AG084,20.19,8,Resolved,False
+TKT00152,Login Issue,High,AG064,6.46,8,Open,True
+TKT00153,Billing,Critical,AG059,18.44,24,Open,True
+TKT00154,Email Support,Medium,AG054,31.78,24,Open,False
+TKT00155,Hosting,High,AG005,33.44,8,Resolved,False
+TKT00156,Hosting,Medium,AG047,5.67,12,Open,True
+TKT00157,Email Support,High,AG008,19.71,8,Resolved,False
+TKT00158,Hosting,Low,AG085,10.97,4,Resolved,False
+TKT00159,Domain Management,Medium,AG017,37.99,8,Resolved,False
+TKT00160,Website Builder,Medium,AG076,11.15,8,Resolved,False
+TKT00161,Billing,Low,AG036,41.35,8,Resolved,False
+TKT00162,Website Builder,High,AG023,6.17,4,Resolved,False
+TKT00163,Login Issue,High,AG031,28.68,4,Resolved,False
+TKT00164,Domain Management,Low,AG017,35.86,4,Resolved,False
+TKT00165,Hosting,Critical,AG100,18.02,4,Resolved,False
+TKT00166,Website Builder,Medium,AG079,3.04,12,Resolved,True
+TKT00167,Email Support,Low,AG008,47.93,24,Resolved,False
+TKT00168,Email Support,Low,AG063,34.48,24,Resolved,False
+TKT00169,Login Issue,High,AG078,7.97,8,Resolved,True
+TKT00170,Website Builder,High,AG049,47.75,12,Resolved,False
+TKT00171,Website Builder,Critical,AG013,38.28,4,Open,False
+TKT00172,Email Support,Medium,AG056,22.22,8,Resolved,False
+TKT00173,Domain Management,Critical,AG052,20.55,4,Resolved,False
+TKT00174,Hosting,High,AG086,12.98,8,Resolved,False
+TKT00175,Login Issue,Low,AG011,5.38,4,Resolved,False
+TKT00176,Billing,Low,AG076,45.96,12,Resolved,False
+TKT00177,Hosting,High,AG086,45.23,24,Resolved,False
+TKT00178,Domain Management,High,AG046,5.87,8,Resolved,True
+TKT00179,Email Support,Critical,AG029,40.82,12,Open,False
+TKT00180,Domain Management,Low,AG098,14.09,8,Resolved,False
+TKT00181,Website Builder,Low,AG078,44.67,12,Resolved,False
+TKT00182,Billing,High,AG090,36.83,12,Resolved,False
+TKT00183,Login Issue,Medium,AG019,27.62,24,Resolved,False
+TKT00184,Billing,Low,AG012,36.07,8,Resolved,False
+TKT00185,Hosting,Critical,AG044,8.4,12,Resolved,True
+TKT00186,Website Builder,Low,AG007,8.31,4,Resolved,False
+TKT00187,Domain Management,Critical,AG085,20.93,24,Resolved,True
+TKT00188,Domain Management,Medium,AG097,25.08,12,Resolved,False
+TKT00189,Login Issue,High,AG087,32.89,24,Open,False
+TKT00190,Email Support,High,AG006,11.36,4,Resolved,False
+TKT00191,Billing,High,AG028,37.07,12,Resolved,False
+TKT00192,Domain Management,Low,AG001,24.38,24,Resolved,False
+TKT00193,Billing,Critical,AG069,34.07,12,Resolved,False
+TKT00194,Hosting,Low,AG056,1.88,4,Resolved,True
+TKT00195,Website Builder,Critical,AG074,20.01,24,Resolved,True
+TKT00196,Login Issue,Critical,AG003,46.41,8,Open,False
+TKT00197,Hosting,High,AG012,21.53,4,Resolved,False
+TKT00198,Hosting,Critical,AG068,4.7,12,Resolved,True
+TKT00199,Billing,High,AG100,8.9,4,Open,False
+TKT00200,Website Builder,Medium,AG100,17.42,8,Resolved,False
+TKT00201,Login Issue,Medium,AG033,10.27,8,Resolved,False
+TKT00202,Billing,Critical,AG060,36.46,24,Open,False
+TKT00203,Email Support,High,AG081,15.86,24,Resolved,True
+TKT00204,Hosting,Critical,AG081,15.23,12,Open,False
+TKT00205,Login Issue,High,AG065,4.49,24,Resolved,True
+TKT00206,Login Issue,Low,AG048,40.09,4,Resolved,False
+TKT00207,Website Builder,Critical,AG060,28.28,4,Resolved,False
+TKT00208,Website Builder,Medium,AG042,29.44,8,Resolved,False
+TKT00209,Hosting,Low,AG044,47.17,4,Open,False
+TKT00210,Email Support,Medium,AG006,12.64,24,Resolved,True
+TKT00211,Website Builder,Medium,AG047,18.52,12,Resolved,False
+TKT00212,Hosting,High,AG087,29.1,12,Resolved,False
+TKT00213,Domain Management,Low,AG072,32.88,12,Resolved,False
+TKT00214,Email Support,Medium,AG043,4.83,8,Resolved,True
+TKT00215,Domain Management,Critical,AG017,28.97,4,Resolved,False
+TKT00216,Website Builder,Critical,AG083,38.21,8,Open,False
+TKT00217,Login Issue,Critical,AG066,18.01,12,Resolved,False
+TKT00218,Billing,Medium,AG044,45.54,24,Resolved,False
+TKT00219,Billing,Medium,AG020,4.63,4,Open,False
+TKT00220,Website Builder,Low,AG085,16.83,8,Open,False
+TKT00221,Hosting,Medium,AG021,9.5,8,Resolved,False
+TKT00222,Login Issue,Critical,AG047,32.79,8,Resolved,False
+TKT00223,Website Builder,High,AG097,36.18,24,Resolved,False
+TKT00224,Website Builder,Medium,AG040,46.38,24,Resolved,False
+TKT00225,Domain Management,Critical,AG060,37.16,24,Open,False
+TKT00226,Website Builder,Critical,AG021,39.39,8,Resolved,False
+TKT00227,Login Issue,Critical,AG048,27.06,4,Open,False
+TKT00228,Login Issue,High,AG011,36.87,12,Resolved,False
+TKT00229,Website Builder,Medium,AG056,5.31,8,Resolved,True
+TKT00230,Domain Management,Low,AG054,3.5,12,Resolved,True
+TKT00231,Hosting,Low,AG048,11.55,12,Resolved,True
+TKT00232,Email Support,High,AG019,7.47,12,Resolved,True
+TKT00233,Email Support,Medium,AG098,34.16,24,Open,False
+TKT00234,Login Issue,Low,AG003,13.03,8,Open,False
+TKT00235,Email Support,Critical,AG015,37.48,8,Resolved,False
+TKT00236,Login Issue,Low,AG031,20.73,24,Resolved,True
+TKT00237,Login Issue,Critical,AG077,26.19,8,Resolved,False
+TKT00238,Domain Management,Critical,AG001,29.9,8,Open,False
+TKT00239,Hosting,Medium,AG086,32.41,12,Resolved,False
+TKT00240,Website Builder,Low,AG050,42.05,4,Resolved,False
+TKT00241,Domain Management,High,AG096,1.76,4,Resolved,True
+TKT00242,Billing,Low,AG099,28.35,12,Resolved,False
+TKT00243,Login Issue,High,AG070,16.91,8,Resolved,False
+TKT00244,Email Support,Critical,AG081,9.57,8,Resolved,False
+TKT00245,Email Support,Critical,AG005,14.79,4,Resolved,False
+TKT00246,Login Issue,High,AG040,25.22,24,Resolved,False
+TKT00247,Login Issue,Medium,AG037,17.78,4,Resolved,False
+TKT00248,Domain Management,Low,AG048,21.54,24,Resolved,True
+TKT00249,Hosting,High,AG024,24.32,24,Resolved,False
+TKT00250,Website Builder,High,AG011,35.17,4,Resolved,False
+TKT00251,Website Builder,Medium,AG070,14.81,4,Resolved,False
+TKT00252,Domain Management,High,AG040,21.96,24,Resolved,True
+TKT00253,Email Support,Critical,AG045,22.02,12,Open,False
+TKT00254,Hosting,High,AG082,47.06,4,Resolved,False
+TKT00255,Email Support,Critical,AG047,25.12,8,Resolved,False
+TKT00256,Billing,Critical,AG005,6.93,8,Resolved,True
+TKT00257,Domain Management,Critical,AG073,2.52,8,Resolved,True
+TKT00258,Domain Management,High,AG057,36.86,8,Open,False
+TKT00259,Domain Management,Critical,AG041,31.53,8,Resolved,False
+TKT00260,Login Issue,Medium,AG064,25.33,4,Resolved,False
+TKT00261,Domain Management,Critical,AG028,47.83,12,Resolved,False
+TKT00262,Billing,Low,AG018,41.08,24,Resolved,False
+TKT00263,Email Support,Critical,AG012,39.09,12,Resolved,False
+TKT00264,Email Support,Low,AG071,26.48,12,Resolved,False
+TKT00265,Email Support,Medium,AG047,24.91,4,Resolved,False
+TKT00266,Billing,Medium,AG064,2.24,12,Resolved,True
+TKT00267,Website Builder,Medium,AG079,42.56,4,Resolved,False
+TKT00268,Hosting,Critical,AG068,20.31,24,Open,True
+TKT00269,Login Issue,Medium,AG041,31.19,24,Resolved,False
+TKT00270,Email Support,High,AG017,42.26,8,Resolved,False
+TKT00271,Hosting,Low,AG016,25.35,12,Resolved,False
+TKT00272,Billing,High,AG091,11.6,12,Resolved,True
+TKT00273,Domain Management,Medium,AG082,45.95,12,Resolved,False
+TKT00274,Email Support,High,AG079,26.07,8,Open,False
+TKT00275,Website Builder,Medium,AG022,31.96,12,Open,False
+TKT00276,Login Issue,Low,AG011,3.14,12,Resolved,True
+TKT00277,Website Builder,Critical,AG080,31.03,24,Open,False
+TKT00278,Domain Management,High,AG062,12.51,24,Resolved,True
+TKT00279,Hosting,Low,AG089,3.82,24,Resolved,True
+TKT00280,Hosting,Critical,AG027,16.99,8,Resolved,False
+TKT00281,Email Support,High,AG094,47.44,12,Resolved,False
+TKT00282,Billing,High,AG066,27.4,12,Resolved,False
+TKT00283,Hosting,Low,AG035,22.13,8,Resolved,False
+TKT00284,Login Issue,High,AG050,41.62,24,Resolved,False
+TKT00285,Billing,High,AG074,34.89,8,Resolved,False
+TKT00286,Hosting,Critical,AG064,42.32,24,Resolved,False
+TKT00287,Login Issue,Critical,AG065,22.49,8,Resolved,False
+TKT00288,Website Builder,High,AG007,3.38,24,Open,True
+TKT00289,Email Support,Critical,AG037,26.22,4,Resolved,False
+TKT00290,Billing,High,AG094,18.19,24,Resolved,True
+TKT00291,Login Issue,Critical,AG007,27.8,8,Resolved,False
+TKT00292,Website Builder,High,AG010,19.16,24,Open,True
+TKT00293,Domain Management,Low,AG017,46.83,24,Resolved,False
+TKT00294,Domain Management,High,AG097,7.78,24,Open,True
+TKT00295,Login Issue,Low,AG005,7.44,12,Resolved,True
+TKT00296,Website Builder,Critical,AG020,29.49,8,Resolved,False
+TKT00297,Website Builder,High,AG021,19.47,12,Open,False
+TKT00298,Domain Management,Critical,AG091,27.46,24,Resolved,False
+TKT00299,Domain Management,High,AG087,6.15,24,Open,True
+TKT00300,Domain Management,Low,AG077,23.31,8,Resolved,False
+TKT00301,Website Builder,Critical,AG022,25.64,24,Resolved,False
+TKT00302,Email Support,Medium,AG005,27.91,4,Resolved,False
+TKT00303,Login Issue,Critical,AG041,20.68,24,Resolved,True
+TKT00304,Hosting,Critical,AG095,35.19,8,Open,False
+TKT00305,Billing,High,AG085,23.48,24,Resolved,True
+TKT00306,Billing,Critical,AG069,17.09,12,Resolved,False
+TKT00307,Website Builder,Critical,AG025,45.99,12,Open,False
+TKT00308,Domain Management,Medium,AG039,37.25,8,Resolved,False
+TKT00309,Domain Management,Critical,AG045,27.34,12,Resolved,False
+TKT00310,Login Issue,Critical,AG051,39.46,8,Resolved,False
+TKT00311,Login Issue,High,AG092,4.71,24,Resolved,True
+TKT00312,Email Support,Critical,AG028,10.5,12,Open,True
+TKT00313,Email Support,High,AG018,6.13,8,Resolved,True
+TKT00314,Login Issue,Medium,AG082,11.94,4,Resolved,False
+TKT00315,Domain Management,Critical,AG013,33.02,8,Resolved,False
+TKT00316,Website Builder,Medium,AG053,31.69,24,Resolved,False
+TKT00317,Email Support,Medium,AG097,46.3,12,Resolved,False
+TKT00318,Email Support,Low,AG099,5.2,8,Open,True
+TKT00319,Email Support,Low,AG023,20.64,8,Resolved,False
+TKT00320,Hosting,Critical,AG024,45.02,12,Resolved,False
+TKT00321,Login Issue,High,AG073,29.33,12,Resolved,False
+TKT00322,Hosting,Critical,AG018,41.0,24,Resolved,False
+TKT00323,Billing,Low,AG043,8.64,24,Resolved,True
+TKT00324,Email Support,Medium,AG002,35.62,12,Open,False
+TKT00325,Email Support,Medium,AG023,29.71,24,Resolved,False
+TKT00326,Website Builder,High,AG012,19.84,4,Resolved,False
+TKT00327,Billing,Critical,AG042,44.98,4,Resolved,False
+TKT00328,Hosting,Medium,AG058,36.43,12,Resolved,False
+TKT00329,Website Builder,Low,AG034,31.72,8,Resolved,False
+TKT00330,Email Support,Low,AG060,15.42,24,Open,True
+TKT00331,Email Support,High,AG089,6.52,12,Resolved,True
+TKT00332,Website Builder,Medium,AG029,46.0,24,Resolved,False
+TKT00333,Hosting,High,AG054,33.99,24,Open,False
+TKT00334,Email Support,Medium,AG098,12.63,4,Open,False
+TKT00335,Hosting,High,AG010,44.11,4,Resolved,False
+TKT00336,Website Builder,Medium,AG074,26.22,8,Resolved,False
+TKT00337,Website Builder,Critical,AG015,32.97,24,Resolved,False
+TKT00338,Website Builder,Critical,AG008,22.31,24,Resolved,True
+TKT00339,Website Builder,Low,AG072,22.73,12,Resolved,False
+TKT00340,Hosting,High,AG001,36.05,4,Resolved,False
+TKT00341,Hosting,High,AG090,4.0,4,Resolved,True
+TKT00342,Hosting,Low,AG037,20.22,8,Resolved,False
+TKT00343,Domain Management,Critical,AG058,41.87,24,Resolved,False
+TKT00344,Login Issue,Medium,AG084,41.43,4,Resolved,False
+TKT00345,Website Builder,Critical,AG068,6.99,8,Resolved,True
+TKT00346,Login Issue,High,AG060,32.65,24,Open,False
+TKT00347,Hosting,Medium,AG032,22.65,8,Resolved,False
+TKT00348,Billing,Low,AG005,39.05,24,Open,False
+TKT00349,Login Issue,Medium,AG027,4.16,4,Resolved,False
+TKT00350,Website Builder,Low,AG032,35.81,24,Resolved,False
+TKT00351,Billing,Medium,AG097,41.6,4,Resolved,False
+TKT00352,Website Builder,High,AG030,39.34,12,Open,False
+TKT00353,Website Builder,High,AG031,15.18,8,Open,False
+TKT00354,Billing,Critical,AG039,13.93,8,Resolved,False
+TKT00355,Website Builder,Critical,AG007,46.7,24,Open,False
+TKT00356,Domain Management,Critical,AG053,8.01,24,Resolved,True
+TKT00357,Website Builder,Critical,AG031,40.92,12,Resolved,False
+TKT00358,Hosting,Low,AG072,20.4,24,Open,True
+TKT00359,Website Builder,Medium,AG050,12.41,8,Resolved,False
+TKT00360,Email Support,Low,AG058,40.82,4,Open,False
+TKT00361,Email Support,Medium,AG007,13.62,4,Resolved,False
+TKT00362,Billing,Medium,AG062,10.82,12,Resolved,True
+TKT00363,Login Issue,Medium,AG025,46.22,4,Resolved,False
+TKT00364,Billing,Medium,AG051,44.01,12,Resolved,False
+TKT00365,Hosting,Critical,AG069,31.49,12,Resolved,False
+TKT00366,Domain Management,Critical,AG060,5.63,24,Resolved,True
+TKT00367,Billing,High,AG041,20.45,8,Resolved,False
+TKT00368,Login Issue,High,AG071,44.93,24,Resolved,False
+TKT00369,Billing,Medium,AG043,11.81,8,Resolved,False
+TKT00370,Website Builder,High,AG033,36.88,24,Resolved,False
+TKT00371,Hosting,Medium,AG094,38.36,8,Resolved,False
+TKT00372,Email Support,Critical,AG024,44.09,4,Open,False
+TKT00373,Login Issue,Low,AG086,3.28,4,Resolved,True
+TKT00374,Billing,Medium,AG009,34.24,4,Resolved,False
+TKT00375,Website Builder,Critical,AG048,3.84,24,Resolved,True
+TKT00376,Login Issue,Low,AG069,26.93,4,Resolved,False
+TKT00377,Website Builder,High,AG069,46.94,4,Open,False
+TKT00378,Email Support,Critical,AG023,6.03,4,Open,False
+TKT00379,Billing,Medium,AG025,30.13,12,Resolved,False
+TKT00380,Domain Management,Critical,AG011,18.53,24,Resolved,True
+TKT00381,Website Builder,Medium,AG090,11.62,4,Resolved,False
+TKT00382,Login Issue,Critical,AG049,18.73,24,Resolved,True
+TKT00383,Email Support,Low,AG090,9.06,24,Resolved,True
+TKT00384,Email Support,High,AG073,46.93,4,Open,False
+TKT00385,Login Issue,Medium,AG028,43.36,24,Resolved,False
+TKT00386,Login Issue,Low,AG088,44.5,4,Resolved,False
+TKT00387,Domain Management,Low,AG027,28.59,24,Resolved,False
+TKT00388,Domain Management,Medium,AG073,12.3,24,Open,True
+TKT00389,Domain Management,Critical,AG097,35.77,4,Open,False
+TKT00390,Email Support,High,AG007,5.59,8,Resolved,True
+TKT00391,Domain Management,Critical,AG100,16.34,12,Resolved,False
+TKT00392,Hosting,Medium,AG046,26.99,24,Resolved,False
+TKT00393,Billing,Critical,AG011,37.29,12,Resolved,False
+TKT00394,Email Support,Low,AG011,13.59,24,Resolved,True
+TKT00395,Email Support,Critical,AG041,17.95,4,Resolved,False
+TKT00396,Domain Management,Critical,AG047,36.78,4,Resolved,False
+TKT00397,Login Issue,Medium,AG056,22.1,24,Resolved,True
+TKT00398,Login Issue,Low,AG046,27.05,12,Resolved,False
+TKT00399,Login Issue,High,AG053,19.23,4,Open,False
+TKT00400,Billing,Medium,AG088,18.89,8,Resolved,False
+TKT00401,Domain Management,High,AG064,7.86,8,Resolved,True
+TKT00402,Domain Management,Critical,AG039,23.76,4,Resolved,False
+TKT00403,Domain Management,Medium,AG093,30.38,8,Resolved,False
+TKT00404,Login Issue,Medium,AG039,1.32,24,Resolved,True
+TKT00405,Website Builder,Critical,AG043,21.69,24,Open,True
+TKT00406,Billing,High,AG042,29.35,8,Resolved,False
+TKT00407,Domain Management,Medium,AG051,46.53,12,Resolved,False
+TKT00408,Website Builder,Medium,AG042,18.67,24,Resolved,True
+TKT00409,Login Issue,Medium,AG076,47.87,8,Open,False
+TKT00410,Login Issue,Critical,AG091,10.85,12,Resolved,True
+TKT00411,Hosting,Critical,AG018,30.77,8,Resolved,False
+TKT00412,Email Support,Medium,AG092,20.89,24,Resolved,True
+TKT00413,Hosting,Critical,AG075,19.84,24,Open,True
+TKT00414,Login Issue,High,AG090,43.09,4,Resolved,False
+TKT00415,Billing,High,AG022,31.41,4,Open,False
+TKT00416,Email Support,Critical,AG097,16.59,24,Resolved,True
+TKT00417,Login Issue,Low,AG034,11.43,8,Resolved,False
+TKT00418,Domain Management,Critical,AG060,37.3,8,Resolved,False
+TKT00419,Login Issue,Critical,AG014,14.89,4,Resolved,False
+TKT00420,Email Support,Medium,AG045,15.66,24,Resolved,True
+TKT00421,Website Builder,Critical,AG045,23.38,24,Resolved,True
+TKT00422,Domain Management,Low,AG039,3.1,4,Resolved,True
+TKT00423,Domain Management,Low,AG087,38.6,8,Open,False
+TKT00424,Billing,Medium,AG043,27.31,24,Resolved,False
+TKT00425,Hosting,Medium,AG024,31.1,24,Resolved,False
+TKT00426,Login Issue,Medium,AG058,28.83,24,Resolved,False
+TKT00427,Email Support,Medium,AG027,14.08,4,Open,False
+TKT00428,Login Issue,Medium,AG047,16.32,24,Resolved,True
+TKT00429,Domain Management,Critical,AG068,46.4,12,Open,False
+TKT00430,Hosting,Critical,AG076,6.37,12,Resolved,True
+TKT00431,Website Builder,Medium,AG087,34.18,12,Open,False
+TKT00432,Website Builder,Low,AG087,7.3,4,Resolved,False
+TKT00433,Domain Management,Low,AG024,18.55,8,Open,False
+TKT00434,Hosting,Critical,AG077,7.48,24,Resolved,True
+TKT00435,Billing,Critical,AG082,26.26,8,Open,False
+TKT00436,Billing,Critical,AG037,7.59,12,Resolved,True
+TKT00437,Website Builder,Low,AG046,45.74,24,Resolved,False
+TKT00438,Billing,Critical,AG072,24.76,24,Resolved,False
+TKT00439,Email Support,Critical,AG054,34.38,24,Resolved,False
+TKT00440,Billing,Low,AG073,2.45,8,Resolved,True
+TKT00441,Login Issue,High,AG029,26.27,8,Resolved,False
+TKT00442,Website Builder,Critical,AG071,25.01,4,Resolved,False
+TKT00443,Website Builder,High,AG070,39.66,4,Resolved,False
+TKT00444,Website Builder,Medium,AG055,5.81,8,Resolved,True
+TKT00445,Login Issue,Critical,AG034,17.38,4,Resolved,False
+TKT00446,Login Issue,Medium,AG027,39.1,12,Open,False
+TKT00447,Email Support,Critical,AG022,29.96,8,Resolved,False
+TKT00448,Login Issue,High,AG069,14.21,8,Resolved,False
+TKT00449,Email Support,High,AG038,27.92,4,Resolved,False
+TKT00450,Hosting,Low,AG036,41.75,8,Resolved,False
+TKT00451,Billing,Medium,AG092,16.14,8,Resolved,False
+TKT00452,Hosting,Medium,AG074,30.72,24,Resolved,False
+TKT00453,Hosting,Low,AG082,38.35,4,Resolved,False
+TKT00454,Website Builder,High,AG089,45.01,12,Resolved,False
+TKT00455,Hosting,High,AG075,1.12,4,Resolved,True
+TKT00456,Email Support,High,AG009,38.4,24,Resolved,False
+TKT00457,Hosting,Medium,AG064,13.62,12,Resolved,False
+TKT00458,Website Builder,Medium,AG073,41.06,12,Resolved,False
+TKT00459,Login Issue,Low,AG081,37.84,24,Resolved,False
+TKT00460,Login Issue,Medium,AG057,22.46,24,Resolved,True
+TKT00461,Email Support,Medium,AG084,15.19,12,Resolved,False
+TKT00462,Email Support,High,AG033,4.87,8,Resolved,True
+TKT00463,Hosting,High,AG093,33.87,8,Resolved,False
+TKT00464,Email Support,Low,AG091,5.47,8,Resolved,True
+TKT00465,Login Issue,Medium,AG076,11.63,24,Resolved,True
+TKT00466,Login Issue,High,AG016,47.44,24,Resolved,False
+TKT00467,Hosting,Low,AG030,19.0,4,Resolved,False
+TKT00468,Domain Management,High,AG039,7.45,8,Resolved,True
+TKT00469,Login Issue,Low,AG079,31.55,24,Resolved,False
+TKT00470,Email Support,Medium,AG081,36.17,24,Open,False
+TKT00471,Email Support,Critical,AG028,5.07,4,Resolved,False
+TKT00472,Login Issue,Critical,AG045,46.27,12,Resolved,False
+TKT00473,Billing,High,AG083,4.96,12,Resolved,True
+TKT00474,Email Support,High,AG027,25.33,8,Resolved,False
+TKT00475,Domain Management,Low,AG031,24.26,4,Resolved,False
+TKT00476,Hosting,Low,AG068,42.77,4,Resolved,False
+TKT00477,Domain Management,Medium,AG050,41.46,24,Resolved,False
+TKT00478,Website Builder,Medium,AG098,23.14,4,Resolved,False
+TKT00479,Website Builder,Low,AG002,13.32,4,Resolved,False
+TKT00480,Hosting,High,AG081,34.49,24,Resolved,False
+TKT00481,Email Support,Critical,AG011,31.11,8,Resolved,False
+TKT00482,Login Issue,High,AG011,25.03,8,Resolved,False
+TKT00483,Website Builder,High,AG051,28.56,4,Resolved,False
+TKT00484,Email Support,Critical,AG094,45.81,8,Resolved,False
+TKT00485,Billing,Low,AG056,6.45,4,Resolved,False
+TKT00486,Email Support,Medium,AG016,1.6,8,Resolved,True
+TKT00487,Billing,Critical,AG045,25.58,12,Resolved,False
+TKT00488,Domain Management,Medium,AG096,37.71,12,Resolved,False
+TKT00489,Login Issue,High,AG055,13.78,4,Resolved,False
+TKT00490,Email Support,Low,AG064,22.39,12,Resolved,False
+TKT00491,Hosting,Medium,AG048,8.39,4,Open,False
+TKT00492,Email Support,Low,AG030,35.82,4,Resolved,False
+TKT00493,Login Issue,Medium,AG006,23.17,24,Resolved,True
+TKT00494,Billing,Low,AG071,38.75,24,Resolved,False
+TKT00495,Domain Management,Medium,AG054,44.05,12,Resolved,False
+TKT00496,Login Issue,High,AG016,24.6,4,Resolved,False
+TKT00497,Billing,Low,AG052,4.24,24,Resolved,True
+TKT00498,Domain Management,High,AG012,27.0,4,Resolved,False
+TKT00499,Billing,High,AG073,37.87,8,Resolved,False
+TKT00500,Domain Management,Critical,AG099,37.47,8,Resolved,False
+TKT00501,Login Issue,Critical,AG004,11.95,12,Resolved,True
+TKT00502,Domain Management,Low,AG098,31.89,12,Resolved,False
+TKT00503,Billing,Medium,AG054,24.13,4,Resolved,False
+TKT00504,Email Support,High,AG012,3.06,8,Open,True
+TKT00505,Hosting,High,AG059,46.8,4,Open,False
+TKT00506,Login Issue,Medium,AG082,39.54,4,Open,False
+TKT00507,Website Builder,Low,AG056,32.13,8,Resolved,False
+TKT00508,Domain Management,High,AG041,44.52,24,Resolved,False
+TKT00509,Domain Management,Critical,AG035,11.98,8,Resolved,False
+TKT00510,Website Builder,Low,AG020,5.97,24,Resolved,True
+TKT00511,Domain Management,Critical,AG016,26.19,8,Resolved,False
+TKT00512,Domain Management,Critical,AG034,41.07,4,Resolved,False
+TKT00513,Email Support,High,AG091,33.75,4,Resolved,False
+TKT00514,Domain Management,Medium,AG012,34.42,12,Resolved,False
+TKT00515,Website Builder,Low,AG087,15.05,8,Resolved,False
+TKT00516,Hosting,Critical,AG072,36.16,8,Resolved,False
+TKT00517,Hosting,Low,AG018,6.71,4,Resolved,False
+TKT00518,Billing,Medium,AG052,18.5,4,Open,False
+TKT00519,Website Builder,High,AG010,2.02,4,Resolved,True
+TKT00520,Email Support,Critical,AG017,5.32,12,Resolved,True
+TKT00521,Login Issue,Critical,AG007,8.9,24,Resolved,True
+TKT00522,Hosting,Low,AG049,33.11,8,Resolved,False
+TKT00523,Billing,Medium,AG036,14.15,8,Resolved,False
+TKT00524,Website Builder,Medium,AG083,14.87,24,Open,True
+TKT00525,Hosting,Low,AG012,14.15,8,Resolved,False
+TKT00526,Billing,Medium,AG081,47.72,4,Resolved,False
+TKT00527,Email Support,High,AG062,26.59,24,Resolved,False
+TKT00528,Website Builder,High,AG050,13.71,4,Resolved,False
+TKT00529,Website Builder,Medium,AG004,43.1,12,Resolved,False
+TKT00530,Hosting,High,AG099,28.45,8,Resolved,False
+TKT00531,Login Issue,Medium,AG085,12.33,4,Resolved,False
+TKT00532,Website Builder,Critical,AG046,44.95,8,Resolved,False
+TKT00533,Billing,High,AG095,33.79,4,Resolved,False
+TKT00534,Website Builder,Medium,AG073,45.57,24,Open,False
+TKT00535,Domain Management,Medium,AG063,2.78,4,Resolved,True
+TKT00536,Website Builder,Medium,AG003,25.74,4,Resolved,False
+TKT00537,Website Builder,Medium,AG017,17.02,8,Resolved,False
+TKT00538,Login Issue,Low,AG019,28.57,8,Resolved,False
+TKT00539,Website Builder,High,AG010,18.56,24,Open,True
+TKT00540,Login Issue,High,AG039,16.16,8,Resolved,False
+TKT00541,Email Support,Critical,AG084,15.91,12,Resolved,False
+TKT00542,Email Support,Medium,AG049,15.42,12,Resolved,False
+TKT00543,Billing,Low,AG090,45.59,24,Open,False
+TKT00544,Login Issue,Medium,AG078,15.96,8,Open,False
+TKT00545,Login Issue,Critical,AG019,16.56,4,Resolved,False
+TKT00546,Domain Management,High,AG022,30.9,4,Resolved,False
+TKT00547,Hosting,Low,AG034,10.86,4,Resolved,False
+TKT00548,Domain Management,Low,AG093,1.06,24,Resolved,True
+TKT00549,Email Support,Critical,AG022,42.57,24,Resolved,False
+TKT00550,Domain Management,Critical,AG013,39.95,8,Resolved,False
+TKT00551,Hosting,Low,AG005,14.86,12,Resolved,False
+TKT00552,Login Issue,Low,AG044,8.99,24,Resolved,True
+TKT00553,Email Support,Low,AG071,45.27,4,Resolved,False
+TKT00554,Website Builder,Critical,AG091,2.46,8,Open,True
+TKT00555,Hosting,Medium,AG007,5.76,8,Resolved,True
+TKT00556,Hosting,High,AG085,14.23,8,Resolved,False
+TKT00557,Login Issue,Critical,AG074,26.83,24,Resolved,False
+TKT00558,Login Issue,High,AG001,21.1,12,Open,False
+TKT00559,Hosting,Medium,AG013,2.21,8,Resolved,True
+TKT00560,Login Issue,Critical,AG015,15.49,24,Resolved,True
+TKT00561,Hosting,High,AG012,31.17,24,Resolved,False
+TKT00562,Domain Management,Critical,AG048,9.77,4,Resolved,False
+TKT00563,Hosting,Critical,AG034,11.63,12,Open,True
+TKT00564,Login Issue,Medium,AG097,33.73,4,Resolved,False
+TKT00565,Email Support,High,AG070,20.46,8,Open,False
+TKT00566,Login Issue,Critical,AG067,20.68,24,Open,True
+TKT00567,Billing,Critical,AG039,4.71,4,Open,False
+TKT00568,Website Builder,Medium,AG016,45.61,24,Resolved,False
+TKT00569,Billing,Medium,AG025,6.93,24,Resolved,True
+TKT00570,Email Support,Critical,AG026,47.87,8,Open,False
+TKT00571,Domain Management,High,AG094,43.97,4,Resolved,False
+TKT00572,Hosting,Critical,AG071,16.33,12,Open,False
+TKT00573,Hosting,Low,AG090,30.28,24,Resolved,False
+TKT00574,Hosting,Medium,AG019,27.63,4,Resolved,False
+TKT00575,Website Builder,Low,AG037,41.77,12,Resolved,False
+TKT00576,Domain Management,Critical,AG084,23.82,24,Resolved,True
+TKT00577,Billing,High,AG052,7.76,24,Resolved,True
+TKT00578,Hosting,High,AG089,12.17,24,Resolved,True
+TKT00579,Domain Management,Low,AG044,39.42,12,Resolved,False
+TKT00580,Domain Management,Critical,AG090,33.19,8,Resolved,False
+TKT00581,Domain Management,Critical,AG100,39.81,12,Resolved,False
+TKT00582,Website Builder,Low,AG025,21.76,24,Resolved,True
+TKT00583,Website Builder,High,AG008,25.22,8,Resolved,False
+TKT00584,Domain Management,Critical,AG018,37.68,4,Resolved,False
+TKT00585,Billing,Medium,AG008,12.73,24,Resolved,True
+TKT00586,Domain Management,Medium,AG036,18.31,24,Open,True
+TKT00587,Hosting,Low,AG088,2.44,12,Resolved,True
+TKT00588,Website Builder,Critical,AG023,46.14,24,Open,False
+TKT00589,Website Builder,High,AG045,8.69,12,Resolved,True
+TKT00590,Domain Management,Low,AG050,3.33,8,Resolved,True
+TKT00591,Email Support,Medium,AG087,10.72,24,Open,True
+TKT00592,Login Issue,Low,AG061,43.84,8,Open,False
+TKT00593,Login Issue,Medium,AG033,29.59,12,Resolved,False
+TKT00594,Hosting,Critical,AG045,22.57,8,Resolved,False
+TKT00595,Domain Management,Critical,AG075,5.81,12,Open,True
+TKT00596,Email Support,High,AG039,33.17,24,Resolved,False
+TKT00597,Domain Management,High,AG082,16.28,12,Resolved,False
+TKT00598,Email Support,High,AG025,8.05,8,Resolved,False
+TKT00599,Website Builder,Critical,AG085,16.02,8,Resolved,False
+TKT00600,Email Support,Critical,AG038,13.19,24,Resolved,True
+TKT00601,Hosting,Low,AG075,34.28,8,Resolved,False
+TKT00602,Email Support,Medium,AG088,26.13,24,Resolved,False
+TKT00603,Website Builder,High,AG022,40.51,8,Resolved,False
+TKT00604,Login Issue,Critical,AG017,35.82,8,Resolved,False
+TKT00605,Email Support,Low,AG029,17.7,12,Resolved,False
+TKT00606,Domain Management,High,AG034,28.52,24,Resolved,False
+TKT00607,Hosting,Low,AG082,28.43,4,Resolved,False
+TKT00608,Billing,Low,AG088,18.94,12,Resolved,False
+TKT00609,Login Issue,Medium,AG018,47.64,12,Resolved,False
+TKT00610,Website Builder,Critical,AG019,15.87,8,Resolved,False
+TKT00611,Hosting,High,AG081,47.37,12,Resolved,False
+TKT00612,Login Issue,Critical,AG036,10.84,8,Open,False
+TKT00613,Billing,Critical,AG098,37.65,8,Open,False
+TKT00614,Hosting,Critical,AG052,21.16,24,Resolved,True
+TKT00615,Login Issue,Low,AG069,10.37,12,Resolved,True
+TKT00616,Domain Management,Medium,AG003,32.81,8,Resolved,False
+TKT00617,Email Support,High,AG040,7.06,24,Open,True
+TKT00618,Website Builder,High,AG022,4.07,4,Resolved,False
+TKT00619,Domain Management,Critical,AG094,25.45,12,Resolved,False
+TKT00620,Email Support,Medium,AG044,47.82,24,Resolved,False
+TKT00621,Billing,Medium,AG052,1.9,8,Resolved,True
+TKT00622,Billing,Low,AG076,24.72,4,Resolved,False
+TKT00623,Email Support,Low,AG049,42.2,12,Open,False
+TKT00624,Website Builder,Low,AG077,47.75,4,Resolved,False
+TKT00625,Login Issue,Low,AG054,21.88,4,Open,False
+TKT00626,Domain Management,Critical,AG090,8.2,4,Resolved,False
+TKT00627,Hosting,Low,AG085,25.45,8,Resolved,False
+TKT00628,Login Issue,Low,AG037,6.36,4,Resolved,False
+TKT00629,Billing,Medium,AG100,13.36,8,Resolved,False
+TKT00630,Email Support,Critical,AG038,8.54,24,Resolved,True
+TKT00631,Email Support,Critical,AG043,12.02,4,Resolved,False
+TKT00632,Login Issue,Critical,AG020,45.62,4,Resolved,False
+TKT00633,Domain Management,Medium,AG059,47.47,12,Resolved,False
+TKT00634,Hosting,Low,AG013,39.22,4,Resolved,False
+TKT00635,Domain Management,High,AG055,35.71,4,Resolved,False
+TKT00636,Login Issue,Medium,AG085,31.42,12,Resolved,False
+TKT00637,Hosting,High,AG094,5.37,12,Resolved,True
+TKT00638,Login Issue,Critical,AG052,46.23,12,Resolved,False
+TKT00639,Email Support,Critical,AG054,31.5,8,Resolved,False
+TKT00640,Billing,Low,AG021,5.87,24,Open,True
+TKT00641,Email Support,Critical,AG024,29.73,12,Open,False
+TKT00642,Login Issue,Medium,AG062,44.26,4,Resolved,False
+TKT00643,Hosting,Low,AG009,13.3,12,Resolved,False
+TKT00644,Email Support,Medium,AG086,42.04,4,Resolved,False
+TKT00645,Email Support,Medium,AG062,17.25,24,Resolved,True
+TKT00646,Website Builder,Low,AG002,31.24,8,Open,False
+TKT00647,Hosting,Critical,AG022,4.52,24,Resolved,True
+TKT00648,Billing,High,AG036,3.37,8,Open,True
+TKT00649,Email Support,Critical,AG052,39.4,4,Resolved,False
+TKT00650,Hosting,Critical,AG012,41.26,24,Resolved,False
+TKT00651,Login Issue,Critical,AG096,31.71,4,Resolved,False
+TKT00652,Hosting,Low,AG072,26.81,4,Open,False
+TKT00653,Website Builder,High,AG066,27.43,24,Resolved,False
+TKT00654,Domain Management,Low,AG029,40.68,12,Open,False
+TKT00655,Website Builder,Critical,AG092,31.89,24,Resolved,False
+TKT00656,Login Issue,Medium,AG001,17.04,12,Open,False
+TKT00657,Website Builder,High,AG090,6.0,8,Resolved,True
+TKT00658,Billing,Critical,AG014,12.95,8,Resolved,False
+TKT00659,Login Issue,Critical,AG028,22.48,8,Resolved,False
+TKT00660,Login Issue,Critical,AG006,44.55,4,Resolved,False
+TKT00661,Hosting,Medium,AG064,1.2,4,Open,True
+TKT00662,Hosting,Critical,AG066,37.71,8,Open,False
+TKT00663,Billing,Medium,AG014,19.21,12,Open,False
+TKT00664,Hosting,Critical,AG078,44.05,8,Resolved,False
+TKT00665,Hosting,High,AG038,22.28,8,Resolved,False
+TKT00666,Hosting,High,AG090,26.75,12,Open,False
+TKT00667,Email Support,Medium,AG026,10.86,12,Resolved,True
+TKT00668,Email Support,Medium,AG091,31.55,8,Open,False
+TKT00669,Website Builder,High,AG091,6.42,12,Open,True
+TKT00670,Hosting,Critical,AG087,36.15,12,Resolved,False
+TKT00671,Login Issue,Low,AG004,18.9,4,Resolved,False
+TKT00672,Billing,High,AG097,37.92,12,Resolved,False
+TKT00673,Billing,Low,AG089,37.86,8,Open,False
+TKT00674,Login Issue,High,AG058,5.82,8,Open,True
+TKT00675,Hosting,Medium,AG066,37.86,12,Resolved,False
+TKT00676,Hosting,Critical,AG054,45.96,12,Open,False
+TKT00677,Login Issue,Low,AG096,12.81,24,Resolved,True
+TKT00678,Email Support,High,AG097,28.65,8,Resolved,False
+TKT00679,Domain Management,Critical,AG023,47.22,4,Resolved,False
+TKT00680,Billing,Low,AG049,2.91,12,Open,True
+TKT00681,Domain Management,Medium,AG021,28.45,12,Resolved,False
+TKT00682,Domain Management,Critical,AG091,45.06,4,Resolved,False
+TKT00683,Domain Management,Low,AG100,44.82,12,Resolved,False
+TKT00684,Website Builder,High,AG010,37.85,12,Open,False
+TKT00685,Billing,Medium,AG067,4.2,8,Resolved,True
+TKT00686,Website Builder,Critical,AG012,17.42,8,Resolved,False
+TKT00687,Domain Management,High,AG038,11.27,24,Open,True
+TKT00688,Email Support,Low,AG015,32.44,24,Resolved,False
+TKT00689,Email Support,Medium,AG006,33.08,12,Resolved,False
+TKT00690,Login Issue,Critical,AG033,26.39,12,Resolved,False
+TKT00691,Website Builder,High,AG066,38.73,24,Resolved,False
+TKT00692,Login Issue,High,AG084,10.05,4,Resolved,False
+TKT00693,Billing,Low,AG081,4.08,8,Resolved,True
+TKT00694,Login Issue,Medium,AG069,39.95,24,Resolved,False
+TKT00695,Email Support,Medium,AG004,22.58,12,Resolved,False
+TKT00696,Login Issue,Low,AG007,9.37,12,Open,True
+TKT00697,Login Issue,Medium,AG034,20.16,24,Resolved,True
+TKT00698,Hosting,High,AG003,19.31,4,Open,False
+TKT00699,Login Issue,Low,AG097,36.06,4,Resolved,False
+TKT00700,Domain Management,Low,AG038,37.98,12,Open,False
+TKT00701,Login Issue,High,AG098,44.55,24,Resolved,False
+TKT00702,Email Support,Low,AG061,8.35,8,Resolved,False
+TKT00703,Email Support,Critical,AG070,14.86,8,Resolved,False
+TKT00704,Email Support,High,AG002,27.02,8,Resolved,False
+TKT00705,Login Issue,Low,AG074,29.04,4,Resolved,False
+TKT00706,Billing,High,AG028,20.39,8,Resolved,False
+TKT00707,Billing,Medium,AG079,40.23,8,Resolved,False
+TKT00708,Billing,Low,AG097,44.82,24,Open,False
+TKT00709,Login Issue,High,AG086,4.17,4,Resolved,False
+TKT00710,Email Support,Critical,AG043,17.79,8,Resolved,False
+TKT00711,Domain Management,Low,AG025,15.94,24,Resolved,True
+TKT00712,Website Builder,High,AG089,28.46,12,Resolved,False
+TKT00713,Hosting,Medium,AG001,15.72,8,Resolved,False
+TKT00714,Domain Management,High,AG018,32.94,12,Resolved,False
+TKT00715,Hosting,Critical,AG046,37.41,24,Open,False
+TKT00716,Login Issue,Medium,AG083,29.51,12,Resolved,False
+TKT00717,Website Builder,Medium,AG034,35.48,4,Resolved,False
+TKT00718,Login Issue,Low,AG075,28.21,8,Resolved,False
+TKT00719,Website Builder,High,AG070,43.02,24,Resolved,False
+TKT00720,Domain Management,Critical,AG029,42.9,12,Resolved,False
+TKT00721,Hosting,Low,AG051,18.1,4,Resolved,False
+TKT00722,Website Builder,Medium,AG097,25.16,24,Resolved,False
+TKT00723,Billing,Medium,AG095,35.4,12,Resolved,False
+TKT00724,Billing,Critical,AG030,3.95,12,Resolved,True
+TKT00725,Login Issue,Medium,AG067,43.66,12,Resolved,False
+TKT00726,Hosting,Critical,AG006,2.88,12,Resolved,True
+TKT00727,Email Support,High,AG095,13.38,8,Resolved,False
+TKT00728,Email Support,Critical,AG047,28.62,4,Open,False
+TKT00729,Domain Management,Critical,AG029,25.27,12,Resolved,False
+TKT00730,Hosting,Critical,AG078,1.31,8,Resolved,True
+TKT00731,Billing,Medium,AG010,25.18,12,Resolved,False
+TKT00732,Billing,Medium,AG021,18.02,4,Resolved,False
+TKT00733,Hosting,High,AG093,6.33,24,Resolved,True
+TKT00734,Billing,Medium,AG083,40.17,4,Resolved,False
+TKT00735,Login Issue,Medium,AG074,28.84,8,Open,False
+TKT00736,Login Issue,Medium,AG008,8.82,8,Open,False
+TKT00737,Hosting,Low,AG093,35.21,12,Resolved,False
+TKT00738,Billing,Critical,AG078,47.66,24,Resolved,False
+TKT00739,Billing,Critical,AG077,7.71,8,Open,True
+TKT00740,Email Support,High,AG022,35.04,12,Resolved,False
+TKT00741,Website Builder,Low,AG030,18.78,8,Resolved,False
+TKT00742,Login Issue,Medium,AG067,41.4,24,Resolved,False
+TKT00743,Website Builder,Low,AG023,23.37,4,Open,False
+TKT00744,Website Builder,Low,AG012,23.67,8,Open,False
+TKT00745,Website Builder,Low,AG100,32.89,24,Open,False
+TKT00746,Hosting,High,AG006,33.79,24,Resolved,False
+TKT00747,Hosting,Critical,AG045,28.69,4,Resolved,False
+TKT00748,Billing,High,AG062,37.0,4,Resolved,False
+TKT00749,Website Builder,Critical,AG033,9.88,4,Open,False
+TKT00750,Website Builder,Low,AG067,1.34,8,Resolved,True
+TKT00751,Hosting,High,AG014,8.27,12,Resolved,True
+TKT00752,Website Builder,Critical,AG073,18.19,12,Resolved,False
+TKT00753,Billing,Critical,AG071,37.84,24,Resolved,False
+TKT00754,Domain Management,Critical,AG033,47.46,12,Resolved,False
+TKT00755,Email Support,Medium,AG085,6.6,8,Resolved,True
+TKT00756,Email Support,Medium,AG013,11.08,24,Resolved,True
+TKT00757,Website Builder,Low,AG021,19.29,4,Resolved,False
+TKT00758,Billing,Critical,AG077,21.46,4,Resolved,False
+TKT00759,Billing,High,AG011,29.62,24,Resolved,False
+TKT00760,Website Builder,High,AG092,46.29,4,Resolved,False
+TKT00761,Email Support,Critical,AG057,1.5,12,Resolved,True
+TKT00762,Login Issue,Medium,AG079,8.97,4,Resolved,False
+TKT00763,Billing,Low,AG021,5.08,12,Resolved,True
+TKT00764,Domain Management,Critical,AG052,28.55,4,Resolved,False
+TKT00765,Login Issue,High,AG093,40.0,12,Resolved,False
+TKT00766,Domain Management,Medium,AG078,46.26,24,Resolved,False
+TKT00767,Website Builder,Low,AG034,9.23,4,Open,False
+TKT00768,Login Issue,High,AG044,45.51,12,Open,False
+TKT00769,Website Builder,High,AG089,21.81,24,Open,True
+TKT00770,Hosting,Medium,AG097,16.96,24,Resolved,True
+TKT00771,Website Builder,Low,AG062,6.46,4,Resolved,False
+TKT00772,Email Support,Medium,AG087,33.96,12,Resolved,False
+TKT00773,Domain Management,Low,AG090,40.11,8,Resolved,False
+TKT00774,Login Issue,Critical,AG087,36.19,12,Resolved,False
+TKT00775,Website Builder,Medium,AG061,15.75,8,Open,False
+TKT00776,Domain Management,Medium,AG096,33.11,8,Resolved,False
+TKT00777,Email Support,Medium,AG031,35.57,12,Resolved,False
+TKT00778,Billing,Medium,AG032,40.31,12,Resolved,False
+TKT00779,Login Issue,Low,AG011,32.76,24,Open,False
+TKT00780,Login Issue,Low,AG062,18.45,12,Resolved,False
+TKT00781,Website Builder,High,AG063,9.59,12,Resolved,True
+TKT00782,Billing,Medium,AG007,25.71,24,Resolved,False
+TKT00783,Website Builder,Low,AG065,17.32,8,Resolved,False
+TKT00784,Login Issue,Critical,AG041,33.39,4,Resolved,False
+TKT00785,Hosting,Low,AG042,18.0,12,Resolved,False
+TKT00786,Website Builder,High,AG031,13.66,12,Resolved,False
+TKT00787,Billing,Critical,AG055,10.9,12,Resolved,True
+TKT00788,Hosting,High,AG058,9.45,8,Open,False
+TKT00789,Email Support,Medium,AG013,34.88,8,Open,False
+TKT00790,Hosting,Critical,AG026,7.85,8,Resolved,True
+TKT00791,Login Issue,Medium,AG054,24.48,12,Resolved,False
+TKT00792,Domain Management,High,AG072,41.35,4,Resolved,False
+TKT00793,Login Issue,Medium,AG008,11.13,12,Resolved,True
+TKT00794,Email Support,Low,AG058,36.0,12,Resolved,False
+TKT00795,Domain Management,High,AG045,1.93,4,Resolved,True
+TKT00796,Email Support,Medium,AG074,28.07,8,Resolved,False
+TKT00797,Domain Management,High,AG087,24.99,24,Resolved,False
+TKT00798,Hosting,High,AG060,30.69,8,Resolved,False
+TKT00799,Email Support,High,AG054,30.67,24,Resolved,False
+TKT00800,Login Issue,Medium,AG044,11.73,12,Resolved,True
+TKT00801,Email Support,High,AG078,31.3,12,Resolved,False
+TKT00802,Domain Management,Critical,AG053,8.86,4,Resolved,False
+TKT00803,Email Support,Medium,AG085,12.83,4,Resolved,False
+TKT00804,Billing,Critical,AG014,5.49,24,Open,True
+TKT00805,Login Issue,Low,AG099,19.66,4,Resolved,False
+TKT00806,Domain Management,Medium,AG011,31.78,24,Resolved,False
+TKT00807,Billing,Medium,AG095,14.36,8,Resolved,False
+TKT00808,Website Builder,Medium,AG004,2.65,12,Resolved,True
+TKT00809,Hosting,Critical,AG070,44.94,24,Resolved,False
+TKT00810,Email Support,Medium,AG076,29.09,24,Open,False
+TKT00811,Email Support,High,AG045,23.64,8,Resolved,False
+TKT00812,Hosting,High,AG047,20.37,8,Resolved,False
+TKT00813,Login Issue,Low,AG067,39.32,8,Resolved,False
+TKT00814,Domain Management,Critical,AG069,1.39,24,Resolved,True
+TKT00815,Domain Management,Low,AG099,21.23,12,Open,False
+TKT00816,Billing,Low,AG071,18.56,24,Open,True
+TKT00817,Hosting,Critical,AG032,8.67,24,Resolved,True
+TKT00818,Billing,High,AG011,20.85,8,Open,False
+TKT00819,Website Builder,High,AG037,31.48,12,Resolved,False
+TKT00820,Billing,Low,AG024,7.42,4,Resolved,False
+TKT00821,Website Builder,Critical,AG035,33.92,24,Resolved,False
+TKT00822,Domain Management,Low,AG020,3.33,4,Resolved,True
+TKT00823,Login Issue,High,AG035,6.88,24,Resolved,True
+TKT00824,Billing,Low,AG020,1.69,8,Resolved,True
+TKT00825,Hosting,High,AG064,47.9,24,Resolved,False
+TKT00826,Domain Management,Low,AG097,45.73,4,Resolved,False
+TKT00827,Hosting,Low,AG070,23.1,8,Resolved,False
+TKT00828,Hosting,Low,AG016,46.81,8,Resolved,False
+TKT00829,Hosting,Medium,AG095,47.74,8,Resolved,False
+TKT00830,Email Support,Low,AG067,32.3,8,Resolved,False
+TKT00831,Hosting,High,AG042,8.45,4,Open,False
+TKT00832,Website Builder,Low,AG033,23.62,12,Resolved,False
+TKT00833,Domain Management,Low,AG086,11.24,4,Resolved,False
+TKT00834,Email Support,Critical,AG042,1.71,12,Open,True
+TKT00835,Login Issue,Critical,AG032,1.42,4,Open,True
+TKT00836,Email Support,Critical,AG089,29.02,12,Resolved,False
+TKT00837,Billing,Medium,AG064,5.3,12,Resolved,True
+TKT00838,Login Issue,High,AG083,8.23,4,Resolved,False
+TKT00839,Hosting,Medium,AG041,47.14,12,Resolved,False
+TKT00840,Email Support,Medium,AG003,33.39,12,Resolved,False
+TKT00841,Domain Management,Low,AG063,34.21,12,Open,False
+TKT00842,Email Support,Critical,AG025,27.63,12,Resolved,False
+TKT00843,Email Support,Critical,AG036,41.78,8,Resolved,False
+TKT00844,Website Builder,Medium,AG058,14.9,12,Open,False
+TKT00845,Domain Management,Critical,AG001,37.47,24,Resolved,False
+TKT00846,Login Issue,High,AG100,30.15,12,Resolved,False
+TKT00847,Email Support,Critical,AG025,25.63,24,Open,False
+TKT00848,Billing,High,AG042,20.26,12,Resolved,False
+TKT00849,Login Issue,Low,AG006,40.25,8,Resolved,False
+TKT00850,Login Issue,Medium,AG014,23.81,4,Resolved,False
+TKT00851,Website Builder,Critical,AG085,24.03,12,Resolved,False
+TKT00852,Domain Management,Medium,AG078,34.74,4,Resolved,False
+TKT00853,Email Support,Critical,AG011,23.0,4,Resolved,False
+TKT00854,Website Builder,Critical,AG048,38.33,4,Open,False
+TKT00855,Domain Management,Low,AG094,4.31,12,Resolved,True
+TKT00856,Billing,Low,AG013,35.08,24,Resolved,False
+TKT00857,Billing,Medium,AG073,30.39,8,Open,False
+TKT00858,Email Support,Critical,AG096,5.96,12,Resolved,True
+TKT00859,Email Support,Critical,AG014,8.84,8,Open,False
+TKT00860,Hosting,High,AG085,8.43,24,Resolved,True
+TKT00861,Domain Management,High,AG048,20.38,24,Resolved,True
+TKT00862,Website Builder,Medium,AG073,26.64,24,Open,False
+TKT00863,Email Support,High,AG047,46.2,24,Resolved,False
+TKT00864,Login Issue,Low,AG037,29.0,8,Resolved,False
+TKT00865,Login Issue,High,AG029,11.1,12,Resolved,True
+TKT00866,Email Support,High,AG071,25.03,8,Resolved,False
+TKT00867,Login Issue,Critical,AG046,8.34,12,Resolved,True
+TKT00868,Website Builder,Medium,AG030,13.04,12,Resolved,False
+TKT00869,Website Builder,Critical,AG073,44.14,4,Resolved,False
+TKT00870,Hosting,Medium,AG063,39.81,4,Open,False
+TKT00871,Email Support,High,AG005,35.35,24,Resolved,False
+TKT00872,Login Issue,High,AG045,42.35,24,Resolved,False
+TKT00873,Login Issue,Medium,AG096,31.68,4,Resolved,False
+TKT00874,Login Issue,High,AG068,2.94,8,Resolved,True
+TKT00875,Website Builder,Medium,AG020,3.37,24,Resolved,True
+TKT00876,Website Builder,Low,AG029,21.3,24,Resolved,True
+TKT00877,Billing,High,AG011,23.37,4,Open,False
+TKT00878,Hosting,High,AG011,19.73,24,Resolved,True
+TKT00879,Billing,Critical,AG072,10.31,24,Open,True
+TKT00880,Billing,Medium,AG032,4.37,24,Resolved,True
+TKT00881,Email Support,Low,AG015,32.57,24,Resolved,False
+TKT00882,Domain Management,Medium,AG042,17.19,4,Resolved,False
+TKT00883,Billing,High,AG079,39.61,24,Open,False
+TKT00884,Billing,Critical,AG006,44.44,8,Resolved,False
+TKT00885,Email Support,High,AG020,36.61,4,Resolved,False
+TKT00886,Email Support,Low,AG032,45.6,8,Resolved,False
+TKT00887,Login Issue,High,AG089,38.8,12,Resolved,False
+TKT00888,Hosting,Low,AG043,10.82,8,Resolved,False
+TKT00889,Website Builder,High,AG071,23.7,8,Resolved,False
+TKT00890,Hosting,Low,AG033,9.01,12,Resolved,True
+TKT00891,Email Support,High,AG007,22.85,4,Resolved,False
+TKT00892,Hosting,High,AG085,41.05,12,Resolved,False
+TKT00893,Login Issue,High,AG084,19.17,24,Open,True
+TKT00894,Email Support,Low,AG041,23.78,4,Resolved,False
+TKT00895,Billing,Critical,AG072,44.54,4,Resolved,False
+TKT00896,Billing,High,AG043,24.03,8,Resolved,False
+TKT00897,Domain Management,High,AG046,30.39,8,Open,False
+TKT00898,Domain Management,Low,AG081,13.11,24,Resolved,True
+TKT00899,Website Builder,High,AG029,8.13,24,Resolved,True
+TKT00900,Login Issue,Critical,AG067,46.15,8,Resolved,False
+TKT00901,Billing,Medium,AG055,46.62,12,Resolved,False
+TKT00902,Website Builder,Medium,AG027,31.67,8,Resolved,False
+TKT00903,Domain Management,Medium,AG056,47.8,8,Open,False
+TKT00904,Billing,High,AG009,27.19,4,Resolved,False
+TKT00905,Domain Management,Medium,AG094,2.39,12,Resolved,True
+TKT00906,Hosting,High,AG057,36.04,12,Resolved,False
+TKT00907,Billing,Low,AG017,9.68,12,Open,True
+TKT00908,Website Builder,Medium,AG077,11.91,4,Resolved,False
+TKT00909,Login Issue,Critical,AG018,24.61,24,Resolved,False
+TKT00910,Billing,Critical,AG063,23.27,8,Resolved,False
+TKT00911,Billing,Low,AG053,36.93,4,Resolved,False
+TKT00912,Hosting,Medium,AG096,32.55,8,Resolved,False
+TKT00913,Login Issue,Medium,AG057,41.76,24,Resolved,False
+TKT00914,Hosting,Medium,AG055,20.03,4,Open,False
+TKT00915,Email Support,Critical,AG093,15.71,4,Open,False
+TKT00916,Login Issue,Critical,AG059,39.87,4,Resolved,False
+TKT00917,Website Builder,Critical,AG095,2.84,24,Open,True
+TKT00918,Email Support,Low,AG025,14.69,24,Resolved,True
+TKT00919,Domain Management,Critical,AG022,20.86,4,Open,False
+TKT00920,Billing,Critical,AG083,22.23,4,Resolved,False
+TKT00921,Website Builder,Medium,AG051,20.44,24,Resolved,True
+TKT00922,Billing,Critical,AG076,43.14,8,Resolved,False
+TKT00923,Login Issue,High,AG042,33.51,8,Resolved,False
+TKT00924,Login Issue,Low,AG091,22.12,12,Resolved,False
+TKT00925,Website Builder,Critical,AG094,38.18,8,Resolved,False
+TKT00926,Website Builder,Critical,AG006,37.11,12,Open,False
+TKT00927,Email Support,Medium,AG021,41.83,8,Resolved,False
+TKT00928,Hosting,High,AG040,35.32,24,Resolved,False
+TKT00929,Email Support,Medium,AG016,43.23,8,Resolved,False
+TKT00930,Website Builder,High,AG002,22.56,24,Open,True
+TKT00931,Login Issue,Critical,AG031,11.19,24,Resolved,True
+TKT00932,Hosting,Critical,AG011,29.26,4,Resolved,False
+TKT00933,Website Builder,High,AG080,30.55,8,Resolved,False
+TKT00934,Billing,Medium,AG008,31.7,4,Resolved,False
+TKT00935,Login Issue,High,AG043,44.26,4,Resolved,False
+TKT00936,Hosting,Medium,AG021,32.59,8,Resolved,False
+TKT00937,Email Support,High,AG005,5.38,12,Resolved,True
+TKT00938,Domain Management,Critical,AG009,36.65,4,Resolved,False
+TKT00939,Hosting,Medium,AG016,33.65,12,Resolved,False
+TKT00940,Website Builder,Critical,AG068,10.86,8,Open,False
+TKT00941,Login Issue,Low,AG074,35.3,4,Resolved,False
+TKT00942,Email Support,High,AG055,29.62,12,Resolved,False
+TKT00943,Website Builder,High,AG017,29.87,24,Open,False
+TKT00944,Email Support,Critical,AG064,38.98,8,Resolved,False
+TKT00945,Billing,Low,AG016,2.13,4,Resolved,True
+TKT00946,Website Builder,Critical,AG053,3.14,12,Open,True
+TKT00947,Email Support,Medium,AG002,31.11,12,Resolved,False
+TKT00948,Login Issue,High,AG039,24.81,12,Resolved,False
+TKT00949,Login Issue,High,AG044,19.61,4,Resolved,False
+TKT00950,Billing,High,AG044,44.35,24,Resolved,False
+TKT00951,Login Issue,Medium,AG062,8.3,24,Open,True
+TKT00952,Domain Management,Critical,AG053,44.61,4,Open,False
+TKT00953,Domain Management,High,AG072,26.19,8,Open,False
+TKT00954,Email Support,High,AG046,4.11,8,Resolved,True
+TKT00955,Login Issue,High,AG049,30.45,8,Open,False
+TKT00956,Website Builder,Critical,AG024,28.97,12,Resolved,False
+TKT00957,Email Support,Low,AG035,20.45,24,Resolved,True
+TKT00958,Domain Management,Critical,AG039,11.16,12,Resolved,True
+TKT00959,Login Issue,High,AG005,37.56,4,Resolved,False
+TKT00960,Website Builder,Low,AG062,43.53,8,Resolved,False
+TKT00961,Domain Management,Critical,AG094,42.07,12,Resolved,False
+TKT00962,Billing,Low,AG067,32.81,8,Resolved,False
+TKT00963,Email Support,Low,AG059,19.22,4,Resolved,False
+TKT00964,Domain Management,Low,AG088,40.86,4,Resolved,False
+TKT00965,Hosting,Low,AG014,25.47,12,Resolved,False
+TKT00966,Website Builder,High,AG082,42.93,12,Resolved,False
+TKT00967,Billing,High,AG036,26.02,24,Resolved,False
+TKT00968,Domain Management,Medium,AG021,13.86,4,Open,False
+TKT00969,Website Builder,Low,AG027,26.5,12,Resolved,False
+TKT00970,Billing,High,AG074,12.51,4,Resolved,False
+TKT00971,Website Builder,High,AG070,21.85,8,Resolved,False
+TKT00972,Hosting,Low,AG014,19.03,4,Resolved,False
+TKT00973,Hosting,Medium,AG091,29.02,24,Open,False
+TKT00974,Domain Management,High,AG043,39.42,4,Resolved,False
+TKT00975,Website Builder,Medium,AG012,39.2,24,Resolved,False
+TKT00976,Hosting,High,AG088,31.29,24,Resolved,False
+TKT00977,Billing,Medium,AG019,41.47,12,Resolved,False
+TKT00978,Hosting,Medium,AG090,44.11,12,Resolved,False
+TKT00979,Hosting,Critical,AG004,4.07,4,Resolved,False
+TKT00980,Hosting,Critical,AG022,14.27,12,Open,False
+TKT00981,Website Builder,Medium,AG066,5.84,4,Resolved,False
+TKT00982,Website Builder,Low,AG039,26.04,24,Open,False
+TKT00983,Hosting,Medium,AG080,12.45,8,Resolved,False
+TKT00984,Hosting,Low,AG044,10.79,24,Resolved,True
+TKT00985,Website Builder,High,AG070,33.62,8,Resolved,False
+TKT00986,Email Support,Critical,AG015,28.83,24,Resolved,False
+TKT00987,Website Builder,Low,AG057,9.28,24,Resolved,True
+TKT00988,Website Builder,Low,AG088,39.26,24,Resolved,False
+TKT00989,Hosting,Low,AG012,11.23,8,Open,False
+TKT00990,Email Support,Low,AG097,7.9,8,Resolved,True
+TKT00991,Website Builder,High,AG050,29.93,24,Resolved,False
+TKT00992,Billing,High,AG039,27.8,12,Resolved,False
+TKT00993,Email Support,High,AG012,28.39,24,Resolved,False
+TKT00994,Domain Management,Low,AG048,43.35,4,Resolved,False
+TKT00995,Email Support,High,AG015,41.48,4,Resolved,False
+TKT00996,Hosting,Critical,AG081,15.95,24,Resolved,True
+TKT00997,Hosting,Critical,AG070,10.93,8,Resolved,False
+TKT00998,Billing,Medium,AG072,19.08,12,Resolved,False
+TKT00999,Billing,High,AG086,6.9,4,Resolved,False
+TKT01000,Email Support,Low,AG019,34.9,24,Resolved,False

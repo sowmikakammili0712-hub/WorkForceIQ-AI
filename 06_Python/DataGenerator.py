@@ -32,6 +32,29 @@ experience_levels = [
     "Senior"
 ]
 
+categories = [
+    "Login Issue",
+    "Billing",
+    "Domain Management",
+    "Hosting",
+    "Website Builder",
+    "Email Support"
+]
+
+priorities = [
+    "Low",
+    "Medium",
+    "High",
+    "Critical"
+]
+
+statuses = [
+    "Resolved",
+    "Resolved",
+    "Resolved",
+    "Resolved",
+    "Open"
+]
 for i in range(100):
 
     agent = {
@@ -49,6 +72,47 @@ for i in range(100):
     agents.append(agent)
 
 agents_df = pd.DataFrame(agents)
+tickets=[]
+for i in range(1000):
+
+    ticket = {
+
+        "TicketID": f"TKT{str(i+1).zfill(5)}",
+
+        "Category": random.choice(categories),
+
+        "Priority": random.choice(priorities),
+
+        "AssignedAgent":
+            random.choice(
+                agents_df["AgentID"].tolist()
+            ),
+
+        "ResolutionHours":
+            round(
+                random.uniform(1,48),
+                2
+            ),
+
+        "SLAHours":
+            random.choice(
+                [4,8,12,24]
+            ),
+
+        "Status":
+            random.choice(statuses)
+
+    }
+
+    ticket["SLAMet"] = (
+        ticket["ResolutionHours"]
+        <=
+        ticket["SLAHours"]
+    )
+
+    tickets.append(ticket)
+
+tickets_df = pd.DataFrame(tickets)
 
 print("\nSample Data:")
 print(agents_df.head())
@@ -62,3 +126,15 @@ agents_df.to_csv(
 )
 
 print("\nCSV Export Successful!")
+
+tickets_df.to_csv(
+    "02_Dataset/Sample/tickets.csv",
+    index=False
+)
+
+print("\nTickets Export Successful!")
+print("\nTicket Sample:")
+print(tickets_df.head())
+
+print("\nTotal Tickets:")
+print(len(tickets_df))
