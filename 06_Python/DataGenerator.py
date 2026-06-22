@@ -32,6 +32,11 @@ experience_levels = [
     "Mid",
     "Senior"
 ]
+cost_mapping = {
+    "Junior": 15,
+    "Mid": 25,
+    "Senior": 40
+}
 
 categories = [
     "Login Issue",
@@ -91,22 +96,80 @@ resolution_categories = [
     "Engineering Fix"
 ]
 for i in range(100):
+    experience = random.choice(
+      experience_levels
+    )
 
     agent = {
         "AgentID": f"AG{str(i+1).zfill(3)}",
         "AgentName": fake.name(),
         "Team": random.choice(teams),
         "Region": random.choice(regions),
-        "ExperienceLevel": random.choice(experience_levels),
+        "ExperienceLevel": experience,
         "HireDate": fake.date_between(
             start_date="-5y",
             end_date="today"
-        )
+             ),
+        
+        "AgentCostPerHour":
+           cost_mapping[experience],
+
+        "CapacityHoursPerWeek":
+           random.choice(
+             [35, 40, 45]
+          ),
+
+       "TargetTicketsPerWeek":
+          random.choice(
+           [50, 75, 100]
+          ),
+
+        "UtilizationTarget":
+           random.choice(
+            [75, 80, 85, 90]
+           ),
     }
 
     agents.append(agent)
 
 agents_df = pd.DataFrame(agents)
+agents_df["ActualTicketsHandled"] = np.random.randint(
+    40,
+    120,
+    len(agents_df)
+)
+agents_df["ActualHoursWorked"] = round(
+    agents_df["CapacityHoursPerWeek"]
+    *
+    np.random.uniform(
+        0.7,
+        1.1,
+        len(agents_df)
+    ),
+    2
+)
+agents_df["UtilizationPercent"] = round(
+    (
+        agents_df["ActualHoursWorked"]
+        /
+        agents_df["CapacityHoursPerWeek"]
+    ) * 100,
+    2
+)
+agents_df["CostPerTicket"] = round(
+    (
+        agents_df["AgentCostPerHour"]
+        *
+        agents_df["ActualHoursWorked"]
+    )
+    /
+    agents_df["ActualTicketsHandled"],
+    2
+)
+print("\nAgent Sample:")
+print(agents_df.head())
+print("\nAgent Columns:")
+print(agents_df.columns.tolist())
 tickets=[]
 for i in range(1000):
  
@@ -129,6 +192,7 @@ for i in range(1000):
      +
      timedelta(hours=resolution_hours)
 )
+    agent_ids = agents_df["AgentID"].tolist()
     ticket = {
 
         "TicketID": f"TKT{str(i+1).zfill(5)}",
@@ -153,9 +217,7 @@ for i in range(1000):
             ),
 
         "AssignedAgent":
-            random.choice(
-                agents_df["AgentID"].tolist()
-            ),
+             random.choice(agent_ids),
 
         "ResolutionHours":resolution_hours,
 
