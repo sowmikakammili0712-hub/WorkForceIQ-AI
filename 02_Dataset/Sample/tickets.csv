@@ -1,1001 +1,1001 @@
-TicketID,Category,Priority,AssignedAgent,ResolutionHours,SLAHours,Status,SLAMet
-TKT00001,Login Issue,Critical,AG071,5.6,4,Resolved,False
-TKT00002,Billing,Medium,AG053,23.83,8,Resolved,False
-TKT00003,Login Issue,Medium,AG049,1.1,24,Resolved,True
-TKT00004,Hosting,High,AG055,33.74,24,Resolved,False
-TKT00005,Billing,High,AG028,46.53,4,Resolved,False
-TKT00006,Login Issue,Low,AG075,23.41,8,Resolved,False
-TKT00007,Website Builder,Low,AG024,4.22,4,Resolved,False
-TKT00008,Hosting,Low,AG073,12.57,4,Open,False
-TKT00009,Login Issue,Critical,AG085,28.43,12,Resolved,False
-TKT00010,Billing,High,AG031,13.48,8,Resolved,False
-TKT00011,Hosting,High,AG097,44.98,4,Resolved,False
-TKT00012,Website Builder,Low,AG010,26.27,12,Resolved,False
-TKT00013,Domain Management,Low,AG032,18.37,8,Resolved,False
-TKT00014,Website Builder,High,AG079,47.24,4,Open,False
-TKT00015,Domain Management,Low,AG018,13.43,4,Open,False
-TKT00016,Billing,High,AG037,29.43,12,Resolved,False
-TKT00017,Email Support,High,AG065,23.96,4,Resolved,False
-TKT00018,Email Support,Critical,AG036,3.07,12,Resolved,True
-TKT00019,Email Support,High,AG021,35.84,24,Open,False
-TKT00020,Login Issue,Low,AG010,45.42,8,Open,False
-TKT00021,Login Issue,High,AG075,26.97,24,Resolved,False
-TKT00022,Login Issue,High,AG047,43.25,4,Resolved,False
-TKT00023,Billing,Medium,AG086,5.83,24,Open,True
-TKT00024,Email Support,Medium,AG031,41.64,8,Resolved,False
-TKT00025,Login Issue,Medium,AG095,44.45,24,Resolved,False
-TKT00026,Domain Management,Medium,AG090,6.08,4,Resolved,False
-TKT00027,Billing,Medium,AG059,17.43,8,Resolved,False
-TKT00028,Login Issue,Medium,AG052,16.43,4,Resolved,False
-TKT00029,Domain Management,Critical,AG087,47.11,12,Resolved,False
-TKT00030,Login Issue,High,AG023,28.29,12,Resolved,False
-TKT00031,Login Issue,Critical,AG045,35.24,12,Resolved,False
-TKT00032,Website Builder,Low,AG050,43.28,8,Resolved,False
-TKT00033,Login Issue,Critical,AG001,25.44,8,Resolved,False
-TKT00034,Hosting,Low,AG086,44.28,12,Resolved,False
-TKT00035,Email Support,High,AG065,15.54,24,Resolved,True
-TKT00036,Hosting,High,AG071,6.98,24,Resolved,True
-TKT00037,Email Support,Medium,AG079,27.75,24,Open,False
-TKT00038,Login Issue,High,AG037,10.88,12,Resolved,True
-TKT00039,Hosting,Critical,AG087,11.04,24,Resolved,True
-TKT00040,Email Support,Low,AG037,25.23,12,Resolved,False
-TKT00041,Billing,High,AG029,38.91,8,Resolved,False
-TKT00042,Login Issue,Medium,AG061,29.73,4,Resolved,False
-TKT00043,Hosting,Medium,AG092,33.73,24,Resolved,False
-TKT00044,Billing,Medium,AG084,33.32,4,Resolved,False
-TKT00045,Billing,Medium,AG090,25.34,4,Open,False
-TKT00046,Billing,Low,AG059,7.27,24,Open,True
-TKT00047,Website Builder,High,AG097,42.9,24,Open,False
-TKT00048,Hosting,Medium,AG096,41.49,24,Resolved,False
-TKT00049,Billing,High,AG099,37.55,24,Resolved,False
-TKT00050,Domain Management,Critical,AG010,34.54,8,Resolved,False
-TKT00051,Domain Management,High,AG070,4.79,8,Resolved,True
-TKT00052,Hosting,Medium,AG091,11.06,24,Resolved,True
-TKT00053,Domain Management,Critical,AG054,3.93,24,Resolved,True
-TKT00054,Website Builder,Low,AG098,28.06,24,Resolved,False
-TKT00055,Domain Management,High,AG097,19.33,24,Open,True
-TKT00056,Email Support,Medium,AG063,11.31,24,Resolved,True
-TKT00057,Login Issue,Critical,AG044,32.44,24,Resolved,False
-TKT00058,Hosting,Medium,AG080,26.1,24,Open,False
-TKT00059,Website Builder,Low,AG011,31.21,8,Resolved,False
-TKT00060,Billing,Low,AG034,18.82,8,Resolved,False
-TKT00061,Domain Management,High,AG098,42.34,12,Resolved,False
-TKT00062,Domain Management,Low,AG061,1.91,4,Resolved,True
-TKT00063,Billing,Low,AG100,45.99,4,Resolved,False
-TKT00064,Billing,Medium,AG003,30.2,8,Resolved,False
-TKT00065,Hosting,Low,AG073,45.54,24,Resolved,False
-TKT00066,Domain Management,Medium,AG078,29.54,4,Resolved,False
-TKT00067,Domain Management,Low,AG075,2.21,12,Open,True
-TKT00068,Email Support,Critical,AG051,45.25,8,Resolved,False
-TKT00069,Website Builder,Medium,AG014,33.77,12,Open,False
-TKT00070,Login Issue,Low,AG045,26.04,12,Resolved,False
-TKT00071,Website Builder,High,AG002,40.93,24,Resolved,False
-TKT00072,Hosting,High,AG082,42.9,24,Resolved,False
-TKT00073,Hosting,Medium,AG094,25.52,12,Open,False
-TKT00074,Website Builder,Critical,AG060,21.47,12,Resolved,False
-TKT00075,Billing,Low,AG036,42.44,8,Resolved,False
-TKT00076,Website Builder,Critical,AG044,2.35,12,Resolved,True
-TKT00077,Hosting,Medium,AG046,38.5,12,Resolved,False
-TKT00078,Website Builder,High,AG072,1.48,8,Resolved,True
-TKT00079,Billing,Critical,AG063,27.09,8,Resolved,False
-TKT00080,Email Support,Critical,AG058,38.27,4,Resolved,False
-TKT00081,Billing,Critical,AG089,12.44,12,Resolved,False
-TKT00082,Website Builder,High,AG055,47.84,12,Resolved,False
-TKT00083,Email Support,Critical,AG035,15.41,8,Resolved,False
-TKT00084,Email Support,Medium,AG041,6.62,8,Resolved,True
-TKT00085,Billing,Critical,AG036,35.06,12,Resolved,False
-TKT00086,Billing,High,AG030,17.96,12,Resolved,False
-TKT00087,Email Support,Medium,AG036,3.14,4,Open,True
-TKT00088,Domain Management,Medium,AG082,41.82,24,Resolved,False
-TKT00089,Login Issue,High,AG061,23.5,12,Resolved,False
-TKT00090,Login Issue,High,AG062,6.36,4,Resolved,False
-TKT00091,Hosting,Low,AG074,30.58,4,Resolved,False
-TKT00092,Billing,High,AG011,47.71,4,Open,False
-TKT00093,Hosting,Medium,AG100,25.56,24,Resolved,False
-TKT00094,Domain Management,Critical,AG040,27.73,4,Open,False
-TKT00095,Email Support,Low,AG098,10.77,8,Resolved,False
-TKT00096,Email Support,Low,AG021,12.27,4,Resolved,False
-TKT00097,Login Issue,Critical,AG058,33.4,24,Resolved,False
-TKT00098,Login Issue,Medium,AG037,34.23,24,Resolved,False
-TKT00099,Email Support,Medium,AG034,38.03,8,Resolved,False
-TKT00100,Login Issue,Medium,AG083,8.0,12,Resolved,True
-TKT00101,Login Issue,Low,AG022,38.25,12,Resolved,False
-TKT00102,Login Issue,Critical,AG089,15.29,24,Resolved,True
-TKT00103,Website Builder,Critical,AG057,4.78,4,Resolved,False
-TKT00104,Email Support,High,AG078,12.77,4,Resolved,False
-TKT00105,Email Support,Low,AG098,32.6,12,Open,False
-TKT00106,Login Issue,Medium,AG061,25.39,24,Resolved,False
-TKT00107,Billing,Critical,AG082,39.27,4,Resolved,False
-TKT00108,Domain Management,Critical,AG043,16.09,4,Resolved,False
-TKT00109,Domain Management,Critical,AG089,24.29,24,Open,False
-TKT00110,Login Issue,Critical,AG012,15.78,12,Resolved,False
-TKT00111,Hosting,Low,AG085,41.86,24,Resolved,False
-TKT00112,Login Issue,Medium,AG067,18.0,24,Resolved,True
-TKT00113,Login Issue,Medium,AG035,26.81,12,Resolved,False
-TKT00114,Email Support,Critical,AG016,2.36,8,Resolved,True
-TKT00115,Domain Management,Low,AG071,20.18,8,Resolved,False
-TKT00116,Hosting,Low,AG083,40.11,24,Resolved,False
-TKT00117,Website Builder,High,AG054,40.23,24,Resolved,False
-TKT00118,Hosting,Medium,AG050,9.96,8,Resolved,False
-TKT00119,Domain Management,Critical,AG044,44.91,12,Resolved,False
-TKT00120,Domain Management,High,AG076,28.26,24,Resolved,False
-TKT00121,Hosting,Critical,AG045,16.62,24,Resolved,True
-TKT00122,Domain Management,Medium,AG090,12.22,24,Resolved,True
-TKT00123,Hosting,Low,AG041,36.0,24,Resolved,False
-TKT00124,Email Support,Medium,AG064,46.35,8,Open,False
-TKT00125,Website Builder,High,AG013,42.09,24,Resolved,False
-TKT00126,Website Builder,Critical,AG002,34.95,24,Resolved,False
-TKT00127,Login Issue,Critical,AG034,16.91,24,Resolved,True
-TKT00128,Domain Management,Critical,AG041,30.46,24,Open,False
-TKT00129,Login Issue,Low,AG031,30.66,12,Resolved,False
-TKT00130,Email Support,Low,AG056,46.98,4,Resolved,False
-TKT00131,Billing,High,AG004,3.16,4,Resolved,True
-TKT00132,Domain Management,High,AG056,7.84,24,Open,True
-TKT00133,Email Support,Medium,AG022,9.23,24,Open,True
-TKT00134,Email Support,Medium,AG064,43.9,8,Resolved,False
-TKT00135,Hosting,High,AG059,13.0,4,Resolved,False
-TKT00136,Domain Management,Medium,AG010,21.76,12,Open,False
-TKT00137,Domain Management,Critical,AG089,12.75,12,Resolved,False
-TKT00138,Hosting,Critical,AG014,12.15,12,Open,False
-TKT00139,Domain Management,High,AG003,46.96,24,Resolved,False
-TKT00140,Login Issue,Low,AG078,36.02,12,Resolved,False
-TKT00141,Website Builder,High,AG029,30.92,12,Resolved,False
-TKT00142,Email Support,Low,AG081,31.38,12,Resolved,False
-TKT00143,Login Issue,High,AG094,7.18,12,Resolved,True
-TKT00144,Email Support,Critical,AG023,10.44,12,Open,True
-TKT00145,Website Builder,High,AG022,13.08,24,Resolved,True
-TKT00146,Email Support,High,AG015,23.01,4,Resolved,False
-TKT00147,Billing,Critical,AG072,18.19,24,Resolved,True
-TKT00148,Domain Management,Low,AG059,18.32,12,Open,False
-TKT00149,Hosting,High,AG014,32.72,24,Resolved,False
-TKT00150,Website Builder,High,AG079,11.4,4,Resolved,False
-TKT00151,Email Support,High,AG084,20.19,8,Resolved,False
-TKT00152,Login Issue,High,AG064,6.46,8,Open,True
-TKT00153,Billing,Critical,AG059,18.44,24,Open,True
-TKT00154,Email Support,Medium,AG054,31.78,24,Open,False
-TKT00155,Hosting,High,AG005,33.44,8,Resolved,False
-TKT00156,Hosting,Medium,AG047,5.67,12,Open,True
-TKT00157,Email Support,High,AG008,19.71,8,Resolved,False
-TKT00158,Hosting,Low,AG085,10.97,4,Resolved,False
-TKT00159,Domain Management,Medium,AG017,37.99,8,Resolved,False
-TKT00160,Website Builder,Medium,AG076,11.15,8,Resolved,False
-TKT00161,Billing,Low,AG036,41.35,8,Resolved,False
-TKT00162,Website Builder,High,AG023,6.17,4,Resolved,False
-TKT00163,Login Issue,High,AG031,28.68,4,Resolved,False
-TKT00164,Domain Management,Low,AG017,35.86,4,Resolved,False
-TKT00165,Hosting,Critical,AG100,18.02,4,Resolved,False
-TKT00166,Website Builder,Medium,AG079,3.04,12,Resolved,True
-TKT00167,Email Support,Low,AG008,47.93,24,Resolved,False
-TKT00168,Email Support,Low,AG063,34.48,24,Resolved,False
-TKT00169,Login Issue,High,AG078,7.97,8,Resolved,True
-TKT00170,Website Builder,High,AG049,47.75,12,Resolved,False
-TKT00171,Website Builder,Critical,AG013,38.28,4,Open,False
-TKT00172,Email Support,Medium,AG056,22.22,8,Resolved,False
-TKT00173,Domain Management,Critical,AG052,20.55,4,Resolved,False
-TKT00174,Hosting,High,AG086,12.98,8,Resolved,False
-TKT00175,Login Issue,Low,AG011,5.38,4,Resolved,False
-TKT00176,Billing,Low,AG076,45.96,12,Resolved,False
-TKT00177,Hosting,High,AG086,45.23,24,Resolved,False
-TKT00178,Domain Management,High,AG046,5.87,8,Resolved,True
-TKT00179,Email Support,Critical,AG029,40.82,12,Open,False
-TKT00180,Domain Management,Low,AG098,14.09,8,Resolved,False
-TKT00181,Website Builder,Low,AG078,44.67,12,Resolved,False
-TKT00182,Billing,High,AG090,36.83,12,Resolved,False
-TKT00183,Login Issue,Medium,AG019,27.62,24,Resolved,False
-TKT00184,Billing,Low,AG012,36.07,8,Resolved,False
-TKT00185,Hosting,Critical,AG044,8.4,12,Resolved,True
-TKT00186,Website Builder,Low,AG007,8.31,4,Resolved,False
-TKT00187,Domain Management,Critical,AG085,20.93,24,Resolved,True
-TKT00188,Domain Management,Medium,AG097,25.08,12,Resolved,False
-TKT00189,Login Issue,High,AG087,32.89,24,Open,False
-TKT00190,Email Support,High,AG006,11.36,4,Resolved,False
-TKT00191,Billing,High,AG028,37.07,12,Resolved,False
-TKT00192,Domain Management,Low,AG001,24.38,24,Resolved,False
-TKT00193,Billing,Critical,AG069,34.07,12,Resolved,False
-TKT00194,Hosting,Low,AG056,1.88,4,Resolved,True
-TKT00195,Website Builder,Critical,AG074,20.01,24,Resolved,True
-TKT00196,Login Issue,Critical,AG003,46.41,8,Open,False
-TKT00197,Hosting,High,AG012,21.53,4,Resolved,False
-TKT00198,Hosting,Critical,AG068,4.7,12,Resolved,True
-TKT00199,Billing,High,AG100,8.9,4,Open,False
-TKT00200,Website Builder,Medium,AG100,17.42,8,Resolved,False
-TKT00201,Login Issue,Medium,AG033,10.27,8,Resolved,False
-TKT00202,Billing,Critical,AG060,36.46,24,Open,False
-TKT00203,Email Support,High,AG081,15.86,24,Resolved,True
-TKT00204,Hosting,Critical,AG081,15.23,12,Open,False
-TKT00205,Login Issue,High,AG065,4.49,24,Resolved,True
-TKT00206,Login Issue,Low,AG048,40.09,4,Resolved,False
-TKT00207,Website Builder,Critical,AG060,28.28,4,Resolved,False
-TKT00208,Website Builder,Medium,AG042,29.44,8,Resolved,False
-TKT00209,Hosting,Low,AG044,47.17,4,Open,False
-TKT00210,Email Support,Medium,AG006,12.64,24,Resolved,True
-TKT00211,Website Builder,Medium,AG047,18.52,12,Resolved,False
-TKT00212,Hosting,High,AG087,29.1,12,Resolved,False
-TKT00213,Domain Management,Low,AG072,32.88,12,Resolved,False
-TKT00214,Email Support,Medium,AG043,4.83,8,Resolved,True
-TKT00215,Domain Management,Critical,AG017,28.97,4,Resolved,False
-TKT00216,Website Builder,Critical,AG083,38.21,8,Open,False
-TKT00217,Login Issue,Critical,AG066,18.01,12,Resolved,False
-TKT00218,Billing,Medium,AG044,45.54,24,Resolved,False
-TKT00219,Billing,Medium,AG020,4.63,4,Open,False
-TKT00220,Website Builder,Low,AG085,16.83,8,Open,False
-TKT00221,Hosting,Medium,AG021,9.5,8,Resolved,False
-TKT00222,Login Issue,Critical,AG047,32.79,8,Resolved,False
-TKT00223,Website Builder,High,AG097,36.18,24,Resolved,False
-TKT00224,Website Builder,Medium,AG040,46.38,24,Resolved,False
-TKT00225,Domain Management,Critical,AG060,37.16,24,Open,False
-TKT00226,Website Builder,Critical,AG021,39.39,8,Resolved,False
-TKT00227,Login Issue,Critical,AG048,27.06,4,Open,False
-TKT00228,Login Issue,High,AG011,36.87,12,Resolved,False
-TKT00229,Website Builder,Medium,AG056,5.31,8,Resolved,True
-TKT00230,Domain Management,Low,AG054,3.5,12,Resolved,True
-TKT00231,Hosting,Low,AG048,11.55,12,Resolved,True
-TKT00232,Email Support,High,AG019,7.47,12,Resolved,True
-TKT00233,Email Support,Medium,AG098,34.16,24,Open,False
-TKT00234,Login Issue,Low,AG003,13.03,8,Open,False
-TKT00235,Email Support,Critical,AG015,37.48,8,Resolved,False
-TKT00236,Login Issue,Low,AG031,20.73,24,Resolved,True
-TKT00237,Login Issue,Critical,AG077,26.19,8,Resolved,False
-TKT00238,Domain Management,Critical,AG001,29.9,8,Open,False
-TKT00239,Hosting,Medium,AG086,32.41,12,Resolved,False
-TKT00240,Website Builder,Low,AG050,42.05,4,Resolved,False
-TKT00241,Domain Management,High,AG096,1.76,4,Resolved,True
-TKT00242,Billing,Low,AG099,28.35,12,Resolved,False
-TKT00243,Login Issue,High,AG070,16.91,8,Resolved,False
-TKT00244,Email Support,Critical,AG081,9.57,8,Resolved,False
-TKT00245,Email Support,Critical,AG005,14.79,4,Resolved,False
-TKT00246,Login Issue,High,AG040,25.22,24,Resolved,False
-TKT00247,Login Issue,Medium,AG037,17.78,4,Resolved,False
-TKT00248,Domain Management,Low,AG048,21.54,24,Resolved,True
-TKT00249,Hosting,High,AG024,24.32,24,Resolved,False
-TKT00250,Website Builder,High,AG011,35.17,4,Resolved,False
-TKT00251,Website Builder,Medium,AG070,14.81,4,Resolved,False
-TKT00252,Domain Management,High,AG040,21.96,24,Resolved,True
-TKT00253,Email Support,Critical,AG045,22.02,12,Open,False
-TKT00254,Hosting,High,AG082,47.06,4,Resolved,False
-TKT00255,Email Support,Critical,AG047,25.12,8,Resolved,False
-TKT00256,Billing,Critical,AG005,6.93,8,Resolved,True
-TKT00257,Domain Management,Critical,AG073,2.52,8,Resolved,True
-TKT00258,Domain Management,High,AG057,36.86,8,Open,False
-TKT00259,Domain Management,Critical,AG041,31.53,8,Resolved,False
-TKT00260,Login Issue,Medium,AG064,25.33,4,Resolved,False
-TKT00261,Domain Management,Critical,AG028,47.83,12,Resolved,False
-TKT00262,Billing,Low,AG018,41.08,24,Resolved,False
-TKT00263,Email Support,Critical,AG012,39.09,12,Resolved,False
-TKT00264,Email Support,Low,AG071,26.48,12,Resolved,False
-TKT00265,Email Support,Medium,AG047,24.91,4,Resolved,False
-TKT00266,Billing,Medium,AG064,2.24,12,Resolved,True
-TKT00267,Website Builder,Medium,AG079,42.56,4,Resolved,False
-TKT00268,Hosting,Critical,AG068,20.31,24,Open,True
-TKT00269,Login Issue,Medium,AG041,31.19,24,Resolved,False
-TKT00270,Email Support,High,AG017,42.26,8,Resolved,False
-TKT00271,Hosting,Low,AG016,25.35,12,Resolved,False
-TKT00272,Billing,High,AG091,11.6,12,Resolved,True
-TKT00273,Domain Management,Medium,AG082,45.95,12,Resolved,False
-TKT00274,Email Support,High,AG079,26.07,8,Open,False
-TKT00275,Website Builder,Medium,AG022,31.96,12,Open,False
-TKT00276,Login Issue,Low,AG011,3.14,12,Resolved,True
-TKT00277,Website Builder,Critical,AG080,31.03,24,Open,False
-TKT00278,Domain Management,High,AG062,12.51,24,Resolved,True
-TKT00279,Hosting,Low,AG089,3.82,24,Resolved,True
-TKT00280,Hosting,Critical,AG027,16.99,8,Resolved,False
-TKT00281,Email Support,High,AG094,47.44,12,Resolved,False
-TKT00282,Billing,High,AG066,27.4,12,Resolved,False
-TKT00283,Hosting,Low,AG035,22.13,8,Resolved,False
-TKT00284,Login Issue,High,AG050,41.62,24,Resolved,False
-TKT00285,Billing,High,AG074,34.89,8,Resolved,False
-TKT00286,Hosting,Critical,AG064,42.32,24,Resolved,False
-TKT00287,Login Issue,Critical,AG065,22.49,8,Resolved,False
-TKT00288,Website Builder,High,AG007,3.38,24,Open,True
-TKT00289,Email Support,Critical,AG037,26.22,4,Resolved,False
-TKT00290,Billing,High,AG094,18.19,24,Resolved,True
-TKT00291,Login Issue,Critical,AG007,27.8,8,Resolved,False
-TKT00292,Website Builder,High,AG010,19.16,24,Open,True
-TKT00293,Domain Management,Low,AG017,46.83,24,Resolved,False
-TKT00294,Domain Management,High,AG097,7.78,24,Open,True
-TKT00295,Login Issue,Low,AG005,7.44,12,Resolved,True
-TKT00296,Website Builder,Critical,AG020,29.49,8,Resolved,False
-TKT00297,Website Builder,High,AG021,19.47,12,Open,False
-TKT00298,Domain Management,Critical,AG091,27.46,24,Resolved,False
-TKT00299,Domain Management,High,AG087,6.15,24,Open,True
-TKT00300,Domain Management,Low,AG077,23.31,8,Resolved,False
-TKT00301,Website Builder,Critical,AG022,25.64,24,Resolved,False
-TKT00302,Email Support,Medium,AG005,27.91,4,Resolved,False
-TKT00303,Login Issue,Critical,AG041,20.68,24,Resolved,True
-TKT00304,Hosting,Critical,AG095,35.19,8,Open,False
-TKT00305,Billing,High,AG085,23.48,24,Resolved,True
-TKT00306,Billing,Critical,AG069,17.09,12,Resolved,False
-TKT00307,Website Builder,Critical,AG025,45.99,12,Open,False
-TKT00308,Domain Management,Medium,AG039,37.25,8,Resolved,False
-TKT00309,Domain Management,Critical,AG045,27.34,12,Resolved,False
-TKT00310,Login Issue,Critical,AG051,39.46,8,Resolved,False
-TKT00311,Login Issue,High,AG092,4.71,24,Resolved,True
-TKT00312,Email Support,Critical,AG028,10.5,12,Open,True
-TKT00313,Email Support,High,AG018,6.13,8,Resolved,True
-TKT00314,Login Issue,Medium,AG082,11.94,4,Resolved,False
-TKT00315,Domain Management,Critical,AG013,33.02,8,Resolved,False
-TKT00316,Website Builder,Medium,AG053,31.69,24,Resolved,False
-TKT00317,Email Support,Medium,AG097,46.3,12,Resolved,False
-TKT00318,Email Support,Low,AG099,5.2,8,Open,True
-TKT00319,Email Support,Low,AG023,20.64,8,Resolved,False
-TKT00320,Hosting,Critical,AG024,45.02,12,Resolved,False
-TKT00321,Login Issue,High,AG073,29.33,12,Resolved,False
-TKT00322,Hosting,Critical,AG018,41.0,24,Resolved,False
-TKT00323,Billing,Low,AG043,8.64,24,Resolved,True
-TKT00324,Email Support,Medium,AG002,35.62,12,Open,False
-TKT00325,Email Support,Medium,AG023,29.71,24,Resolved,False
-TKT00326,Website Builder,High,AG012,19.84,4,Resolved,False
-TKT00327,Billing,Critical,AG042,44.98,4,Resolved,False
-TKT00328,Hosting,Medium,AG058,36.43,12,Resolved,False
-TKT00329,Website Builder,Low,AG034,31.72,8,Resolved,False
-TKT00330,Email Support,Low,AG060,15.42,24,Open,True
-TKT00331,Email Support,High,AG089,6.52,12,Resolved,True
-TKT00332,Website Builder,Medium,AG029,46.0,24,Resolved,False
-TKT00333,Hosting,High,AG054,33.99,24,Open,False
-TKT00334,Email Support,Medium,AG098,12.63,4,Open,False
-TKT00335,Hosting,High,AG010,44.11,4,Resolved,False
-TKT00336,Website Builder,Medium,AG074,26.22,8,Resolved,False
-TKT00337,Website Builder,Critical,AG015,32.97,24,Resolved,False
-TKT00338,Website Builder,Critical,AG008,22.31,24,Resolved,True
-TKT00339,Website Builder,Low,AG072,22.73,12,Resolved,False
-TKT00340,Hosting,High,AG001,36.05,4,Resolved,False
-TKT00341,Hosting,High,AG090,4.0,4,Resolved,True
-TKT00342,Hosting,Low,AG037,20.22,8,Resolved,False
-TKT00343,Domain Management,Critical,AG058,41.87,24,Resolved,False
-TKT00344,Login Issue,Medium,AG084,41.43,4,Resolved,False
-TKT00345,Website Builder,Critical,AG068,6.99,8,Resolved,True
-TKT00346,Login Issue,High,AG060,32.65,24,Open,False
-TKT00347,Hosting,Medium,AG032,22.65,8,Resolved,False
-TKT00348,Billing,Low,AG005,39.05,24,Open,False
-TKT00349,Login Issue,Medium,AG027,4.16,4,Resolved,False
-TKT00350,Website Builder,Low,AG032,35.81,24,Resolved,False
-TKT00351,Billing,Medium,AG097,41.6,4,Resolved,False
-TKT00352,Website Builder,High,AG030,39.34,12,Open,False
-TKT00353,Website Builder,High,AG031,15.18,8,Open,False
-TKT00354,Billing,Critical,AG039,13.93,8,Resolved,False
-TKT00355,Website Builder,Critical,AG007,46.7,24,Open,False
-TKT00356,Domain Management,Critical,AG053,8.01,24,Resolved,True
-TKT00357,Website Builder,Critical,AG031,40.92,12,Resolved,False
-TKT00358,Hosting,Low,AG072,20.4,24,Open,True
-TKT00359,Website Builder,Medium,AG050,12.41,8,Resolved,False
-TKT00360,Email Support,Low,AG058,40.82,4,Open,False
-TKT00361,Email Support,Medium,AG007,13.62,4,Resolved,False
-TKT00362,Billing,Medium,AG062,10.82,12,Resolved,True
-TKT00363,Login Issue,Medium,AG025,46.22,4,Resolved,False
-TKT00364,Billing,Medium,AG051,44.01,12,Resolved,False
-TKT00365,Hosting,Critical,AG069,31.49,12,Resolved,False
-TKT00366,Domain Management,Critical,AG060,5.63,24,Resolved,True
-TKT00367,Billing,High,AG041,20.45,8,Resolved,False
-TKT00368,Login Issue,High,AG071,44.93,24,Resolved,False
-TKT00369,Billing,Medium,AG043,11.81,8,Resolved,False
-TKT00370,Website Builder,High,AG033,36.88,24,Resolved,False
-TKT00371,Hosting,Medium,AG094,38.36,8,Resolved,False
-TKT00372,Email Support,Critical,AG024,44.09,4,Open,False
-TKT00373,Login Issue,Low,AG086,3.28,4,Resolved,True
-TKT00374,Billing,Medium,AG009,34.24,4,Resolved,False
-TKT00375,Website Builder,Critical,AG048,3.84,24,Resolved,True
-TKT00376,Login Issue,Low,AG069,26.93,4,Resolved,False
-TKT00377,Website Builder,High,AG069,46.94,4,Open,False
-TKT00378,Email Support,Critical,AG023,6.03,4,Open,False
-TKT00379,Billing,Medium,AG025,30.13,12,Resolved,False
-TKT00380,Domain Management,Critical,AG011,18.53,24,Resolved,True
-TKT00381,Website Builder,Medium,AG090,11.62,4,Resolved,False
-TKT00382,Login Issue,Critical,AG049,18.73,24,Resolved,True
-TKT00383,Email Support,Low,AG090,9.06,24,Resolved,True
-TKT00384,Email Support,High,AG073,46.93,4,Open,False
-TKT00385,Login Issue,Medium,AG028,43.36,24,Resolved,False
-TKT00386,Login Issue,Low,AG088,44.5,4,Resolved,False
-TKT00387,Domain Management,Low,AG027,28.59,24,Resolved,False
-TKT00388,Domain Management,Medium,AG073,12.3,24,Open,True
-TKT00389,Domain Management,Critical,AG097,35.77,4,Open,False
-TKT00390,Email Support,High,AG007,5.59,8,Resolved,True
-TKT00391,Domain Management,Critical,AG100,16.34,12,Resolved,False
-TKT00392,Hosting,Medium,AG046,26.99,24,Resolved,False
-TKT00393,Billing,Critical,AG011,37.29,12,Resolved,False
-TKT00394,Email Support,Low,AG011,13.59,24,Resolved,True
-TKT00395,Email Support,Critical,AG041,17.95,4,Resolved,False
-TKT00396,Domain Management,Critical,AG047,36.78,4,Resolved,False
-TKT00397,Login Issue,Medium,AG056,22.1,24,Resolved,True
-TKT00398,Login Issue,Low,AG046,27.05,12,Resolved,False
-TKT00399,Login Issue,High,AG053,19.23,4,Open,False
-TKT00400,Billing,Medium,AG088,18.89,8,Resolved,False
-TKT00401,Domain Management,High,AG064,7.86,8,Resolved,True
-TKT00402,Domain Management,Critical,AG039,23.76,4,Resolved,False
-TKT00403,Domain Management,Medium,AG093,30.38,8,Resolved,False
-TKT00404,Login Issue,Medium,AG039,1.32,24,Resolved,True
-TKT00405,Website Builder,Critical,AG043,21.69,24,Open,True
-TKT00406,Billing,High,AG042,29.35,8,Resolved,False
-TKT00407,Domain Management,Medium,AG051,46.53,12,Resolved,False
-TKT00408,Website Builder,Medium,AG042,18.67,24,Resolved,True
-TKT00409,Login Issue,Medium,AG076,47.87,8,Open,False
-TKT00410,Login Issue,Critical,AG091,10.85,12,Resolved,True
-TKT00411,Hosting,Critical,AG018,30.77,8,Resolved,False
-TKT00412,Email Support,Medium,AG092,20.89,24,Resolved,True
-TKT00413,Hosting,Critical,AG075,19.84,24,Open,True
-TKT00414,Login Issue,High,AG090,43.09,4,Resolved,False
-TKT00415,Billing,High,AG022,31.41,4,Open,False
-TKT00416,Email Support,Critical,AG097,16.59,24,Resolved,True
-TKT00417,Login Issue,Low,AG034,11.43,8,Resolved,False
-TKT00418,Domain Management,Critical,AG060,37.3,8,Resolved,False
-TKT00419,Login Issue,Critical,AG014,14.89,4,Resolved,False
-TKT00420,Email Support,Medium,AG045,15.66,24,Resolved,True
-TKT00421,Website Builder,Critical,AG045,23.38,24,Resolved,True
-TKT00422,Domain Management,Low,AG039,3.1,4,Resolved,True
-TKT00423,Domain Management,Low,AG087,38.6,8,Open,False
-TKT00424,Billing,Medium,AG043,27.31,24,Resolved,False
-TKT00425,Hosting,Medium,AG024,31.1,24,Resolved,False
-TKT00426,Login Issue,Medium,AG058,28.83,24,Resolved,False
-TKT00427,Email Support,Medium,AG027,14.08,4,Open,False
-TKT00428,Login Issue,Medium,AG047,16.32,24,Resolved,True
-TKT00429,Domain Management,Critical,AG068,46.4,12,Open,False
-TKT00430,Hosting,Critical,AG076,6.37,12,Resolved,True
-TKT00431,Website Builder,Medium,AG087,34.18,12,Open,False
-TKT00432,Website Builder,Low,AG087,7.3,4,Resolved,False
-TKT00433,Domain Management,Low,AG024,18.55,8,Open,False
-TKT00434,Hosting,Critical,AG077,7.48,24,Resolved,True
-TKT00435,Billing,Critical,AG082,26.26,8,Open,False
-TKT00436,Billing,Critical,AG037,7.59,12,Resolved,True
-TKT00437,Website Builder,Low,AG046,45.74,24,Resolved,False
-TKT00438,Billing,Critical,AG072,24.76,24,Resolved,False
-TKT00439,Email Support,Critical,AG054,34.38,24,Resolved,False
-TKT00440,Billing,Low,AG073,2.45,8,Resolved,True
-TKT00441,Login Issue,High,AG029,26.27,8,Resolved,False
-TKT00442,Website Builder,Critical,AG071,25.01,4,Resolved,False
-TKT00443,Website Builder,High,AG070,39.66,4,Resolved,False
-TKT00444,Website Builder,Medium,AG055,5.81,8,Resolved,True
-TKT00445,Login Issue,Critical,AG034,17.38,4,Resolved,False
-TKT00446,Login Issue,Medium,AG027,39.1,12,Open,False
-TKT00447,Email Support,Critical,AG022,29.96,8,Resolved,False
-TKT00448,Login Issue,High,AG069,14.21,8,Resolved,False
-TKT00449,Email Support,High,AG038,27.92,4,Resolved,False
-TKT00450,Hosting,Low,AG036,41.75,8,Resolved,False
-TKT00451,Billing,Medium,AG092,16.14,8,Resolved,False
-TKT00452,Hosting,Medium,AG074,30.72,24,Resolved,False
-TKT00453,Hosting,Low,AG082,38.35,4,Resolved,False
-TKT00454,Website Builder,High,AG089,45.01,12,Resolved,False
-TKT00455,Hosting,High,AG075,1.12,4,Resolved,True
-TKT00456,Email Support,High,AG009,38.4,24,Resolved,False
-TKT00457,Hosting,Medium,AG064,13.62,12,Resolved,False
-TKT00458,Website Builder,Medium,AG073,41.06,12,Resolved,False
-TKT00459,Login Issue,Low,AG081,37.84,24,Resolved,False
-TKT00460,Login Issue,Medium,AG057,22.46,24,Resolved,True
-TKT00461,Email Support,Medium,AG084,15.19,12,Resolved,False
-TKT00462,Email Support,High,AG033,4.87,8,Resolved,True
-TKT00463,Hosting,High,AG093,33.87,8,Resolved,False
-TKT00464,Email Support,Low,AG091,5.47,8,Resolved,True
-TKT00465,Login Issue,Medium,AG076,11.63,24,Resolved,True
-TKT00466,Login Issue,High,AG016,47.44,24,Resolved,False
-TKT00467,Hosting,Low,AG030,19.0,4,Resolved,False
-TKT00468,Domain Management,High,AG039,7.45,8,Resolved,True
-TKT00469,Login Issue,Low,AG079,31.55,24,Resolved,False
-TKT00470,Email Support,Medium,AG081,36.17,24,Open,False
-TKT00471,Email Support,Critical,AG028,5.07,4,Resolved,False
-TKT00472,Login Issue,Critical,AG045,46.27,12,Resolved,False
-TKT00473,Billing,High,AG083,4.96,12,Resolved,True
-TKT00474,Email Support,High,AG027,25.33,8,Resolved,False
-TKT00475,Domain Management,Low,AG031,24.26,4,Resolved,False
-TKT00476,Hosting,Low,AG068,42.77,4,Resolved,False
-TKT00477,Domain Management,Medium,AG050,41.46,24,Resolved,False
-TKT00478,Website Builder,Medium,AG098,23.14,4,Resolved,False
-TKT00479,Website Builder,Low,AG002,13.32,4,Resolved,False
-TKT00480,Hosting,High,AG081,34.49,24,Resolved,False
-TKT00481,Email Support,Critical,AG011,31.11,8,Resolved,False
-TKT00482,Login Issue,High,AG011,25.03,8,Resolved,False
-TKT00483,Website Builder,High,AG051,28.56,4,Resolved,False
-TKT00484,Email Support,Critical,AG094,45.81,8,Resolved,False
-TKT00485,Billing,Low,AG056,6.45,4,Resolved,False
-TKT00486,Email Support,Medium,AG016,1.6,8,Resolved,True
-TKT00487,Billing,Critical,AG045,25.58,12,Resolved,False
-TKT00488,Domain Management,Medium,AG096,37.71,12,Resolved,False
-TKT00489,Login Issue,High,AG055,13.78,4,Resolved,False
-TKT00490,Email Support,Low,AG064,22.39,12,Resolved,False
-TKT00491,Hosting,Medium,AG048,8.39,4,Open,False
-TKT00492,Email Support,Low,AG030,35.82,4,Resolved,False
-TKT00493,Login Issue,Medium,AG006,23.17,24,Resolved,True
-TKT00494,Billing,Low,AG071,38.75,24,Resolved,False
-TKT00495,Domain Management,Medium,AG054,44.05,12,Resolved,False
-TKT00496,Login Issue,High,AG016,24.6,4,Resolved,False
-TKT00497,Billing,Low,AG052,4.24,24,Resolved,True
-TKT00498,Domain Management,High,AG012,27.0,4,Resolved,False
-TKT00499,Billing,High,AG073,37.87,8,Resolved,False
-TKT00500,Domain Management,Critical,AG099,37.47,8,Resolved,False
-TKT00501,Login Issue,Critical,AG004,11.95,12,Resolved,True
-TKT00502,Domain Management,Low,AG098,31.89,12,Resolved,False
-TKT00503,Billing,Medium,AG054,24.13,4,Resolved,False
-TKT00504,Email Support,High,AG012,3.06,8,Open,True
-TKT00505,Hosting,High,AG059,46.8,4,Open,False
-TKT00506,Login Issue,Medium,AG082,39.54,4,Open,False
-TKT00507,Website Builder,Low,AG056,32.13,8,Resolved,False
-TKT00508,Domain Management,High,AG041,44.52,24,Resolved,False
-TKT00509,Domain Management,Critical,AG035,11.98,8,Resolved,False
-TKT00510,Website Builder,Low,AG020,5.97,24,Resolved,True
-TKT00511,Domain Management,Critical,AG016,26.19,8,Resolved,False
-TKT00512,Domain Management,Critical,AG034,41.07,4,Resolved,False
-TKT00513,Email Support,High,AG091,33.75,4,Resolved,False
-TKT00514,Domain Management,Medium,AG012,34.42,12,Resolved,False
-TKT00515,Website Builder,Low,AG087,15.05,8,Resolved,False
-TKT00516,Hosting,Critical,AG072,36.16,8,Resolved,False
-TKT00517,Hosting,Low,AG018,6.71,4,Resolved,False
-TKT00518,Billing,Medium,AG052,18.5,4,Open,False
-TKT00519,Website Builder,High,AG010,2.02,4,Resolved,True
-TKT00520,Email Support,Critical,AG017,5.32,12,Resolved,True
-TKT00521,Login Issue,Critical,AG007,8.9,24,Resolved,True
-TKT00522,Hosting,Low,AG049,33.11,8,Resolved,False
-TKT00523,Billing,Medium,AG036,14.15,8,Resolved,False
-TKT00524,Website Builder,Medium,AG083,14.87,24,Open,True
-TKT00525,Hosting,Low,AG012,14.15,8,Resolved,False
-TKT00526,Billing,Medium,AG081,47.72,4,Resolved,False
-TKT00527,Email Support,High,AG062,26.59,24,Resolved,False
-TKT00528,Website Builder,High,AG050,13.71,4,Resolved,False
-TKT00529,Website Builder,Medium,AG004,43.1,12,Resolved,False
-TKT00530,Hosting,High,AG099,28.45,8,Resolved,False
-TKT00531,Login Issue,Medium,AG085,12.33,4,Resolved,False
-TKT00532,Website Builder,Critical,AG046,44.95,8,Resolved,False
-TKT00533,Billing,High,AG095,33.79,4,Resolved,False
-TKT00534,Website Builder,Medium,AG073,45.57,24,Open,False
-TKT00535,Domain Management,Medium,AG063,2.78,4,Resolved,True
-TKT00536,Website Builder,Medium,AG003,25.74,4,Resolved,False
-TKT00537,Website Builder,Medium,AG017,17.02,8,Resolved,False
-TKT00538,Login Issue,Low,AG019,28.57,8,Resolved,False
-TKT00539,Website Builder,High,AG010,18.56,24,Open,True
-TKT00540,Login Issue,High,AG039,16.16,8,Resolved,False
-TKT00541,Email Support,Critical,AG084,15.91,12,Resolved,False
-TKT00542,Email Support,Medium,AG049,15.42,12,Resolved,False
-TKT00543,Billing,Low,AG090,45.59,24,Open,False
-TKT00544,Login Issue,Medium,AG078,15.96,8,Open,False
-TKT00545,Login Issue,Critical,AG019,16.56,4,Resolved,False
-TKT00546,Domain Management,High,AG022,30.9,4,Resolved,False
-TKT00547,Hosting,Low,AG034,10.86,4,Resolved,False
-TKT00548,Domain Management,Low,AG093,1.06,24,Resolved,True
-TKT00549,Email Support,Critical,AG022,42.57,24,Resolved,False
-TKT00550,Domain Management,Critical,AG013,39.95,8,Resolved,False
-TKT00551,Hosting,Low,AG005,14.86,12,Resolved,False
-TKT00552,Login Issue,Low,AG044,8.99,24,Resolved,True
-TKT00553,Email Support,Low,AG071,45.27,4,Resolved,False
-TKT00554,Website Builder,Critical,AG091,2.46,8,Open,True
-TKT00555,Hosting,Medium,AG007,5.76,8,Resolved,True
-TKT00556,Hosting,High,AG085,14.23,8,Resolved,False
-TKT00557,Login Issue,Critical,AG074,26.83,24,Resolved,False
-TKT00558,Login Issue,High,AG001,21.1,12,Open,False
-TKT00559,Hosting,Medium,AG013,2.21,8,Resolved,True
-TKT00560,Login Issue,Critical,AG015,15.49,24,Resolved,True
-TKT00561,Hosting,High,AG012,31.17,24,Resolved,False
-TKT00562,Domain Management,Critical,AG048,9.77,4,Resolved,False
-TKT00563,Hosting,Critical,AG034,11.63,12,Open,True
-TKT00564,Login Issue,Medium,AG097,33.73,4,Resolved,False
-TKT00565,Email Support,High,AG070,20.46,8,Open,False
-TKT00566,Login Issue,Critical,AG067,20.68,24,Open,True
-TKT00567,Billing,Critical,AG039,4.71,4,Open,False
-TKT00568,Website Builder,Medium,AG016,45.61,24,Resolved,False
-TKT00569,Billing,Medium,AG025,6.93,24,Resolved,True
-TKT00570,Email Support,Critical,AG026,47.87,8,Open,False
-TKT00571,Domain Management,High,AG094,43.97,4,Resolved,False
-TKT00572,Hosting,Critical,AG071,16.33,12,Open,False
-TKT00573,Hosting,Low,AG090,30.28,24,Resolved,False
-TKT00574,Hosting,Medium,AG019,27.63,4,Resolved,False
-TKT00575,Website Builder,Low,AG037,41.77,12,Resolved,False
-TKT00576,Domain Management,Critical,AG084,23.82,24,Resolved,True
-TKT00577,Billing,High,AG052,7.76,24,Resolved,True
-TKT00578,Hosting,High,AG089,12.17,24,Resolved,True
-TKT00579,Domain Management,Low,AG044,39.42,12,Resolved,False
-TKT00580,Domain Management,Critical,AG090,33.19,8,Resolved,False
-TKT00581,Domain Management,Critical,AG100,39.81,12,Resolved,False
-TKT00582,Website Builder,Low,AG025,21.76,24,Resolved,True
-TKT00583,Website Builder,High,AG008,25.22,8,Resolved,False
-TKT00584,Domain Management,Critical,AG018,37.68,4,Resolved,False
-TKT00585,Billing,Medium,AG008,12.73,24,Resolved,True
-TKT00586,Domain Management,Medium,AG036,18.31,24,Open,True
-TKT00587,Hosting,Low,AG088,2.44,12,Resolved,True
-TKT00588,Website Builder,Critical,AG023,46.14,24,Open,False
-TKT00589,Website Builder,High,AG045,8.69,12,Resolved,True
-TKT00590,Domain Management,Low,AG050,3.33,8,Resolved,True
-TKT00591,Email Support,Medium,AG087,10.72,24,Open,True
-TKT00592,Login Issue,Low,AG061,43.84,8,Open,False
-TKT00593,Login Issue,Medium,AG033,29.59,12,Resolved,False
-TKT00594,Hosting,Critical,AG045,22.57,8,Resolved,False
-TKT00595,Domain Management,Critical,AG075,5.81,12,Open,True
-TKT00596,Email Support,High,AG039,33.17,24,Resolved,False
-TKT00597,Domain Management,High,AG082,16.28,12,Resolved,False
-TKT00598,Email Support,High,AG025,8.05,8,Resolved,False
-TKT00599,Website Builder,Critical,AG085,16.02,8,Resolved,False
-TKT00600,Email Support,Critical,AG038,13.19,24,Resolved,True
-TKT00601,Hosting,Low,AG075,34.28,8,Resolved,False
-TKT00602,Email Support,Medium,AG088,26.13,24,Resolved,False
-TKT00603,Website Builder,High,AG022,40.51,8,Resolved,False
-TKT00604,Login Issue,Critical,AG017,35.82,8,Resolved,False
-TKT00605,Email Support,Low,AG029,17.7,12,Resolved,False
-TKT00606,Domain Management,High,AG034,28.52,24,Resolved,False
-TKT00607,Hosting,Low,AG082,28.43,4,Resolved,False
-TKT00608,Billing,Low,AG088,18.94,12,Resolved,False
-TKT00609,Login Issue,Medium,AG018,47.64,12,Resolved,False
-TKT00610,Website Builder,Critical,AG019,15.87,8,Resolved,False
-TKT00611,Hosting,High,AG081,47.37,12,Resolved,False
-TKT00612,Login Issue,Critical,AG036,10.84,8,Open,False
-TKT00613,Billing,Critical,AG098,37.65,8,Open,False
-TKT00614,Hosting,Critical,AG052,21.16,24,Resolved,True
-TKT00615,Login Issue,Low,AG069,10.37,12,Resolved,True
-TKT00616,Domain Management,Medium,AG003,32.81,8,Resolved,False
-TKT00617,Email Support,High,AG040,7.06,24,Open,True
-TKT00618,Website Builder,High,AG022,4.07,4,Resolved,False
-TKT00619,Domain Management,Critical,AG094,25.45,12,Resolved,False
-TKT00620,Email Support,Medium,AG044,47.82,24,Resolved,False
-TKT00621,Billing,Medium,AG052,1.9,8,Resolved,True
-TKT00622,Billing,Low,AG076,24.72,4,Resolved,False
-TKT00623,Email Support,Low,AG049,42.2,12,Open,False
-TKT00624,Website Builder,Low,AG077,47.75,4,Resolved,False
-TKT00625,Login Issue,Low,AG054,21.88,4,Open,False
-TKT00626,Domain Management,Critical,AG090,8.2,4,Resolved,False
-TKT00627,Hosting,Low,AG085,25.45,8,Resolved,False
-TKT00628,Login Issue,Low,AG037,6.36,4,Resolved,False
-TKT00629,Billing,Medium,AG100,13.36,8,Resolved,False
-TKT00630,Email Support,Critical,AG038,8.54,24,Resolved,True
-TKT00631,Email Support,Critical,AG043,12.02,4,Resolved,False
-TKT00632,Login Issue,Critical,AG020,45.62,4,Resolved,False
-TKT00633,Domain Management,Medium,AG059,47.47,12,Resolved,False
-TKT00634,Hosting,Low,AG013,39.22,4,Resolved,False
-TKT00635,Domain Management,High,AG055,35.71,4,Resolved,False
-TKT00636,Login Issue,Medium,AG085,31.42,12,Resolved,False
-TKT00637,Hosting,High,AG094,5.37,12,Resolved,True
-TKT00638,Login Issue,Critical,AG052,46.23,12,Resolved,False
-TKT00639,Email Support,Critical,AG054,31.5,8,Resolved,False
-TKT00640,Billing,Low,AG021,5.87,24,Open,True
-TKT00641,Email Support,Critical,AG024,29.73,12,Open,False
-TKT00642,Login Issue,Medium,AG062,44.26,4,Resolved,False
-TKT00643,Hosting,Low,AG009,13.3,12,Resolved,False
-TKT00644,Email Support,Medium,AG086,42.04,4,Resolved,False
-TKT00645,Email Support,Medium,AG062,17.25,24,Resolved,True
-TKT00646,Website Builder,Low,AG002,31.24,8,Open,False
-TKT00647,Hosting,Critical,AG022,4.52,24,Resolved,True
-TKT00648,Billing,High,AG036,3.37,8,Open,True
-TKT00649,Email Support,Critical,AG052,39.4,4,Resolved,False
-TKT00650,Hosting,Critical,AG012,41.26,24,Resolved,False
-TKT00651,Login Issue,Critical,AG096,31.71,4,Resolved,False
-TKT00652,Hosting,Low,AG072,26.81,4,Open,False
-TKT00653,Website Builder,High,AG066,27.43,24,Resolved,False
-TKT00654,Domain Management,Low,AG029,40.68,12,Open,False
-TKT00655,Website Builder,Critical,AG092,31.89,24,Resolved,False
-TKT00656,Login Issue,Medium,AG001,17.04,12,Open,False
-TKT00657,Website Builder,High,AG090,6.0,8,Resolved,True
-TKT00658,Billing,Critical,AG014,12.95,8,Resolved,False
-TKT00659,Login Issue,Critical,AG028,22.48,8,Resolved,False
-TKT00660,Login Issue,Critical,AG006,44.55,4,Resolved,False
-TKT00661,Hosting,Medium,AG064,1.2,4,Open,True
-TKT00662,Hosting,Critical,AG066,37.71,8,Open,False
-TKT00663,Billing,Medium,AG014,19.21,12,Open,False
-TKT00664,Hosting,Critical,AG078,44.05,8,Resolved,False
-TKT00665,Hosting,High,AG038,22.28,8,Resolved,False
-TKT00666,Hosting,High,AG090,26.75,12,Open,False
-TKT00667,Email Support,Medium,AG026,10.86,12,Resolved,True
-TKT00668,Email Support,Medium,AG091,31.55,8,Open,False
-TKT00669,Website Builder,High,AG091,6.42,12,Open,True
-TKT00670,Hosting,Critical,AG087,36.15,12,Resolved,False
-TKT00671,Login Issue,Low,AG004,18.9,4,Resolved,False
-TKT00672,Billing,High,AG097,37.92,12,Resolved,False
-TKT00673,Billing,Low,AG089,37.86,8,Open,False
-TKT00674,Login Issue,High,AG058,5.82,8,Open,True
-TKT00675,Hosting,Medium,AG066,37.86,12,Resolved,False
-TKT00676,Hosting,Critical,AG054,45.96,12,Open,False
-TKT00677,Login Issue,Low,AG096,12.81,24,Resolved,True
-TKT00678,Email Support,High,AG097,28.65,8,Resolved,False
-TKT00679,Domain Management,Critical,AG023,47.22,4,Resolved,False
-TKT00680,Billing,Low,AG049,2.91,12,Open,True
-TKT00681,Domain Management,Medium,AG021,28.45,12,Resolved,False
-TKT00682,Domain Management,Critical,AG091,45.06,4,Resolved,False
-TKT00683,Domain Management,Low,AG100,44.82,12,Resolved,False
-TKT00684,Website Builder,High,AG010,37.85,12,Open,False
-TKT00685,Billing,Medium,AG067,4.2,8,Resolved,True
-TKT00686,Website Builder,Critical,AG012,17.42,8,Resolved,False
-TKT00687,Domain Management,High,AG038,11.27,24,Open,True
-TKT00688,Email Support,Low,AG015,32.44,24,Resolved,False
-TKT00689,Email Support,Medium,AG006,33.08,12,Resolved,False
-TKT00690,Login Issue,Critical,AG033,26.39,12,Resolved,False
-TKT00691,Website Builder,High,AG066,38.73,24,Resolved,False
-TKT00692,Login Issue,High,AG084,10.05,4,Resolved,False
-TKT00693,Billing,Low,AG081,4.08,8,Resolved,True
-TKT00694,Login Issue,Medium,AG069,39.95,24,Resolved,False
-TKT00695,Email Support,Medium,AG004,22.58,12,Resolved,False
-TKT00696,Login Issue,Low,AG007,9.37,12,Open,True
-TKT00697,Login Issue,Medium,AG034,20.16,24,Resolved,True
-TKT00698,Hosting,High,AG003,19.31,4,Open,False
-TKT00699,Login Issue,Low,AG097,36.06,4,Resolved,False
-TKT00700,Domain Management,Low,AG038,37.98,12,Open,False
-TKT00701,Login Issue,High,AG098,44.55,24,Resolved,False
-TKT00702,Email Support,Low,AG061,8.35,8,Resolved,False
-TKT00703,Email Support,Critical,AG070,14.86,8,Resolved,False
-TKT00704,Email Support,High,AG002,27.02,8,Resolved,False
-TKT00705,Login Issue,Low,AG074,29.04,4,Resolved,False
-TKT00706,Billing,High,AG028,20.39,8,Resolved,False
-TKT00707,Billing,Medium,AG079,40.23,8,Resolved,False
-TKT00708,Billing,Low,AG097,44.82,24,Open,False
-TKT00709,Login Issue,High,AG086,4.17,4,Resolved,False
-TKT00710,Email Support,Critical,AG043,17.79,8,Resolved,False
-TKT00711,Domain Management,Low,AG025,15.94,24,Resolved,True
-TKT00712,Website Builder,High,AG089,28.46,12,Resolved,False
-TKT00713,Hosting,Medium,AG001,15.72,8,Resolved,False
-TKT00714,Domain Management,High,AG018,32.94,12,Resolved,False
-TKT00715,Hosting,Critical,AG046,37.41,24,Open,False
-TKT00716,Login Issue,Medium,AG083,29.51,12,Resolved,False
-TKT00717,Website Builder,Medium,AG034,35.48,4,Resolved,False
-TKT00718,Login Issue,Low,AG075,28.21,8,Resolved,False
-TKT00719,Website Builder,High,AG070,43.02,24,Resolved,False
-TKT00720,Domain Management,Critical,AG029,42.9,12,Resolved,False
-TKT00721,Hosting,Low,AG051,18.1,4,Resolved,False
-TKT00722,Website Builder,Medium,AG097,25.16,24,Resolved,False
-TKT00723,Billing,Medium,AG095,35.4,12,Resolved,False
-TKT00724,Billing,Critical,AG030,3.95,12,Resolved,True
-TKT00725,Login Issue,Medium,AG067,43.66,12,Resolved,False
-TKT00726,Hosting,Critical,AG006,2.88,12,Resolved,True
-TKT00727,Email Support,High,AG095,13.38,8,Resolved,False
-TKT00728,Email Support,Critical,AG047,28.62,4,Open,False
-TKT00729,Domain Management,Critical,AG029,25.27,12,Resolved,False
-TKT00730,Hosting,Critical,AG078,1.31,8,Resolved,True
-TKT00731,Billing,Medium,AG010,25.18,12,Resolved,False
-TKT00732,Billing,Medium,AG021,18.02,4,Resolved,False
-TKT00733,Hosting,High,AG093,6.33,24,Resolved,True
-TKT00734,Billing,Medium,AG083,40.17,4,Resolved,False
-TKT00735,Login Issue,Medium,AG074,28.84,8,Open,False
-TKT00736,Login Issue,Medium,AG008,8.82,8,Open,False
-TKT00737,Hosting,Low,AG093,35.21,12,Resolved,False
-TKT00738,Billing,Critical,AG078,47.66,24,Resolved,False
-TKT00739,Billing,Critical,AG077,7.71,8,Open,True
-TKT00740,Email Support,High,AG022,35.04,12,Resolved,False
-TKT00741,Website Builder,Low,AG030,18.78,8,Resolved,False
-TKT00742,Login Issue,Medium,AG067,41.4,24,Resolved,False
-TKT00743,Website Builder,Low,AG023,23.37,4,Open,False
-TKT00744,Website Builder,Low,AG012,23.67,8,Open,False
-TKT00745,Website Builder,Low,AG100,32.89,24,Open,False
-TKT00746,Hosting,High,AG006,33.79,24,Resolved,False
-TKT00747,Hosting,Critical,AG045,28.69,4,Resolved,False
-TKT00748,Billing,High,AG062,37.0,4,Resolved,False
-TKT00749,Website Builder,Critical,AG033,9.88,4,Open,False
-TKT00750,Website Builder,Low,AG067,1.34,8,Resolved,True
-TKT00751,Hosting,High,AG014,8.27,12,Resolved,True
-TKT00752,Website Builder,Critical,AG073,18.19,12,Resolved,False
-TKT00753,Billing,Critical,AG071,37.84,24,Resolved,False
-TKT00754,Domain Management,Critical,AG033,47.46,12,Resolved,False
-TKT00755,Email Support,Medium,AG085,6.6,8,Resolved,True
-TKT00756,Email Support,Medium,AG013,11.08,24,Resolved,True
-TKT00757,Website Builder,Low,AG021,19.29,4,Resolved,False
-TKT00758,Billing,Critical,AG077,21.46,4,Resolved,False
-TKT00759,Billing,High,AG011,29.62,24,Resolved,False
-TKT00760,Website Builder,High,AG092,46.29,4,Resolved,False
-TKT00761,Email Support,Critical,AG057,1.5,12,Resolved,True
-TKT00762,Login Issue,Medium,AG079,8.97,4,Resolved,False
-TKT00763,Billing,Low,AG021,5.08,12,Resolved,True
-TKT00764,Domain Management,Critical,AG052,28.55,4,Resolved,False
-TKT00765,Login Issue,High,AG093,40.0,12,Resolved,False
-TKT00766,Domain Management,Medium,AG078,46.26,24,Resolved,False
-TKT00767,Website Builder,Low,AG034,9.23,4,Open,False
-TKT00768,Login Issue,High,AG044,45.51,12,Open,False
-TKT00769,Website Builder,High,AG089,21.81,24,Open,True
-TKT00770,Hosting,Medium,AG097,16.96,24,Resolved,True
-TKT00771,Website Builder,Low,AG062,6.46,4,Resolved,False
-TKT00772,Email Support,Medium,AG087,33.96,12,Resolved,False
-TKT00773,Domain Management,Low,AG090,40.11,8,Resolved,False
-TKT00774,Login Issue,Critical,AG087,36.19,12,Resolved,False
-TKT00775,Website Builder,Medium,AG061,15.75,8,Open,False
-TKT00776,Domain Management,Medium,AG096,33.11,8,Resolved,False
-TKT00777,Email Support,Medium,AG031,35.57,12,Resolved,False
-TKT00778,Billing,Medium,AG032,40.31,12,Resolved,False
-TKT00779,Login Issue,Low,AG011,32.76,24,Open,False
-TKT00780,Login Issue,Low,AG062,18.45,12,Resolved,False
-TKT00781,Website Builder,High,AG063,9.59,12,Resolved,True
-TKT00782,Billing,Medium,AG007,25.71,24,Resolved,False
-TKT00783,Website Builder,Low,AG065,17.32,8,Resolved,False
-TKT00784,Login Issue,Critical,AG041,33.39,4,Resolved,False
-TKT00785,Hosting,Low,AG042,18.0,12,Resolved,False
-TKT00786,Website Builder,High,AG031,13.66,12,Resolved,False
-TKT00787,Billing,Critical,AG055,10.9,12,Resolved,True
-TKT00788,Hosting,High,AG058,9.45,8,Open,False
-TKT00789,Email Support,Medium,AG013,34.88,8,Open,False
-TKT00790,Hosting,Critical,AG026,7.85,8,Resolved,True
-TKT00791,Login Issue,Medium,AG054,24.48,12,Resolved,False
-TKT00792,Domain Management,High,AG072,41.35,4,Resolved,False
-TKT00793,Login Issue,Medium,AG008,11.13,12,Resolved,True
-TKT00794,Email Support,Low,AG058,36.0,12,Resolved,False
-TKT00795,Domain Management,High,AG045,1.93,4,Resolved,True
-TKT00796,Email Support,Medium,AG074,28.07,8,Resolved,False
-TKT00797,Domain Management,High,AG087,24.99,24,Resolved,False
-TKT00798,Hosting,High,AG060,30.69,8,Resolved,False
-TKT00799,Email Support,High,AG054,30.67,24,Resolved,False
-TKT00800,Login Issue,Medium,AG044,11.73,12,Resolved,True
-TKT00801,Email Support,High,AG078,31.3,12,Resolved,False
-TKT00802,Domain Management,Critical,AG053,8.86,4,Resolved,False
-TKT00803,Email Support,Medium,AG085,12.83,4,Resolved,False
-TKT00804,Billing,Critical,AG014,5.49,24,Open,True
-TKT00805,Login Issue,Low,AG099,19.66,4,Resolved,False
-TKT00806,Domain Management,Medium,AG011,31.78,24,Resolved,False
-TKT00807,Billing,Medium,AG095,14.36,8,Resolved,False
-TKT00808,Website Builder,Medium,AG004,2.65,12,Resolved,True
-TKT00809,Hosting,Critical,AG070,44.94,24,Resolved,False
-TKT00810,Email Support,Medium,AG076,29.09,24,Open,False
-TKT00811,Email Support,High,AG045,23.64,8,Resolved,False
-TKT00812,Hosting,High,AG047,20.37,8,Resolved,False
-TKT00813,Login Issue,Low,AG067,39.32,8,Resolved,False
-TKT00814,Domain Management,Critical,AG069,1.39,24,Resolved,True
-TKT00815,Domain Management,Low,AG099,21.23,12,Open,False
-TKT00816,Billing,Low,AG071,18.56,24,Open,True
-TKT00817,Hosting,Critical,AG032,8.67,24,Resolved,True
-TKT00818,Billing,High,AG011,20.85,8,Open,False
-TKT00819,Website Builder,High,AG037,31.48,12,Resolved,False
-TKT00820,Billing,Low,AG024,7.42,4,Resolved,False
-TKT00821,Website Builder,Critical,AG035,33.92,24,Resolved,False
-TKT00822,Domain Management,Low,AG020,3.33,4,Resolved,True
-TKT00823,Login Issue,High,AG035,6.88,24,Resolved,True
-TKT00824,Billing,Low,AG020,1.69,8,Resolved,True
-TKT00825,Hosting,High,AG064,47.9,24,Resolved,False
-TKT00826,Domain Management,Low,AG097,45.73,4,Resolved,False
-TKT00827,Hosting,Low,AG070,23.1,8,Resolved,False
-TKT00828,Hosting,Low,AG016,46.81,8,Resolved,False
-TKT00829,Hosting,Medium,AG095,47.74,8,Resolved,False
-TKT00830,Email Support,Low,AG067,32.3,8,Resolved,False
-TKT00831,Hosting,High,AG042,8.45,4,Open,False
-TKT00832,Website Builder,Low,AG033,23.62,12,Resolved,False
-TKT00833,Domain Management,Low,AG086,11.24,4,Resolved,False
-TKT00834,Email Support,Critical,AG042,1.71,12,Open,True
-TKT00835,Login Issue,Critical,AG032,1.42,4,Open,True
-TKT00836,Email Support,Critical,AG089,29.02,12,Resolved,False
-TKT00837,Billing,Medium,AG064,5.3,12,Resolved,True
-TKT00838,Login Issue,High,AG083,8.23,4,Resolved,False
-TKT00839,Hosting,Medium,AG041,47.14,12,Resolved,False
-TKT00840,Email Support,Medium,AG003,33.39,12,Resolved,False
-TKT00841,Domain Management,Low,AG063,34.21,12,Open,False
-TKT00842,Email Support,Critical,AG025,27.63,12,Resolved,False
-TKT00843,Email Support,Critical,AG036,41.78,8,Resolved,False
-TKT00844,Website Builder,Medium,AG058,14.9,12,Open,False
-TKT00845,Domain Management,Critical,AG001,37.47,24,Resolved,False
-TKT00846,Login Issue,High,AG100,30.15,12,Resolved,False
-TKT00847,Email Support,Critical,AG025,25.63,24,Open,False
-TKT00848,Billing,High,AG042,20.26,12,Resolved,False
-TKT00849,Login Issue,Low,AG006,40.25,8,Resolved,False
-TKT00850,Login Issue,Medium,AG014,23.81,4,Resolved,False
-TKT00851,Website Builder,Critical,AG085,24.03,12,Resolved,False
-TKT00852,Domain Management,Medium,AG078,34.74,4,Resolved,False
-TKT00853,Email Support,Critical,AG011,23.0,4,Resolved,False
-TKT00854,Website Builder,Critical,AG048,38.33,4,Open,False
-TKT00855,Domain Management,Low,AG094,4.31,12,Resolved,True
-TKT00856,Billing,Low,AG013,35.08,24,Resolved,False
-TKT00857,Billing,Medium,AG073,30.39,8,Open,False
-TKT00858,Email Support,Critical,AG096,5.96,12,Resolved,True
-TKT00859,Email Support,Critical,AG014,8.84,8,Open,False
-TKT00860,Hosting,High,AG085,8.43,24,Resolved,True
-TKT00861,Domain Management,High,AG048,20.38,24,Resolved,True
-TKT00862,Website Builder,Medium,AG073,26.64,24,Open,False
-TKT00863,Email Support,High,AG047,46.2,24,Resolved,False
-TKT00864,Login Issue,Low,AG037,29.0,8,Resolved,False
-TKT00865,Login Issue,High,AG029,11.1,12,Resolved,True
-TKT00866,Email Support,High,AG071,25.03,8,Resolved,False
-TKT00867,Login Issue,Critical,AG046,8.34,12,Resolved,True
-TKT00868,Website Builder,Medium,AG030,13.04,12,Resolved,False
-TKT00869,Website Builder,Critical,AG073,44.14,4,Resolved,False
-TKT00870,Hosting,Medium,AG063,39.81,4,Open,False
-TKT00871,Email Support,High,AG005,35.35,24,Resolved,False
-TKT00872,Login Issue,High,AG045,42.35,24,Resolved,False
-TKT00873,Login Issue,Medium,AG096,31.68,4,Resolved,False
-TKT00874,Login Issue,High,AG068,2.94,8,Resolved,True
-TKT00875,Website Builder,Medium,AG020,3.37,24,Resolved,True
-TKT00876,Website Builder,Low,AG029,21.3,24,Resolved,True
-TKT00877,Billing,High,AG011,23.37,4,Open,False
-TKT00878,Hosting,High,AG011,19.73,24,Resolved,True
-TKT00879,Billing,Critical,AG072,10.31,24,Open,True
-TKT00880,Billing,Medium,AG032,4.37,24,Resolved,True
-TKT00881,Email Support,Low,AG015,32.57,24,Resolved,False
-TKT00882,Domain Management,Medium,AG042,17.19,4,Resolved,False
-TKT00883,Billing,High,AG079,39.61,24,Open,False
-TKT00884,Billing,Critical,AG006,44.44,8,Resolved,False
-TKT00885,Email Support,High,AG020,36.61,4,Resolved,False
-TKT00886,Email Support,Low,AG032,45.6,8,Resolved,False
-TKT00887,Login Issue,High,AG089,38.8,12,Resolved,False
-TKT00888,Hosting,Low,AG043,10.82,8,Resolved,False
-TKT00889,Website Builder,High,AG071,23.7,8,Resolved,False
-TKT00890,Hosting,Low,AG033,9.01,12,Resolved,True
-TKT00891,Email Support,High,AG007,22.85,4,Resolved,False
-TKT00892,Hosting,High,AG085,41.05,12,Resolved,False
-TKT00893,Login Issue,High,AG084,19.17,24,Open,True
-TKT00894,Email Support,Low,AG041,23.78,4,Resolved,False
-TKT00895,Billing,Critical,AG072,44.54,4,Resolved,False
-TKT00896,Billing,High,AG043,24.03,8,Resolved,False
-TKT00897,Domain Management,High,AG046,30.39,8,Open,False
-TKT00898,Domain Management,Low,AG081,13.11,24,Resolved,True
-TKT00899,Website Builder,High,AG029,8.13,24,Resolved,True
-TKT00900,Login Issue,Critical,AG067,46.15,8,Resolved,False
-TKT00901,Billing,Medium,AG055,46.62,12,Resolved,False
-TKT00902,Website Builder,Medium,AG027,31.67,8,Resolved,False
-TKT00903,Domain Management,Medium,AG056,47.8,8,Open,False
-TKT00904,Billing,High,AG009,27.19,4,Resolved,False
-TKT00905,Domain Management,Medium,AG094,2.39,12,Resolved,True
-TKT00906,Hosting,High,AG057,36.04,12,Resolved,False
-TKT00907,Billing,Low,AG017,9.68,12,Open,True
-TKT00908,Website Builder,Medium,AG077,11.91,4,Resolved,False
-TKT00909,Login Issue,Critical,AG018,24.61,24,Resolved,False
-TKT00910,Billing,Critical,AG063,23.27,8,Resolved,False
-TKT00911,Billing,Low,AG053,36.93,4,Resolved,False
-TKT00912,Hosting,Medium,AG096,32.55,8,Resolved,False
-TKT00913,Login Issue,Medium,AG057,41.76,24,Resolved,False
-TKT00914,Hosting,Medium,AG055,20.03,4,Open,False
-TKT00915,Email Support,Critical,AG093,15.71,4,Open,False
-TKT00916,Login Issue,Critical,AG059,39.87,4,Resolved,False
-TKT00917,Website Builder,Critical,AG095,2.84,24,Open,True
-TKT00918,Email Support,Low,AG025,14.69,24,Resolved,True
-TKT00919,Domain Management,Critical,AG022,20.86,4,Open,False
-TKT00920,Billing,Critical,AG083,22.23,4,Resolved,False
-TKT00921,Website Builder,Medium,AG051,20.44,24,Resolved,True
-TKT00922,Billing,Critical,AG076,43.14,8,Resolved,False
-TKT00923,Login Issue,High,AG042,33.51,8,Resolved,False
-TKT00924,Login Issue,Low,AG091,22.12,12,Resolved,False
-TKT00925,Website Builder,Critical,AG094,38.18,8,Resolved,False
-TKT00926,Website Builder,Critical,AG006,37.11,12,Open,False
-TKT00927,Email Support,Medium,AG021,41.83,8,Resolved,False
-TKT00928,Hosting,High,AG040,35.32,24,Resolved,False
-TKT00929,Email Support,Medium,AG016,43.23,8,Resolved,False
-TKT00930,Website Builder,High,AG002,22.56,24,Open,True
-TKT00931,Login Issue,Critical,AG031,11.19,24,Resolved,True
-TKT00932,Hosting,Critical,AG011,29.26,4,Resolved,False
-TKT00933,Website Builder,High,AG080,30.55,8,Resolved,False
-TKT00934,Billing,Medium,AG008,31.7,4,Resolved,False
-TKT00935,Login Issue,High,AG043,44.26,4,Resolved,False
-TKT00936,Hosting,Medium,AG021,32.59,8,Resolved,False
-TKT00937,Email Support,High,AG005,5.38,12,Resolved,True
-TKT00938,Domain Management,Critical,AG009,36.65,4,Resolved,False
-TKT00939,Hosting,Medium,AG016,33.65,12,Resolved,False
-TKT00940,Website Builder,Critical,AG068,10.86,8,Open,False
-TKT00941,Login Issue,Low,AG074,35.3,4,Resolved,False
-TKT00942,Email Support,High,AG055,29.62,12,Resolved,False
-TKT00943,Website Builder,High,AG017,29.87,24,Open,False
-TKT00944,Email Support,Critical,AG064,38.98,8,Resolved,False
-TKT00945,Billing,Low,AG016,2.13,4,Resolved,True
-TKT00946,Website Builder,Critical,AG053,3.14,12,Open,True
-TKT00947,Email Support,Medium,AG002,31.11,12,Resolved,False
-TKT00948,Login Issue,High,AG039,24.81,12,Resolved,False
-TKT00949,Login Issue,High,AG044,19.61,4,Resolved,False
-TKT00950,Billing,High,AG044,44.35,24,Resolved,False
-TKT00951,Login Issue,Medium,AG062,8.3,24,Open,True
-TKT00952,Domain Management,Critical,AG053,44.61,4,Open,False
-TKT00953,Domain Management,High,AG072,26.19,8,Open,False
-TKT00954,Email Support,High,AG046,4.11,8,Resolved,True
-TKT00955,Login Issue,High,AG049,30.45,8,Open,False
-TKT00956,Website Builder,Critical,AG024,28.97,12,Resolved,False
-TKT00957,Email Support,Low,AG035,20.45,24,Resolved,True
-TKT00958,Domain Management,Critical,AG039,11.16,12,Resolved,True
-TKT00959,Login Issue,High,AG005,37.56,4,Resolved,False
-TKT00960,Website Builder,Low,AG062,43.53,8,Resolved,False
-TKT00961,Domain Management,Critical,AG094,42.07,12,Resolved,False
-TKT00962,Billing,Low,AG067,32.81,8,Resolved,False
-TKT00963,Email Support,Low,AG059,19.22,4,Resolved,False
-TKT00964,Domain Management,Low,AG088,40.86,4,Resolved,False
-TKT00965,Hosting,Low,AG014,25.47,12,Resolved,False
-TKT00966,Website Builder,High,AG082,42.93,12,Resolved,False
-TKT00967,Billing,High,AG036,26.02,24,Resolved,False
-TKT00968,Domain Management,Medium,AG021,13.86,4,Open,False
-TKT00969,Website Builder,Low,AG027,26.5,12,Resolved,False
-TKT00970,Billing,High,AG074,12.51,4,Resolved,False
-TKT00971,Website Builder,High,AG070,21.85,8,Resolved,False
-TKT00972,Hosting,Low,AG014,19.03,4,Resolved,False
-TKT00973,Hosting,Medium,AG091,29.02,24,Open,False
-TKT00974,Domain Management,High,AG043,39.42,4,Resolved,False
-TKT00975,Website Builder,Medium,AG012,39.2,24,Resolved,False
-TKT00976,Hosting,High,AG088,31.29,24,Resolved,False
-TKT00977,Billing,Medium,AG019,41.47,12,Resolved,False
-TKT00978,Hosting,Medium,AG090,44.11,12,Resolved,False
-TKT00979,Hosting,Critical,AG004,4.07,4,Resolved,False
-TKT00980,Hosting,Critical,AG022,14.27,12,Open,False
-TKT00981,Website Builder,Medium,AG066,5.84,4,Resolved,False
-TKT00982,Website Builder,Low,AG039,26.04,24,Open,False
-TKT00983,Hosting,Medium,AG080,12.45,8,Resolved,False
-TKT00984,Hosting,Low,AG044,10.79,24,Resolved,True
-TKT00985,Website Builder,High,AG070,33.62,8,Resolved,False
-TKT00986,Email Support,Critical,AG015,28.83,24,Resolved,False
-TKT00987,Website Builder,Low,AG057,9.28,24,Resolved,True
-TKT00988,Website Builder,Low,AG088,39.26,24,Resolved,False
-TKT00989,Hosting,Low,AG012,11.23,8,Open,False
-TKT00990,Email Support,Low,AG097,7.9,8,Resolved,True
-TKT00991,Website Builder,High,AG050,29.93,24,Resolved,False
-TKT00992,Billing,High,AG039,27.8,12,Resolved,False
-TKT00993,Email Support,High,AG012,28.39,24,Resolved,False
-TKT00994,Domain Management,Low,AG048,43.35,4,Resolved,False
-TKT00995,Email Support,High,AG015,41.48,4,Resolved,False
-TKT00996,Hosting,Critical,AG081,15.95,24,Resolved,True
-TKT00997,Hosting,Critical,AG070,10.93,8,Resolved,False
-TKT00998,Billing,Medium,AG072,19.08,12,Resolved,False
-TKT00999,Billing,High,AG086,6.9,4,Resolved,False
-TKT01000,Email Support,Low,AG019,34.9,24,Resolved,False
+TicketID,Category,Priority,AssignedAgent,ResolutionHours,SLAHours,Status,CreatedDate,ClosedDate,Queue,Tier,EscalatedFlag,BacklogAge,SLAMet
+TKT00001,Login Issue,Critical,AG071,42.1,4,Resolved,2026-01-10,2026-01-11,Hosting Support,Tier1,True,163,False
+TKT00002,Billing,Medium,AG053,44.54,24,Resolved,2026-04-20,2026-04-21,Billing Support,Tier2,True,63,False
+TKT00003,Login Issue,Critical,AG034,8.74,24,Resolved,2026-01-01,2026-01-01,Domain Support,Tier3,False,172,True
+TKT00004,Domain Management,Medium,AG008,8.28,4,Resolved,2026-01-07,2026-01-07,Customer Support,Tier1,False,166,False
+TKT00005,Website Builder,Medium,AG008,24.63,4,Resolved,2026-06-08,2026-06-09,Customer Support,Tier3,True,14,False
+TKT00006,Billing,Critical,AG016,32.73,8,Open,2026-02-09,2026-02-10,Hosting Support,Tier1,True,133,False
+TKT00007,Website Builder,High,AG034,20.7,8,Resolved,2026-04-02,2026-04-02,Billing Support,Tier2,False,81,False
+TKT00008,Email Support,High,AG059,7.15,12,Resolved,2026-01-23,2026-01-23,Customer Support,Tier2,True,150,True
+TKT00009,Billing,High,AG017,4.44,12,Resolved,2026-01-11,2026-01-11,Billing Support,Tier2,False,162,True
+TKT00010,Website Builder,High,AG079,8.41,4,Open,2026-06-17,2026-06-17,Technical Support,Tier3,True,5,False
+TKT00011,Billing,High,AG015,45.13,4,Open,2026-04-13,2026-04-14,Billing Support,Tier2,False,70,False
+TKT00012,Email Support,High,AG027,29.43,12,Open,2026-03-11,2026-03-12,Domain Support,Tier2,True,103,False
+TKT00013,Hosting,High,AG006,5.34,4,Resolved,2026-04-29,2026-04-29,Billing Support,Tier3,False,54,False
+TKT00014,Hosting,Critical,AG072,8.59,4,Resolved,2026-03-20,2026-03-20,Customer Support,Tier3,True,94,False
+TKT00015,Domain Management,Medium,AG056,26.64,8,Resolved,2026-01-17,2026-01-18,Technical Support,Tier2,True,156,False
+TKT00016,Billing,Medium,AG086,43.25,4,Resolved,2026-02-21,2026-02-22,Hosting Support,Tier2,True,121,False
+TKT00017,Billing,Medium,AG023,44.51,24,Resolved,2026-05-23,2026-05-24,Billing Support,Tier3,False,30,False
+TKT00018,Hosting,Medium,AG035,37.77,8,Resolved,2026-03-26,2026-03-27,Domain Support,Tier1,False,88,False
+TKT00019,Hosting,High,AG040,11.45,8,Resolved,2026-03-21,2026-03-21,Customer Support,Tier3,True,93,False
+TKT00020,Domain Management,Low,AG099,19.73,12,Resolved,2025-12-31,2025-12-31,Hosting Support,Tier2,False,173,False
+TKT00021,Login Issue,High,AG023,45.14,12,Resolved,2026-01-21,2026-01-22,Customer Support,Tier3,False,152,False
+TKT00022,Domain Management,Critical,AG078,17.25,4,Resolved,2026-03-23,2026-03-23,Hosting Support,Tier1,False,91,False
+TKT00023,Hosting,Low,AG067,3.09,8,Resolved,2026-06-19,2026-06-19,Domain Support,Tier1,False,3,True
+TKT00024,Email Support,Low,AG093,30.29,12,Open,2026-01-26,2026-01-27,Technical Support,Tier3,False,147,False
+TKT00025,Email Support,High,AG071,16.33,8,Resolved,2026-02-12,2026-02-12,Domain Support,Tier3,False,130,False
+TKT00026,Billing,High,AG052,32.83,4,Resolved,2026-03-27,2026-03-28,Technical Support,Tier1,False,87,False
+TKT00027,Website Builder,High,AG060,37.93,24,Resolved,2026-02-01,2026-02-02,Billing Support,Tier3,False,141,False
+TKT00028,Email Support,Medium,AG085,38.31,4,Resolved,2026-06-10,2026-06-11,Hosting Support,Tier3,False,12,False
+TKT00029,Billing,High,AG029,5.39,8,Resolved,2026-05-07,2026-05-07,Customer Support,Tier1,True,46,True
+TKT00030,Website Builder,Low,AG059,47.24,24,Open,2026-06-03,2026-06-04,Billing Support,Tier3,False,19,False
+TKT00031,Billing,Medium,AG084,24.24,4,Resolved,2026-05-02,2026-05-03,Domain Support,Tier1,True,51,False
+TKT00032,Email Support,Critical,AG007,38.79,8,Resolved,2026-03-21,2026-03-22,Domain Support,Tier1,False,93,False
+TKT00033,Website Builder,High,AG097,32.38,24,Open,2026-05-25,2026-05-26,Hosting Support,Tier2,False,28,False
+TKT00034,Email Support,Critical,AG058,43.17,12,Resolved,2026-05-12,2026-05-13,Technical Support,Tier3,False,41,False
+TKT00035,Domain Management,Critical,AG010,30.46,12,Resolved,2026-01-08,2026-01-09,Technical Support,Tier2,False,165,False
+TKT00036,Login Issue,Medium,AG020,42.97,8,Resolved,2026-05-25,2026-05-26,Billing Support,Tier3,True,28,False
+TKT00037,Hosting,High,AG070,4.02,24,Resolved,2026-04-20,2026-04-20,Customer Support,Tier1,False,63,True
+TKT00038,Website Builder,Low,AG098,19.31,24,Resolved,2026-06-10,2026-06-10,Customer Support,Tier2,False,12,True
+TKT00039,Hosting,Medium,AG063,36.41,8,Resolved,2026-05-24,2026-05-25,Domain Support,Tier2,True,29,False
+TKT00040,Email Support,Critical,AG093,19.28,8,Resolved,2026-05-24,2026-05-24,Billing Support,Tier3,True,29,False
+TKT00041,Website Builder,Low,AG011,43.63,24,Resolved,2026-04-10,2026-04-11,Domain Support,Tier1,True,73,False
+TKT00042,Domain Management,Medium,AG059,13.23,12,Resolved,2026-03-23,2026-03-23,Domain Support,Tier2,False,91,False
+TKT00043,Login Issue,Critical,AG003,12.86,4,Resolved,2026-04-26,2026-04-26,Billing Support,Tier3,True,57,False
+TKT00044,Email Support,Low,AG097,37.72,4,Resolved,2026-03-20,2026-03-21,Billing Support,Tier1,True,94,False
+TKT00045,Hosting,Low,AG073,12.21,8,Resolved,2025-12-30,2025-12-30,Technical Support,Tier2,True,174,False
+TKT00046,Email Support,Low,AG100,29.48,8,Resolved,2026-02-20,2026-02-21,Customer Support,Tier3,True,122,False
+TKT00047,Website Builder,Critical,AG051,44.66,8,Resolved,2026-04-19,2026-04-20,Hosting Support,Tier3,True,64,False
+TKT00048,Domain Management,Low,AG073,5.79,4,Resolved,2026-03-20,2026-03-20,Hosting Support,Tier2,False,94,False
+TKT00049,Email Support,High,AG002,4.24,24,Resolved,2026-05-03,2026-05-03,Customer Support,Tier2,False,50,True
+TKT00050,Hosting,Medium,AG056,30.87,8,Open,2026-01-01,2026-01-02,Technical Support,Tier3,False,172,False
+TKT00051,Email Support,High,AG042,22.85,8,Resolved,2026-02-13,2026-02-13,Technical Support,Tier2,True,129,False
+TKT00052,Website Builder,Critical,AG044,36.27,4,Resolved,2026-02-11,2026-02-12,Technical Support,Tier1,False,131,False
+TKT00053,Domain Management,High,AG036,10.97,12,Open,2026-01-06,2026-01-06,Customer Support,Tier3,True,167,True
+TKT00054,Email Support,Critical,AG063,5.02,8,Resolved,2026-03-04,2026-03-04,Domain Support,Tier2,True,110,True
+TKT00055,Billing,Critical,AG089,5.37,8,Resolved,2026-02-28,2026-02-28,Hosting Support,Tier2,False,114,True
+TKT00056,Domain Management,Critical,AG096,27.01,12,Resolved,2026-05-24,2026-05-25,Domain Support,Tier2,False,29,False
+TKT00057,Login Issue,Medium,AG041,12.82,4,Open,2026-04-21,2026-04-21,Billing Support,Tier1,True,62,False
+TKT00058,Domain Management,High,AG013,35.71,8,Resolved,2026-01-15,2026-01-16,Billing Support,Tier2,True,158,False
+TKT00059,Email Support,Medium,AG036,15.21,4,Resolved,2026-01-05,2026-01-05,Hosting Support,Tier2,True,168,False
+TKT00060,Hosting,Low,AG002,30.98,12,Resolved,2026-06-04,2026-06-05,Domain Support,Tier2,False,18,False
+TKT00061,Login Issue,High,AG062,9.67,4,Resolved,2026-04-04,2026-04-04,Domain Support,Tier2,True,79,False
+TKT00062,Email Support,Low,AG020,28.12,8,Open,2026-04-24,2026-04-25,Technical Support,Tier1,True,59,False
+TKT00063,Hosting,Medium,AG100,6.57,24,Resolved,2025-12-25,2025-12-25,Domain Support,Tier2,False,179,True
+TKT00064,Website Builder,Low,AG079,15.35,4,Resolved,2026-06-13,2026-06-13,Billing Support,Tier2,True,9,False
+TKT00065,Billing,Low,AG021,8.38,4,Resolved,2026-05-24,2026-05-24,Domain Support,Tier3,False,29,False
+TKT00066,Billing,High,AG091,14.69,12,Resolved,2026-05-07,2026-05-07,Customer Support,Tier3,True,46,False
+TKT00067,Email Support,Medium,AG055,44.42,4,Open,2026-02-22,2026-02-23,Billing Support,Tier3,True,120,False
+TKT00068,Billing,Low,AG008,43.7,8,Resolved,2026-06-05,2026-06-06,Hosting Support,Tier3,False,17,False
+TKT00069,Hosting,High,AG090,21.64,24,Resolved,2026-01-08,2026-01-08,Hosting Support,Tier3,False,165,True
+TKT00070,Website Builder,Low,AG056,21.57,12,Open,2026-04-07,2026-04-07,Technical Support,Tier1,True,76,False
+TKT00071,Email Support,Low,AG098,11.76,12,Open,2026-03-13,2026-03-13,Customer Support,Tier1,False,101,True
+TKT00072,Hosting,High,AG024,25.39,24,Resolved,2026-01-10,2026-01-11,Customer Support,Tier2,False,163,False
+TKT00073,Domain Management,Low,AG021,20.19,12,Resolved,2026-03-12,2026-03-12,Domain Support,Tier2,False,102,False
+TKT00074,Website Builder,Low,AG059,39.24,4,Resolved,2026-03-25,2026-03-26,Technical Support,Tier2,True,89,False
+TKT00075,Hosting,Low,AG085,46.6,24,Resolved,2026-04-02,2026-04-03,Customer Support,Tier1,False,81,False
+TKT00076,Hosting,Critical,AG098,30.26,4,Resolved,2026-05-15,2026-05-16,Technical Support,Tier3,True,38,False
+TKT00077,Hosting,Critical,AG016,44.6,4,Open,2026-03-07,2026-03-08,Billing Support,Tier3,True,107,False
+TKT00078,Login Issue,Critical,AG012,15.61,8,Resolved,2026-02-18,2026-02-18,Domain Support,Tier1,True,124,False
+TKT00079,Email Support,High,AG066,24.42,12,Resolved,2026-04-23,2026-04-24,Domain Support,Tier2,True,60,False
+TKT00080,Billing,Critical,AG025,22.47,8,Resolved,2026-02-15,2026-02-15,Technical Support,Tier2,False,127,False
+TKT00081,Website Builder,High,AG001,44.91,12,Resolved,2026-04-26,2026-04-27,Hosting Support,Tier3,False,57,False
+TKT00082,Hosting,Critical,AG045,41.67,12,Open,2026-04-27,2026-04-28,Hosting Support,Tier2,False,56,False
+TKT00083,Billing,Medium,AG074,44.84,24,Resolved,2026-06-11,2026-06-12,Domain Support,Tier1,False,11,False
+TKT00084,Email Support,Critical,AG050,36.0,8,Resolved,2026-01-07,2026-01-08,Customer Support,Tier1,False,166,False
+TKT00085,Hosting,Low,AG068,41.88,24,Resolved,2026-03-16,2026-03-17,Billing Support,Tier2,True,98,False
+TKT00086,Domain Management,High,AG080,4.52,24,Resolved,2026-01-30,2026-01-30,Technical Support,Tier3,False,143,True
+TKT00087,Email Support,Critical,AG070,45.84,4,Open,2026-04-30,2026-05-01,Customer Support,Tier1,False,53,False
+TKT00088,Email Support,Low,AG056,47.88,4,Resolved,2026-01-19,2026-01-20,Domain Support,Tier1,False,154,False
+TKT00089,Login Issue,High,AG008,43.46,12,Resolved,2026-06-07,2026-06-08,Technical Support,Tier2,True,15,False
+TKT00090,Hosting,Medium,AG022,12.48,8,Resolved,2026-03-31,2026-03-31,Hosting Support,Tier2,True,83,False
+TKT00091,Website Builder,Medium,AG030,24.39,24,Resolved,2026-01-27,2026-01-28,Domain Support,Tier2,True,146,False
+TKT00092,Hosting,High,AG087,43.25,8,Resolved,2026-06-14,2026-06-15,Domain Support,Tier2,False,8,False
+TKT00093,Hosting,High,AG059,31.03,12,Resolved,2026-04-30,2026-05-01,Domain Support,Tier2,True,53,False
+TKT00094,Website Builder,High,AG074,12.15,12,Resolved,2026-06-19,2026-06-19,Customer Support,Tier3,False,3,False
+TKT00095,Website Builder,Low,AG078,13.9,24,Resolved,2026-03-10,2026-03-10,Billing Support,Tier3,False,104,True
+TKT00096,Billing,High,AG087,11.29,8,Resolved,2026-05-15,2026-05-15,Customer Support,Tier2,False,38,False
+TKT00097,Domain Management,Medium,AG012,2.57,12,Resolved,2026-04-11,2026-04-11,Domain Support,Tier1,True,72,True
+TKT00098,Website Builder,High,AG068,7.21,12,Resolved,2025-12-31,2025-12-31,Technical Support,Tier2,False,173,True
+TKT00099,Domain Management,Low,AG060,36.09,4,Resolved,2026-01-05,2026-01-06,Billing Support,Tier3,False,168,False
+TKT00100,Website Builder,High,AG012,46.46,24,Resolved,2026-03-28,2026-03-29,Technical Support,Tier3,True,86,False
+TKT00101,Email Support,High,AG075,22.37,24,Resolved,2026-06-21,2026-06-21,Customer Support,Tier3,True,1,True
+TKT00102,Website Builder,High,AG079,23.16,8,Resolved,2026-02-18,2026-02-18,Domain Support,Tier3,False,124,False
+TKT00103,Login Issue,Medium,AG006,31.51,4,Resolved,2026-06-10,2026-06-11,Domain Support,Tier1,True,12,False
+TKT00104,Website Builder,Medium,AG050,12.04,24,Resolved,2026-02-12,2026-02-12,Hosting Support,Tier2,True,130,True
+TKT00105,Email Support,Low,AG063,42.61,24,Resolved,2026-04-23,2026-04-24,Customer Support,Tier3,False,60,False
+TKT00106,Hosting,Medium,AG047,11.21,4,Resolved,2026-03-05,2026-03-05,Hosting Support,Tier3,False,109,False
+TKT00107,Domain Management,Medium,AG016,3.85,24,Resolved,2026-01-30,2026-01-30,Billing Support,Tier3,True,143,True
+TKT00108,Domain Management,Medium,AG017,3.38,8,Resolved,2026-05-28,2026-05-28,Hosting Support,Tier1,True,25,True
+TKT00109,Billing,High,AG100,39.21,8,Open,2026-05-31,2026-06-01,Customer Support,Tier2,True,22,False
+TKT00110,Website Builder,High,AG023,47.41,4,Resolved,2026-05-25,2026-05-26,Billing Support,Tier1,False,28,False
+TKT00111,Billing,High,AG003,38.13,8,Resolved,2026-04-28,2026-04-29,Customer Support,Tier1,False,55,False
+TKT00112,Email Support,Low,AG061,25.73,24,Resolved,2026-01-02,2026-01-03,Hosting Support,Tier3,True,171,False
+TKT00113,Billing,Low,AG094,22.24,12,Resolved,2026-05-07,2026-05-07,Customer Support,Tier1,False,46,False
+TKT00114,Hosting,Low,AG063,40.82,24,Resolved,2026-05-16,2026-05-17,Customer Support,Tier2,True,37,False
+TKT00115,Domain Management,High,AG049,4.09,12,Resolved,2026-06-10,2026-06-10,Hosting Support,Tier3,False,12,True
+TKT00116,Email Support,Low,AG084,5.66,8,Resolved,2026-06-21,2026-06-21,Domain Support,Tier1,False,1,True
+TKT00117,Hosting,Critical,AG054,16.93,4,Resolved,2026-03-19,2026-03-19,Domain Support,Tier2,False,95,False
+TKT00118,Billing,Critical,AG009,18.59,4,Resolved,2026-01-23,2026-01-23,Customer Support,Tier2,True,150,False
+TKT00119,Domain Management,Medium,AG072,36.0,4,Open,2025-12-27,2025-12-28,Hosting Support,Tier3,False,177,False
+TKT00120,Hosting,High,AG086,32.49,24,Resolved,2026-06-17,2026-06-18,Technical Support,Tier3,False,5,False
+TKT00121,Website Builder,Medium,AG020,17.53,24,Resolved,2026-04-19,2026-04-19,Customer Support,Tier2,False,64,True
+TKT00122,Domain Management,Medium,AG055,6.4,4,Open,2026-02-11,2026-02-11,Technical Support,Tier1,True,131,False
+TKT00123,Domain Management,High,AG045,13.84,4,Resolved,2026-04-17,2026-04-17,Billing Support,Tier3,False,66,False
+TKT00124,Email Support,Low,AG012,4.27,8,Resolved,2026-06-06,2026-06-06,Domain Support,Tier2,False,16,True
+TKT00125,Domain Management,High,AG100,8.4,4,Resolved,2026-02-25,2026-02-25,Billing Support,Tier1,True,117,False
+TKT00126,Domain Management,Critical,AG085,32.68,24,Resolved,2026-01-07,2026-01-08,Hosting Support,Tier2,False,166,False
+TKT00127,Website Builder,Low,AG045,13.84,24,Resolved,2026-02-23,2026-02-23,Technical Support,Tier3,False,119,True
+TKT00128,Domain Management,Low,AG029,25.77,24,Open,2025-12-25,2025-12-26,Customer Support,Tier1,True,179,False
+TKT00129,Billing,Medium,AG098,15.17,12,Resolved,2026-02-05,2026-02-05,Technical Support,Tier1,True,137,False
+TKT00130,Hosting,Medium,AG017,24.38,24,Open,2025-12-30,2025-12-31,Billing Support,Tier3,False,174,False
+TKT00131,Email Support,Low,AG056,4.39,4,Resolved,2026-06-16,2026-06-16,Customer Support,Tier2,False,6,False
+TKT00132,Email Support,Critical,AG038,27.95,4,Resolved,2026-04-10,2026-04-11,Customer Support,Tier2,True,73,False
+TKT00133,Website Builder,Critical,AG089,38.66,12,Resolved,2026-03-09,2026-03-10,Domain Support,Tier1,True,105,False
+TKT00134,Hosting,Low,AG051,21.48,12,Resolved,2026-02-14,2026-02-14,Billing Support,Tier2,True,128,False
+TKT00135,Email Support,Low,AG068,4.59,8,Resolved,2026-03-15,2026-03-15,Technical Support,Tier3,True,99,True
+TKT00136,Billing,High,AG026,12.1,8,Open,2026-03-16,2026-03-16,Billing Support,Tier3,True,98,False
+TKT00137,Email Support,Critical,AG060,9.33,24,Open,2026-05-30,2026-05-30,Hosting Support,Tier2,False,23,True
+TKT00138,Login Issue,Critical,AG057,8.09,12,Resolved,2026-01-31,2026-01-31,Hosting Support,Tier1,False,142,True
+TKT00139,Domain Management,Critical,AG058,24.84,4,Resolved,2026-02-27,2026-02-28,Technical Support,Tier2,True,115,False
+TKT00140,Login Issue,Critical,AG060,31.3,4,Resolved,2026-02-17,2026-02-18,Hosting Support,Tier3,True,125,False
+TKT00141,Hosting,Medium,AG008,16.11,24,Resolved,2026-05-27,2026-05-27,Technical Support,Tier3,True,26,True
+TKT00142,Billing,Low,AG032,24.71,24,Resolved,2026-04-23,2026-04-24,Hosting Support,Tier3,True,60,False
+TKT00143,Domain Management,Critical,AG053,18.1,12,Open,2026-03-17,2026-03-17,Customer Support,Tier3,False,97,False
+TKT00144,Login Issue,Critical,AG037,4.1,12,Open,2026-06-12,2026-06-12,Billing Support,Tier2,True,10,True
+TKT00145,Billing,High,AG040,28.39,24,Resolved,2026-02-04,2026-02-05,Hosting Support,Tier3,True,138,False
+TKT00146,Hosting,High,AG017,15.55,4,Resolved,2026-03-18,2026-03-18,Hosting Support,Tier2,True,96,False
+TKT00147,Billing,Medium,AG044,18.04,24,Resolved,2026-06-19,2026-06-19,Billing Support,Tier1,True,3,True
+TKT00148,Login Issue,Low,AG085,4.63,12,Open,2026-02-18,2026-02-18,Billing Support,Tier3,False,124,True
+TKT00149,Billing,Medium,AG093,8.25,24,Resolved,2026-05-27,2026-05-27,Domain Support,Tier2,True,26,True
+TKT00150,Website Builder,High,AG097,46.57,24,Resolved,2026-03-19,2026-03-20,Hosting Support,Tier1,False,95,False
+TKT00151,Hosting,Medium,AG048,46.38,24,Resolved,2026-05-21,2026-05-22,Technical Support,Tier2,False,32,False
+TKT00152,Billing,Medium,AG033,46.41,4,Resolved,2026-05-22,2026-05-23,Technical Support,Tier3,True,31,False
+TKT00153,Website Builder,Low,AG037,34.44,4,Resolved,2026-05-18,2026-05-19,Technical Support,Tier2,True,35,False
+TKT00154,Login Issue,Medium,AG058,40.06,12,Resolved,2026-01-20,2026-01-21,Domain Support,Tier1,False,153,False
+TKT00155,Billing,Critical,AG011,24.59,12,Resolved,2026-02-11,2026-02-12,Customer Support,Tier2,True,131,False
+TKT00156,Email Support,High,AG019,40.44,8,Resolved,2026-04-04,2026-04-05,Technical Support,Tier2,True,79,False
+TKT00157,Hosting,Critical,AG079,36.67,4,Resolved,2026-03-03,2026-03-04,Customer Support,Tier2,True,111,False
+TKT00158,Website Builder,Critical,AG015,40.24,12,Resolved,2026-03-10,2026-03-11,Technical Support,Tier1,True,104,False
+TKT00159,Email Support,Critical,AG009,12.21,4,Resolved,2026-05-18,2026-05-18,Hosting Support,Tier3,True,35,False
+TKT00160,Website Builder,Medium,AG092,30.7,8,Resolved,2026-06-03,2026-06-04,Domain Support,Tier1,False,19,False
+TKT00161,Hosting,Medium,AG086,12.31,4,Open,2026-04-09,2026-04-09,Technical Support,Tier1,True,74,False
+TKT00162,Hosting,Low,AG082,19.35,24,Resolved,2026-03-24,2026-03-24,Technical Support,Tier3,True,90,True
+TKT00163,Login Issue,High,AG031,17.78,4,Open,2026-02-12,2026-02-12,Technical Support,Tier1,True,130,False
+TKT00164,Domain Management,Medium,AG100,17.56,24,Resolved,2026-01-29,2026-01-29,Billing Support,Tier1,True,144,True
+TKT00165,Hosting,Low,AG038,34.65,8,Resolved,2026-05-08,2026-05-09,Billing Support,Tier1,False,45,False
+TKT00166,Website Builder,Critical,AG070,44.87,24,Resolved,2026-04-30,2026-05-01,Customer Support,Tier3,True,53,False
+TKT00167,Login Issue,High,AG035,14.45,4,Resolved,2026-03-05,2026-03-05,Domain Support,Tier2,False,109,False
+TKT00168,Hosting,High,AG024,43.05,24,Resolved,2026-06-12,2026-06-13,Technical Support,Tier3,False,10,False
+TKT00169,Email Support,Critical,AG011,38.65,24,Open,2026-04-22,2026-04-23,Billing Support,Tier3,False,61,False
+TKT00170,Login Issue,High,AG085,16.1,12,Resolved,2026-01-26,2026-01-26,Domain Support,Tier3,False,147,False
+TKT00171,Hosting,High,AG058,8.83,4,Resolved,2026-04-30,2026-04-30,Hosting Support,Tier2,False,53,False
+TKT00172,Login Issue,Low,AG086,31.06,24,Resolved,2026-01-06,2026-01-07,Hosting Support,Tier3,True,167,False
+TKT00173,Billing,Critical,AG005,45.78,8,Resolved,2026-03-16,2026-03-17,Billing Support,Tier3,False,98,False
+TKT00174,Website Builder,Low,AG078,18.02,8,Resolved,2026-05-18,2026-05-18,Technical Support,Tier2,False,35,False
+TKT00175,Website Builder,Medium,AG068,36.86,12,Resolved,2026-04-25,2026-04-26,Technical Support,Tier3,False,58,False
+TKT00176,Login Issue,Low,AG095,12.73,8,Resolved,2026-03-17,2026-03-17,Hosting Support,Tier2,True,97,False
+TKT00177,Domain Management,Critical,AG028,13.3,12,Resolved,2026-06-09,2026-06-09,Billing Support,Tier1,True,13,False
+TKT00178,Hosting,Medium,AG092,41.08,24,Resolved,2026-05-26,2026-05-27,Technical Support,Tier3,False,27,False
+TKT00179,Website Builder,High,AG039,34.35,8,Resolved,2026-05-04,2026-05-05,Technical Support,Tier3,True,49,False
+TKT00180,Billing,Medium,AG031,6.7,24,Resolved,2026-04-09,2026-04-09,Technical Support,Tier3,False,74,True
+TKT00181,Website Builder,Medium,AG079,22.97,4,Resolved,2026-01-10,2026-01-10,Technical Support,Tier2,False,163,False
+TKT00182,Hosting,Low,AG017,25.71,12,Resolved,2026-02-01,2026-02-02,Domain Support,Tier2,False,141,False
+TKT00183,Website Builder,Medium,AG099,7.03,8,Resolved,2026-04-21,2026-04-21,Hosting Support,Tier1,True,62,True
+TKT00184,Domain Management,Medium,AG021,25.35,12,Resolved,2026-03-21,2026-03-22,Technical Support,Tier3,False,93,False
+TKT00185,Domain Management,Medium,AG082,40.76,12,Resolved,2026-06-03,2026-06-04,Technical Support,Tier3,True,19,False
+TKT00186,Billing,Medium,AG022,24.62,12,Open,2026-02-14,2026-02-15,Customer Support,Tier1,True,128,False
+TKT00187,Email Support,High,AG084,3.14,8,Open,2025-12-28,2025-12-28,Domain Support,Tier3,True,176,True
+TKT00188,Email Support,High,AG083,24.41,12,Resolved,2026-05-31,2026-06-01,Billing Support,Tier3,False,22,False
+TKT00189,Login Issue,Low,AG021,14.98,24,Resolved,2026-05-03,2026-05-03,Domain Support,Tier2,True,50,True
+TKT00190,Billing,High,AG092,16.99,12,Resolved,2026-02-01,2026-02-01,Domain Support,Tier1,False,141,False
+TKT00191,Login Issue,High,AG031,25.2,24,Resolved,2026-03-20,2026-03-21,Technical Support,Tier2,True,94,False
+TKT00192,Login Issue,High,AG050,7.62,24,Resolved,2026-04-08,2026-04-08,Billing Support,Tier2,False,75,True
+TKT00193,Billing,Critical,AG066,9.92,24,Resolved,2026-05-29,2026-05-29,Technical Support,Tier2,True,24,True
+TKT00194,Hosting,Critical,AG031,5.23,8,Open,2025-12-30,2025-12-30,Technical Support,Tier1,True,174,True
+TKT00195,Website Builder,Critical,AG037,14.22,4,Resolved,2026-02-08,2026-02-08,Domain Support,Tier1,False,134,False
+TKT00196,Hosting,High,AG006,35.19,24,Resolved,2026-04-12,2026-04-13,Hosting Support,Tier3,True,71,False
+TKT00197,Domain Management,Low,AG050,18.04,24,Open,2025-12-24,2025-12-24,Technical Support,Tier3,True,180,True
+TKT00198,Login Issue,Critical,AG048,7.05,12,Open,2026-04-21,2026-04-21,Technical Support,Tier1,True,62,True
+TKT00199,Hosting,Low,AG006,29.32,4,Resolved,2026-04-15,2026-04-16,Technical Support,Tier2,False,68,False
+TKT00200,Website Builder,Medium,AG042,8.0,12,Resolved,2026-02-22,2026-02-22,Domain Support,Tier3,False,120,True
+TKT00201,Website Builder,Critical,AG091,28.91,12,Resolved,2026-02-01,2026-02-02,Customer Support,Tier2,False,141,False
+TKT00202,Hosting,High,AG093,32.67,4,Open,2026-04-14,2026-04-15,Domain Support,Tier2,True,69,False
+TKT00203,Website Builder,Critical,AG022,34.91,24,Resolved,2026-06-05,2026-06-06,Billing Support,Tier1,True,17,False
+TKT00204,Hosting,High,AG054,9.97,8,Resolved,2026-01-09,2026-01-09,Billing Support,Tier2,False,164,False
+TKT00205,Email Support,Low,AG091,42.02,8,Open,2026-02-10,2026-02-11,Billing Support,Tier3,False,132,False
+TKT00206,Hosting,Critical,AG041,47.91,8,Resolved,2026-05-02,2026-05-03,Hosting Support,Tier2,False,51,False
+TKT00207,Email Support,High,AG079,32.77,24,Resolved,2026-06-14,2026-06-15,Billing Support,Tier2,False,8,False
+TKT00208,Domain Management,High,AG091,11.57,8,Resolved,2026-02-15,2026-02-15,Technical Support,Tier2,False,127,False
+TKT00209,Email Support,High,AG037,27.34,4,Open,2026-02-19,2026-02-20,Hosting Support,Tier2,False,123,False
+TKT00210,Billing,High,AG006,39.46,12,Resolved,2026-01-19,2026-01-20,Technical Support,Tier2,False,154,False
+TKT00211,Billing,Medium,AG069,36.12,12,Open,2026-05-02,2026-05-03,Technical Support,Tier1,True,51,False
+TKT00212,Website Builder,Medium,AG032,29.94,4,Open,2026-06-12,2026-06-13,Billing Support,Tier3,True,10,False
+TKT00213,Hosting,High,AG092,3.47,24,Resolved,2026-02-08,2026-02-08,Billing Support,Tier1,True,134,True
+TKT00214,Hosting,Critical,AG084,20.12,8,Resolved,2026-05-21,2026-05-21,Technical Support,Tier2,True,32,False
+TKT00215,Login Issue,Medium,AG069,43.67,4,Resolved,2026-05-26,2026-05-27,Domain Support,Tier1,True,27,False
+TKT00216,Hosting,Critical,AG024,47.87,12,Resolved,2025-12-31,2026-01-01,Customer Support,Tier2,True,173,False
+TKT00217,Domain Management,High,AG059,44.64,24,Resolved,2026-02-03,2026-02-04,Hosting Support,Tier2,False,139,False
+TKT00218,Login Issue,High,AG021,10.06,24,Resolved,2026-02-01,2026-02-01,Billing Support,Tier1,False,141,True
+TKT00219,Website Builder,Medium,AG023,38.17,24,Resolved,2026-01-29,2026-01-30,Hosting Support,Tier2,True,144,False
+TKT00220,Login Issue,Medium,AG018,19.84,24,Resolved,2026-04-23,2026-04-23,Billing Support,Tier1,False,60,True
+TKT00221,Hosting,High,AG043,19.03,12,Open,2026-04-06,2026-04-06,Hosting Support,Tier1,False,77,False
+TKT00222,Email Support,Medium,AG008,31.72,4,Resolved,2026-01-22,2026-01-23,Technical Support,Tier1,False,151,False
+TKT00223,Email Support,High,AG089,33.25,4,Resolved,2026-01-12,2026-01-13,Technical Support,Tier3,True,161,False
+TKT00224,Billing,Critical,AG020,11.3,24,Open,2026-03-17,2026-03-17,Technical Support,Tier2,False,97,True
+TKT00225,Email Support,Medium,AG098,36.6,8,Open,2026-06-08,2026-06-09,Customer Support,Tier3,False,14,False
+TKT00226,Domain Management,Low,AG073,25.82,4,Resolved,2026-05-19,2026-05-20,Hosting Support,Tier3,True,34,False
+TKT00227,Billing,Medium,AG042,27.92,24,Resolved,2026-01-16,2026-01-17,Billing Support,Tier3,False,157,False
+TKT00228,Website Builder,Critical,AG008,5.27,24,Resolved,2026-02-03,2026-02-03,Hosting Support,Tier2,False,139,True
+TKT00229,Website Builder,Critical,AG087,27.5,12,Resolved,2026-01-27,2026-01-28,Domain Support,Tier2,True,146,False
+TKT00230,Website Builder,Low,AG006,36.05,24,Resolved,2026-04-09,2026-04-10,Customer Support,Tier3,True,74,False
+TKT00231,Login Issue,Critical,AG005,44.93,12,Resolved,2025-12-28,2025-12-29,Billing Support,Tier1,False,176,False
+TKT00232,Hosting,Critical,AG049,18.6,24,Resolved,2026-01-08,2026-01-08,Hosting Support,Tier1,False,165,True
+TKT00233,Website Builder,Critical,AG068,6.58,8,Resolved,2026-05-31,2026-05-31,Customer Support,Tier1,False,22,True
+TKT00234,Email Support,Critical,AG069,22.76,24,Resolved,2026-01-21,2026-01-21,Billing Support,Tier2,False,152,True
+TKT00235,Billing,Low,AG005,8.29,24,Open,2026-04-22,2026-04-22,Customer Support,Tier1,True,61,True
+TKT00236,Website Builder,Low,AG058,4.16,4,Resolved,2026-04-01,2026-04-01,Customer Support,Tier2,False,82,False
+TKT00237,Billing,Low,AG018,12.01,12,Resolved,2026-03-08,2026-03-08,Hosting Support,Tier2,False,106,False
+TKT00238,Billing,Medium,AG053,12.13,12,Resolved,2026-04-09,2026-04-09,Customer Support,Tier3,True,74,False
+TKT00239,Hosting,Critical,AG007,30.42,12,Resolved,2026-04-04,2026-04-05,Hosting Support,Tier2,False,79,False
+TKT00240,Domain Management,Critical,AG024,20.19,24,Resolved,2026-03-26,2026-03-26,Billing Support,Tier2,True,88,True
+TKT00241,Login Issue,Critical,AG054,38.87,8,Resolved,2026-03-19,2026-03-20,Billing Support,Tier2,True,95,False
+TKT00242,Login Issue,Critical,AG048,16.52,4,Open,2026-01-07,2026-01-07,Billing Support,Tier1,False,166,False
+TKT00243,Website Builder,Low,AG010,18.73,8,Open,2026-02-10,2026-02-10,Hosting Support,Tier1,False,132,False
+TKT00244,Domain Management,High,AG002,10.82,8,Resolved,2025-12-29,2025-12-29,Customer Support,Tier3,False,175,False
+TKT00245,Email Support,Medium,AG051,43.98,8,Open,2026-01-03,2026-01-04,Technical Support,Tier2,False,170,False
+TKT00246,Email Support,High,AG040,22.91,12,Resolved,2026-04-27,2026-04-27,Hosting Support,Tier2,False,56,False
+TKT00247,Email Support,Critical,AG098,5.63,12,Resolved,2026-03-03,2026-03-03,Technical Support,Tier2,False,111,True
+TKT00248,Billing,Medium,AG003,3.15,12,Open,2026-05-13,2026-05-13,Hosting Support,Tier3,False,40,True
+TKT00249,Billing,High,AG030,14.87,24,Open,2026-03-07,2026-03-07,Billing Support,Tier2,False,107,True
+TKT00250,Hosting,Critical,AG059,13.09,8,Resolved,2026-02-19,2026-02-19,Billing Support,Tier1,False,123,False
+TKT00251,Website Builder,Low,AG068,9.65,4,Resolved,2026-01-07,2026-01-07,Customer Support,Tier1,False,166,False
+TKT00252,Email Support,Medium,AG009,7.46,8,Resolved,2026-01-13,2026-01-13,Billing Support,Tier3,False,160,True
+TKT00253,Website Builder,Critical,AG085,18.54,24,Resolved,2026-05-25,2026-05-25,Customer Support,Tier3,False,28,True
+TKT00254,Website Builder,High,AG069,1.56,12,Resolved,2026-04-24,2026-04-24,Hosting Support,Tier3,False,59,True
+TKT00255,Billing,Low,AG013,38.89,8,Resolved,2026-03-13,2026-03-14,Billing Support,Tier3,False,101,False
+TKT00256,Domain Management,Critical,AG011,39.32,12,Resolved,2026-01-29,2026-01-30,Domain Support,Tier3,True,144,False
+TKT00257,Billing,High,AG088,47.54,4,Resolved,2026-04-25,2026-04-26,Customer Support,Tier2,False,58,False
+TKT00258,Hosting,Low,AG082,18.73,4,Resolved,2026-01-22,2026-01-22,Customer Support,Tier2,False,151,False
+TKT00259,Domain Management,Low,AG068,31.31,4,Resolved,2026-06-19,2026-06-20,Billing Support,Tier3,False,3,False
+TKT00260,Login Issue,High,AG070,13.74,4,Resolved,2026-04-16,2026-04-16,Technical Support,Tier1,True,67,False
+TKT00261,Email Support,Critical,AG010,28.59,12,Resolved,2026-01-24,2026-01-25,Hosting Support,Tier1,False,149,False
+TKT00262,Website Builder,High,AG050,32.82,8,Resolved,2026-02-03,2026-02-04,Hosting Support,Tier3,False,139,False
+TKT00263,Hosting,Medium,AG010,3.52,12,Open,2026-02-01,2026-02-01,Hosting Support,Tier3,False,141,True
+TKT00264,Domain Management,Low,AG082,46.54,12,Resolved,2026-05-16,2026-05-17,Domain Support,Tier1,False,37,False
+TKT00265,Hosting,Critical,AG024,26.99,24,Resolved,2026-02-20,2026-02-21,Hosting Support,Tier2,True,122,False
+TKT00266,Login Issue,High,AG020,34.52,24,Resolved,2026-05-01,2026-05-02,Domain Support,Tier2,False,52,False
+TKT00267,Login Issue,High,AG057,6.01,12,Resolved,2026-06-21,2026-06-21,Customer Support,Tier1,True,1,True
+TKT00268,Hosting,Critical,AG014,9.81,4,Resolved,2026-05-09,2026-05-09,Technical Support,Tier3,True,44,False
+TKT00269,Domain Management,Critical,AG002,29.06,12,Resolved,2026-04-14,2026-04-15,Domain Support,Tier1,True,69,False
+TKT00270,Billing,Critical,AG022,27.88,8,Resolved,2026-05-06,2026-05-07,Technical Support,Tier2,False,47,False
+TKT00271,Billing,Critical,AG036,7.86,24,Resolved,2026-04-06,2026-04-06,Domain Support,Tier1,False,77,True
+TKT00272,Billing,Critical,AG077,12.83,8,Resolved,2026-06-18,2026-06-18,Customer Support,Tier1,False,4,False
+TKT00273,Hosting,High,AG080,1.32,24,Resolved,2026-04-15,2026-04-15,Domain Support,Tier2,False,68,True
+TKT00274,Email Support,Medium,AG039,39.33,12,Open,2026-03-20,2026-03-21,Billing Support,Tier2,False,94,False
+TKT00275,Hosting,High,AG038,9.35,24,Open,2026-06-08,2026-06-08,Billing Support,Tier2,False,14,True
+TKT00276,Hosting,High,AG015,14.17,8,Open,2026-04-05,2026-04-05,Hosting Support,Tier1,True,78,False
+TKT00277,Hosting,Medium,AG057,45.79,12,Resolved,2025-12-31,2026-01-01,Domain Support,Tier3,False,173,False
+TKT00278,Domain Management,Medium,AG033,7.54,8,Resolved,2026-05-09,2026-05-09,Domain Support,Tier1,False,44,True
+TKT00279,Hosting,Critical,AG069,47.56,24,Open,2026-05-14,2026-05-15,Customer Support,Tier2,True,39,False
+TKT00280,Billing,High,AG022,6.14,4,Open,2026-03-25,2026-03-25,Domain Support,Tier2,False,89,False
+TKT00281,Login Issue,High,AG029,5.98,8,Resolved,2026-05-12,2026-05-12,Technical Support,Tier2,False,41,True
+TKT00282,Website Builder,Medium,AG045,37.3,4,Resolved,2026-01-31,2026-02-01,Customer Support,Tier2,False,142,False
+TKT00283,Login Issue,Low,AG094,44.27,8,Resolved,2025-12-27,2025-12-28,Technical Support,Tier2,False,177,False
+TKT00284,Website Builder,Critical,AG045,37.86,24,Resolved,2026-01-19,2026-01-20,Domain Support,Tier3,False,154,False
+TKT00285,Domain Management,Low,AG091,15.99,4,Resolved,2026-04-06,2026-04-06,Technical Support,Tier3,True,77,False
+TKT00286,Billing,Medium,AG067,32.83,8,Open,2026-03-02,2026-03-03,Billing Support,Tier2,False,112,False
+TKT00287,Billing,Critical,AG081,46.05,8,Resolved,2026-04-22,2026-04-23,Domain Support,Tier2,True,61,False
+TKT00288,Billing,Critical,AG076,35.66,24,Resolved,2026-01-13,2026-01-14,Customer Support,Tier3,True,160,False
+TKT00289,Email Support,Low,AG074,10.67,4,Open,2026-04-03,2026-04-03,Billing Support,Tier2,False,80,False
+TKT00290,Login Issue,High,AG086,10.26,24,Open,2026-03-21,2026-03-21,Technical Support,Tier3,False,93,True
+TKT00291,Website Builder,Low,AG045,29.73,12,Resolved,2026-06-20,2026-06-21,Hosting Support,Tier1,False,2,False
+TKT00292,Website Builder,Low,AG087,44.18,8,Resolved,2025-12-27,2025-12-28,Customer Support,Tier1,False,177,False
+TKT00293,Domain Management,Medium,AG066,6.5,24,Resolved,2026-03-02,2026-03-02,Hosting Support,Tier1,False,112,True
+TKT00294,Hosting,Medium,AG072,20.88,8,Resolved,2025-12-25,2025-12-25,Technical Support,Tier1,True,179,False
+TKT00295,Hosting,Low,AG046,15.79,4,Resolved,2026-01-18,2026-01-18,Billing Support,Tier1,False,155,False
+TKT00296,Website Builder,Critical,AG053,46.3,24,Resolved,2026-05-16,2026-05-17,Domain Support,Tier2,True,37,False
+TKT00297,Login Issue,Medium,AG038,4.89,4,Resolved,2025-12-28,2025-12-28,Billing Support,Tier3,False,176,False
+TKT00298,Hosting,Critical,AG071,8.91,4,Open,2025-12-30,2025-12-30,Customer Support,Tier2,False,174,False
+TKT00299,Login Issue,Critical,AG070,26.48,8,Resolved,2026-02-18,2026-02-19,Customer Support,Tier3,True,124,False
+TKT00300,Login Issue,Critical,AG034,14.99,12,Resolved,2026-03-19,2026-03-19,Domain Support,Tier1,True,95,False
+TKT00301,Email Support,High,AG091,10.86,24,Resolved,2026-06-21,2026-06-21,Hosting Support,Tier1,True,1,True
+TKT00302,Login Issue,High,AG069,39.24,12,Open,2026-03-20,2026-03-21,Hosting Support,Tier1,False,94,False
+TKT00303,Domain Management,High,AG074,47.01,12,Open,2025-12-25,2025-12-26,Customer Support,Tier1,False,179,False
+TKT00304,Domain Management,Medium,AG090,44.18,8,Resolved,2026-01-31,2026-02-01,Billing Support,Tier3,False,142,False
+TKT00305,Email Support,Critical,AG063,39.94,8,Open,2026-01-07,2026-01-08,Technical Support,Tier3,False,166,False
+TKT00306,Login Issue,Low,AG052,18.63,12,Resolved,2026-02-17,2026-02-17,Domain Support,Tier2,False,125,False
+TKT00307,Email Support,Low,AG094,28.35,24,Resolved,2026-05-19,2026-05-20,Customer Support,Tier3,False,34,False
+TKT00308,Hosting,Medium,AG064,11.24,12,Resolved,2026-04-16,2026-04-16,Technical Support,Tier2,True,67,True
+TKT00309,Hosting,High,AG088,27.61,4,Resolved,2026-03-22,2026-03-23,Customer Support,Tier3,False,92,False
+TKT00310,Billing,Critical,AG059,1.77,4,Resolved,2026-06-14,2026-06-14,Billing Support,Tier3,True,8,True
+TKT00311,Domain Management,Medium,AG036,42.46,4,Resolved,2026-05-18,2026-05-19,Technical Support,Tier1,False,35,False
+TKT00312,Email Support,Medium,AG007,32.23,24,Resolved,2026-03-07,2026-03-08,Billing Support,Tier2,True,107,False
+TKT00313,Login Issue,Medium,AG062,34.07,4,Resolved,2026-04-07,2026-04-08,Hosting Support,Tier1,False,76,False
+TKT00314,Email Support,High,AG016,1.44,24,Resolved,2026-02-18,2026-02-18,Domain Support,Tier1,True,124,True
+TKT00315,Email Support,Low,AG014,19.0,12,Resolved,2026-03-01,2026-03-01,Technical Support,Tier1,False,113,False
+TKT00316,Billing,Medium,AG009,37.35,4,Open,2026-05-23,2026-05-24,Billing Support,Tier2,False,30,False
+TKT00317,Email Support,Medium,AG053,34.95,24,Resolved,2026-03-18,2026-03-19,Customer Support,Tier1,True,96,False
+TKT00318,Website Builder,Critical,AG045,36.36,24,Resolved,2026-06-08,2026-06-09,Billing Support,Tier1,False,14,False
+TKT00319,Billing,High,AG100,31.3,4,Resolved,2026-06-12,2026-06-13,Billing Support,Tier3,True,10,False
+TKT00320,Domain Management,Low,AG031,36.15,24,Resolved,2026-03-08,2026-03-09,Customer Support,Tier1,False,106,False
+TKT00321,Login Issue,Low,AG047,30.99,12,Resolved,2026-04-05,2026-04-06,Domain Support,Tier3,False,78,False
+TKT00322,Email Support,Medium,AG098,18.17,24,Resolved,2025-12-24,2025-12-24,Customer Support,Tier3,True,180,True
+TKT00323,Billing,Low,AG008,1.65,24,Open,2026-01-09,2026-01-09,Technical Support,Tier3,False,164,True
+TKT00324,Hosting,Low,AG082,20.91,8,Resolved,2026-04-06,2026-04-06,Customer Support,Tier2,True,77,False
+TKT00325,Billing,Medium,AG069,25.03,12,Resolved,2026-06-03,2026-06-04,Hosting Support,Tier3,True,19,False
+TKT00326,Hosting,Medium,AG008,15.58,8,Resolved,2026-02-08,2026-02-08,Domain Support,Tier1,False,134,False
+TKT00327,Login Issue,High,AG086,29.78,8,Resolved,2026-04-23,2026-04-24,Customer Support,Tier3,True,60,False
+TKT00328,Billing,Critical,AG045,33.97,12,Resolved,2026-03-16,2026-03-17,Technical Support,Tier1,False,98,False
+TKT00329,Login Issue,Low,AG043,35.45,24,Resolved,2026-04-25,2026-04-26,Hosting Support,Tier1,False,58,False
+TKT00330,Website Builder,Low,AG064,34.48,24,Open,2026-04-13,2026-04-14,Technical Support,Tier1,False,70,False
+TKT00331,Billing,High,AG021,41.39,12,Resolved,2026-03-30,2026-03-31,Hosting Support,Tier3,True,84,False
+TKT00332,Website Builder,Low,AG006,11.74,4,Resolved,2026-05-25,2026-05-25,Customer Support,Tier2,False,28,False
+TKT00333,Billing,Medium,AG005,19.0,24,Resolved,2026-02-13,2026-02-13,Technical Support,Tier1,False,129,True
+TKT00334,Domain Management,High,AG010,44.05,12,Resolved,2026-04-03,2026-04-04,Hosting Support,Tier3,True,80,False
+TKT00335,Website Builder,Low,AG052,9.43,4,Resolved,2026-04-13,2026-04-13,Technical Support,Tier2,False,70,False
+TKT00336,Hosting,Low,AG048,5.06,8,Resolved,2026-04-26,2026-04-26,Hosting Support,Tier2,True,57,True
+TKT00337,Website Builder,Critical,AG099,22.8,8,Open,2025-12-29,2025-12-29,Billing Support,Tier1,True,175,False
+TKT00338,Login Issue,Medium,AG070,44.82,12,Resolved,2026-01-11,2026-01-12,Technical Support,Tier1,False,162,False
+TKT00339,Email Support,High,AG014,40.9,8,Open,2026-02-02,2026-02-03,Billing Support,Tier2,False,140,False
+TKT00340,Billing,High,AG012,46.18,4,Resolved,2026-03-11,2026-03-12,Hosting Support,Tier2,False,103,False
+TKT00341,Email Support,Low,AG075,22.55,4,Open,2026-05-07,2026-05-07,Billing Support,Tier3,False,46,False
+TKT00342,Website Builder,Low,AG056,4.52,8,Resolved,2026-01-11,2026-01-11,Technical Support,Tier2,False,162,True
+TKT00343,Hosting,High,AG041,44.52,24,Resolved,2026-03-27,2026-03-28,Billing Support,Tier1,True,87,False
+TKT00344,Website Builder,Low,AG020,7.4,4,Resolved,2026-04-08,2026-04-08,Domain Support,Tier2,False,75,False
+TKT00345,Website Builder,High,AG099,20.11,8,Resolved,2026-02-27,2026-02-27,Technical Support,Tier2,False,115,False
+TKT00346,Login Issue,Medium,AG088,41.07,12,Open,2026-05-31,2026-06-01,Customer Support,Tier1,False,22,False
+TKT00347,Email Support,Medium,AG046,7.97,24,Open,2026-02-23,2026-02-23,Customer Support,Tier3,False,119,True
+TKT00348,Billing,Low,AG052,13.23,24,Open,2026-04-20,2026-04-20,Hosting Support,Tier1,True,63,True
+TKT00349,Billing,Low,AG002,22.72,4,Resolved,2026-01-04,2026-01-04,Billing Support,Tier1,False,169,False
+TKT00350,Email Support,Low,AG075,18.5,12,Resolved,2026-04-11,2026-04-11,Customer Support,Tier1,True,72,False
+TKT00351,Hosting,Medium,AG012,43.42,12,Resolved,2026-05-14,2026-05-15,Customer Support,Tier2,True,39,False
+TKT00352,Website Builder,Critical,AG093,8.9,24,Resolved,2026-02-18,2026-02-18,Customer Support,Tier2,False,124,True
+TKT00353,Billing,Medium,AG036,9.12,12,Resolved,2026-05-31,2026-05-31,Billing Support,Tier1,True,22,True
+TKT00354,Hosting,Critical,AG071,31.42,24,Resolved,2026-01-21,2026-01-22,Customer Support,Tier2,False,152,False
+TKT00355,Billing,Medium,AG081,7.45,4,Resolved,2026-01-24,2026-01-24,Technical Support,Tier2,False,149,False
+TKT00356,Website Builder,High,AG050,17.17,12,Resolved,2026-06-15,2026-06-15,Customer Support,Tier2,True,7,False
+TKT00357,Domain Management,Low,AG061,2.38,12,Open,2026-01-24,2026-01-24,Billing Support,Tier1,True,149,True
+TKT00358,Billing,High,AG069,12.65,4,Resolved,2026-01-23,2026-01-23,Hosting Support,Tier2,False,150,False
+TKT00359,Billing,Medium,AG031,44.95,12,Resolved,2026-06-19,2026-06-20,Hosting Support,Tier1,False,3,False
+TKT00360,Website Builder,Medium,AG073,45.54,8,Resolved,2026-05-09,2026-05-10,Hosting Support,Tier2,True,44,False
+TKT00361,Login Issue,Low,AG030,24.05,8,Resolved,2026-06-03,2026-06-04,Hosting Support,Tier2,True,19,False
+TKT00362,Website Builder,Medium,AG017,16.59,12,Resolved,2026-04-19,2026-04-19,Technical Support,Tier1,True,64,False
+TKT00363,Email Support,Medium,AG100,7.94,4,Open,2026-05-06,2026-05-06,Technical Support,Tier1,False,47,False
+TKT00364,Email Support,Critical,AG076,34.11,4,Resolved,2026-02-18,2026-02-19,Technical Support,Tier2,True,124,False
+TKT00365,Email Support,Critical,AG082,46.87,24,Resolved,2026-02-23,2026-02-24,Billing Support,Tier3,False,119,False
+TKT00366,Website Builder,Medium,AG049,11.49,12,Resolved,2026-01-25,2026-01-25,Billing Support,Tier1,True,148,True
+TKT00367,Website Builder,Critical,AG099,45.59,4,Resolved,2025-12-28,2025-12-29,Hosting Support,Tier2,True,176,False
+TKT00368,Login Issue,Critical,AG019,31.06,12,Resolved,2026-02-16,2026-02-17,Billing Support,Tier2,False,126,False
+TKT00369,Login Issue,High,AG058,8.89,4,Resolved,2026-06-08,2026-06-08,Billing Support,Tier1,True,14,False
+TKT00370,Login Issue,Low,AG007,17.47,24,Resolved,2026-06-21,2026-06-21,Domain Support,Tier1,False,1,True
+TKT00371,Hosting,High,AG070,24.17,24,Resolved,2026-03-14,2026-03-15,Domain Support,Tier3,True,100,False
+TKT00372,Login Issue,Low,AG038,8.64,4,Resolved,2026-02-23,2026-02-23,Technical Support,Tier1,True,119,False
+TKT00373,Hosting,Medium,AG094,17.06,4,Open,2026-03-09,2026-03-09,Customer Support,Tier2,False,105,False
+TKT00374,Hosting,Medium,AG078,34.11,24,Resolved,2026-03-27,2026-03-28,Customer Support,Tier1,False,87,False
+TKT00375,Billing,Critical,AG090,10.66,12,Resolved,2026-03-27,2026-03-27,Technical Support,Tier1,True,87,True
+TKT00376,Website Builder,Critical,AG020,3.33,4,Resolved,2026-01-19,2026-01-19,Customer Support,Tier2,True,154,True
+TKT00377,Email Support,Critical,AG026,14.84,4,Resolved,2026-05-27,2026-05-27,Billing Support,Tier1,False,26,False
+TKT00378,Hosting,Low,AG040,46.92,24,Resolved,2026-02-01,2026-02-02,Domain Support,Tier3,False,141,False
+TKT00379,Website Builder,Critical,AG024,5.28,12,Resolved,2026-05-14,2026-05-14,Technical Support,Tier1,False,39,True
+TKT00380,Hosting,Critical,AG034,3.1,8,Resolved,2026-05-31,2026-05-31,Hosting Support,Tier1,True,22,True
+TKT00381,Email Support,Low,AG011,36.36,12,Open,2026-05-30,2026-05-31,Domain Support,Tier3,True,23,False
+TKT00382,Hosting,Critical,AG069,27.02,24,Open,2026-04-14,2026-04-15,Billing Support,Tier2,False,69,False
+TKT00383,Email Support,Low,AG065,4.71,8,Resolved,2026-01-29,2026-01-29,Domain Support,Tier1,True,144,True
+TKT00384,Billing,Medium,AG006,46.69,24,Resolved,2026-06-20,2026-06-21,Domain Support,Tier1,True,2,False
+TKT00385,Domain Management,High,AG094,40.2,4,Resolved,2026-01-12,2026-01-13,Domain Support,Tier3,False,161,False
+TKT00386,Domain Management,Critical,AG002,26.95,24,Resolved,2026-06-12,2026-06-13,Domain Support,Tier1,True,10,False
+TKT00387,Website Builder,Low,AG014,27.63,4,Resolved,2026-04-16,2026-04-17,Hosting Support,Tier2,False,67,False
+TKT00388,Email Support,Critical,AG074,13.41,24,Resolved,2026-06-14,2026-06-14,Billing Support,Tier2,False,8,True
+TKT00389,Website Builder,Critical,AG005,7.76,24,Resolved,2026-01-17,2026-01-17,Billing Support,Tier1,False,156,True
+TKT00390,Domain Management,Low,AG044,44.28,12,Resolved,2026-03-26,2026-03-27,Technical Support,Tier2,True,88,False
+TKT00391,Billing,Medium,AG039,46.71,24,Resolved,2026-06-13,2026-06-14,Technical Support,Tier3,False,9,False
+TKT00392,Login Issue,Medium,AG057,29.43,8,Resolved,2026-05-06,2026-05-07,Domain Support,Tier3,False,47,False
+TKT00393,Website Builder,Medium,AG009,39.59,12,Open,2026-04-25,2026-04-26,Domain Support,Tier1,True,58,False
+TKT00394,Billing,Low,AG032,9.17,4,Resolved,2026-02-02,2026-02-02,Customer Support,Tier2,True,140,False
+TKT00395,Hosting,Critical,AG082,13.88,4,Resolved,2026-03-26,2026-03-26,Billing Support,Tier2,False,88,False
+TKT00396,Billing,Critical,AG076,28.92,12,Resolved,2026-01-03,2026-01-04,Billing Support,Tier2,True,170,False
+TKT00397,Hosting,Low,AG021,14.4,8,Resolved,2026-03-18,2026-03-18,Billing Support,Tier3,True,96,False
+TKT00398,Hosting,Low,AG100,13.65,4,Resolved,2025-12-29,2025-12-29,Billing Support,Tier3,True,175,False
+TKT00399,Login Issue,Medium,AG033,29.25,12,Resolved,2026-06-19,2026-06-20,Domain Support,Tier2,False,3,False
+TKT00400,Billing,Critical,AG039,22.57,24,Open,2026-04-04,2026-04-04,Customer Support,Tier1,False,79,True
+TKT00401,Website Builder,High,AG039,27.39,4,Resolved,2026-02-25,2026-02-26,Customer Support,Tier2,False,117,False
+TKT00402,Domain Management,High,AG084,31.11,12,Resolved,2026-06-09,2026-06-10,Billing Support,Tier3,True,13,False
+TKT00403,Website Builder,Critical,AG085,43.29,12,Resolved,2026-02-22,2026-02-23,Customer Support,Tier3,False,120,False
+TKT00404,Domain Management,Critical,AG052,47.88,24,Resolved,2026-05-26,2026-05-27,Hosting Support,Tier3,True,27,False
+TKT00405,Email Support,Medium,AG088,17.13,24,Resolved,2026-01-03,2026-01-03,Hosting Support,Tier2,True,170,True
+TKT00406,Website Builder,Medium,AG038,40.51,4,Resolved,2026-04-06,2026-04-07,Billing Support,Tier3,False,77,False
+TKT00407,Website Builder,Medium,AG088,35.08,12,Resolved,2026-01-07,2026-01-08,Billing Support,Tier2,True,166,False
+TKT00408,Domain Management,Critical,AG043,35.98,12,Resolved,2026-04-15,2026-04-16,Hosting Support,Tier2,False,68,False
+TKT00409,Hosting,Low,AG082,41.01,4,Resolved,2026-04-29,2026-04-30,Billing Support,Tier3,True,54,False
+TKT00410,Hosting,High,AG053,41.77,4,Resolved,2026-06-03,2026-06-04,Billing Support,Tier1,False,19,False
+TKT00411,Website Builder,Critical,AG019,20.23,12,Resolved,2026-02-18,2026-02-18,Customer Support,Tier2,False,124,False
+TKT00412,Billing,High,AG082,30.66,4,Resolved,2026-03-27,2026-03-28,Domain Support,Tier2,True,87,False
+TKT00413,Billing,Medium,AG063,36.78,4,Resolved,2026-05-07,2026-05-08,Hosting Support,Tier2,False,46,False
+TKT00414,Hosting,Critical,AG001,19.96,4,Open,2026-05-06,2026-05-06,Billing Support,Tier3,False,47,False
+TKT00415,Domain Management,Medium,AG003,45.65,4,Resolved,2026-05-25,2026-05-26,Billing Support,Tier3,False,28,False
+TKT00416,Login Issue,Critical,AG065,15.67,12,Resolved,2026-03-10,2026-03-10,Customer Support,Tier1,False,104,False
+TKT00417,Hosting,High,AG056,45.58,8,Resolved,2026-06-19,2026-06-20,Domain Support,Tier2,True,3,False
+TKT00418,Hosting,Low,AG030,8.75,8,Resolved,2026-03-22,2026-03-22,Billing Support,Tier3,True,92,False
+TKT00419,Billing,Low,AG047,28.72,4,Resolved,2026-04-12,2026-04-13,Technical Support,Tier3,True,71,False
+TKT00420,Login Issue,Low,AG084,28.91,4,Resolved,2026-02-28,2026-03-01,Customer Support,Tier2,False,114,False
+TKT00421,Website Builder,High,AG061,18.87,8,Resolved,2026-04-09,2026-04-09,Customer Support,Tier2,False,74,False
+TKT00422,Email Support,High,AG080,32.1,8,Resolved,2026-06-15,2026-06-16,Customer Support,Tier3,True,7,False
+TKT00423,Login Issue,Critical,AG026,14.29,8,Resolved,2026-04-12,2026-04-12,Hosting Support,Tier1,False,71,False
+TKT00424,Domain Management,Medium,AG006,34.06,24,Resolved,2026-06-11,2026-06-12,Domain Support,Tier2,True,11,False
+TKT00425,Email Support,Low,AG015,1.13,24,Resolved,2026-04-11,2026-04-11,Customer Support,Tier3,True,72,True
+TKT00426,Login Issue,High,AG083,35.01,8,Resolved,2026-03-11,2026-03-12,Technical Support,Tier2,False,103,False
+TKT00427,Billing,Low,AG038,3.35,12,Resolved,2026-01-28,2026-01-28,Domain Support,Tier3,True,145,True
+TKT00428,Login Issue,Low,AG018,5.46,8,Resolved,2026-01-01,2026-01-01,Technical Support,Tier2,False,172,True
+TKT00429,Login Issue,High,AG044,42.29,8,Resolved,2026-05-18,2026-05-19,Domain Support,Tier2,False,35,False
+TKT00430,Hosting,Critical,AG054,13.78,8,Resolved,2025-12-24,2025-12-24,Billing Support,Tier3,True,180,False
+TKT00431,Billing,Low,AG054,47.13,24,Open,2026-05-08,2026-05-09,Domain Support,Tier1,False,45,False
+TKT00432,Website Builder,Low,AG088,37.62,8,Resolved,2026-04-04,2026-04-05,Domain Support,Tier1,False,79,False
+TKT00433,Login Issue,High,AG084,21.71,12,Resolved,2026-02-25,2026-02-25,Hosting Support,Tier3,True,117,False
+TKT00434,Email Support,High,AG067,46.96,4,Resolved,2026-01-17,2026-01-18,Billing Support,Tier2,False,156,False
+TKT00435,Email Support,Critical,AG020,32.19,4,Resolved,2026-02-09,2026-02-10,Billing Support,Tier3,False,133,False
+TKT00436,Billing,Low,AG097,41.04,24,Resolved,2025-12-28,2025-12-29,Billing Support,Tier2,False,176,False
+TKT00437,Billing,Critical,AG052,3.37,8,Resolved,2026-03-04,2026-03-04,Domain Support,Tier2,False,110,True
+TKT00438,Hosting,Critical,AG041,5.14,4,Resolved,2026-03-27,2026-03-27,Customer Support,Tier1,False,87,False
+TKT00439,Website Builder,Low,AG012,20.38,12,Open,2026-03-05,2026-03-05,Hosting Support,Tier1,False,109,False
+TKT00440,Domain Management,Low,AG029,45.67,24,Resolved,2026-06-19,2026-06-20,Hosting Support,Tier3,False,3,False
+TKT00441,Domain Management,Critical,AG015,34.68,4,Resolved,2026-03-24,2026-03-25,Customer Support,Tier2,False,90,False
+TKT00442,Domain Management,High,AG090,40.0,4,Resolved,2026-04-24,2026-04-25,Billing Support,Tier2,True,59,False
+TKT00443,Email Support,Critical,AG014,39.63,12,Open,2026-03-20,2026-03-21,Billing Support,Tier1,True,94,False
+TKT00444,Hosting,Medium,AG059,44.72,8,Resolved,2026-04-07,2026-04-08,Customer Support,Tier2,True,76,False
+TKT00445,Email Support,Low,AG099,44.55,24,Resolved,2026-01-04,2026-01-05,Hosting Support,Tier3,True,169,False
+TKT00446,Login Issue,Low,AG071,46.3,24,Open,2026-05-26,2026-05-27,Domain Support,Tier3,True,27,False
+TKT00447,Billing,Medium,AG014,33.52,24,Open,2026-01-18,2026-01-19,Hosting Support,Tier2,False,155,False
+TKT00448,Website Builder,Medium,AG036,20.68,24,Resolved,2026-04-04,2026-04-04,Technical Support,Tier2,True,79,True
+TKT00449,Website Builder,High,AG090,7.49,12,Open,2026-04-23,2026-04-23,Billing Support,Tier1,True,60,True
+TKT00450,Domain Management,High,AG087,30.34,8,Resolved,2026-03-03,2026-03-04,Hosting Support,Tier3,False,111,False
+TKT00451,Domain Management,Critical,AG075,34.39,24,Open,2026-06-04,2026-06-05,Technical Support,Tier2,True,18,False
+TKT00452,Login Issue,Critical,AG019,25.57,4,Resolved,2026-04-11,2026-04-12,Billing Support,Tier2,True,72,False
+TKT00453,Email Support,High,AG019,47.23,4,Resolved,2026-04-18,2026-04-19,Billing Support,Tier3,True,65,False
+TKT00454,Hosting,Low,AG079,17.86,8,Open,2026-01-08,2026-01-08,Domain Support,Tier1,False,165,False
+TKT00455,Login Issue,Critical,AG050,33.57,24,Resolved,2026-05-07,2026-05-08,Hosting Support,Tier1,True,46,False
+TKT00456,Billing,Critical,AG029,35.95,12,Open,2026-05-29,2026-05-30,Hosting Support,Tier3,True,24,False
+TKT00457,Billing,High,AG058,37.48,8,Resolved,2026-03-13,2026-03-14,Billing Support,Tier1,True,101,False
+TKT00458,Hosting,High,AG072,18.73,12,Resolved,2026-03-28,2026-03-28,Billing Support,Tier3,False,86,False
+TKT00459,Hosting,Medium,AG006,1.27,8,Resolved,2026-01-04,2026-01-04,Hosting Support,Tier1,False,169,True
+TKT00460,Website Builder,High,AG010,24.06,12,Open,2026-02-27,2026-02-28,Billing Support,Tier1,True,115,False
+TKT00461,Billing,Critical,AG070,37.95,24,Resolved,2026-04-06,2026-04-07,Technical Support,Tier1,True,77,False
+TKT00462,Domain Management,High,AG038,32.18,8,Open,2026-03-15,2026-03-16,Hosting Support,Tier2,True,99,False
+TKT00463,Domain Management,Critical,AG031,6.39,8,Resolved,2026-02-17,2026-02-17,Technical Support,Tier2,True,125,True
+TKT00464,Website Builder,High,AG004,19.14,12,Open,2026-02-05,2026-02-05,Hosting Support,Tier2,False,137,False
+TKT00465,Email Support,Medium,AG042,3.06,4,Resolved,2026-02-08,2026-02-08,Billing Support,Tier3,True,134,True
+TKT00466,Billing,Medium,AG088,30.47,24,Resolved,2026-03-19,2026-03-20,Billing Support,Tier3,False,95,False
+TKT00467,Login Issue,Medium,AG004,31.39,24,Resolved,2026-03-10,2026-03-11,Customer Support,Tier1,True,104,False
+TKT00468,Domain Management,Low,AG074,3.55,8,Resolved,2026-04-11,2026-04-11,Domain Support,Tier2,False,72,True
+TKT00469,Hosting,High,AG003,30.62,24,Resolved,2026-04-15,2026-04-16,Hosting Support,Tier1,True,68,False
+TKT00470,Website Builder,Low,AG090,36.53,4,Resolved,2026-05-26,2026-05-27,Hosting Support,Tier1,False,27,False
+TKT00471,Domain Management,Low,AG037,37.98,24,Resolved,2026-01-31,2026-02-01,Domain Support,Tier3,True,142,False
+TKT00472,Website Builder,Medium,AG018,23.28,24,Open,2026-04-18,2026-04-18,Technical Support,Tier3,True,65,True
+TKT00473,Email Support,High,AG002,15.01,8,Resolved,2026-01-10,2026-01-10,Customer Support,Tier1,False,163,False
+TKT00474,Login Issue,High,AG027,26.25,12,Resolved,2026-05-09,2026-05-10,Domain Support,Tier3,True,44,False
+TKT00475,Billing,High,AG025,8.56,4,Resolved,2026-04-26,2026-04-26,Hosting Support,Tier1,False,57,False
+TKT00476,Login Issue,High,AG086,31.3,4,Resolved,2026-02-02,2026-02-03,Customer Support,Tier1,False,140,False
+TKT00477,Domain Management,Medium,AG086,45.72,8,Resolved,2026-03-11,2026-03-12,Technical Support,Tier3,True,103,False
+TKT00478,Domain Management,Critical,AG058,43.31,12,Open,2026-03-04,2026-03-05,Technical Support,Tier3,True,110,False
+TKT00479,Domain Management,High,AG055,27.58,8,Resolved,2026-03-27,2026-03-28,Technical Support,Tier1,True,87,False
+TKT00480,Email Support,Critical,AG036,34.47,12,Resolved,2026-02-25,2026-02-26,Technical Support,Tier2,False,117,False
+TKT00481,Domain Management,Critical,AG071,21.93,4,Resolved,2026-02-28,2026-02-28,Hosting Support,Tier1,False,114,False
+TKT00482,Billing,Medium,AG034,41.36,4,Resolved,2026-02-27,2026-02-28,Customer Support,Tier3,True,115,False
+TKT00483,Website Builder,Critical,AG099,39.19,8,Resolved,2026-04-20,2026-04-21,Hosting Support,Tier2,False,63,False
+TKT00484,Billing,High,AG051,31.73,8,Open,2026-01-07,2026-01-08,Technical Support,Tier1,False,166,False
+TKT00485,Login Issue,Critical,AG047,24.55,4,Resolved,2026-02-02,2026-02-03,Hosting Support,Tier3,True,140,False
+TKT00486,Billing,Critical,AG021,36.59,8,Open,2026-03-31,2026-04-01,Hosting Support,Tier3,True,83,False
+TKT00487,Hosting,High,AG006,35.59,8,Resolved,2026-01-11,2026-01-12,Billing Support,Tier1,False,162,False
+TKT00488,Login Issue,Medium,AG067,18.36,12,Resolved,2026-02-19,2026-02-19,Domain Support,Tier2,True,123,False
+TKT00489,Email Support,High,AG014,2.88,12,Resolved,2026-02-18,2026-02-18,Hosting Support,Tier3,True,124,True
+TKT00490,Hosting,High,AG076,18.7,4,Open,2026-05-04,2026-05-04,Technical Support,Tier2,True,49,False
+TKT00491,Domain Management,High,AG063,25.27,24,Open,2026-01-12,2026-01-13,Customer Support,Tier3,True,161,False
+TKT00492,Billing,Low,AG066,21.68,12,Resolved,2026-06-21,2026-06-21,Billing Support,Tier1,True,1,False
+TKT00493,Email Support,Low,AG085,18.02,8,Resolved,2026-04-06,2026-04-06,Technical Support,Tier3,True,77,False
+TKT00494,Hosting,Critical,AG027,23.63,8,Resolved,2026-05-16,2026-05-16,Customer Support,Tier1,True,37,False
+TKT00495,Website Builder,Medium,AG018,7.01,4,Open,2026-02-07,2026-02-07,Billing Support,Tier1,True,135,False
+TKT00496,Billing,Critical,AG077,13.14,4,Resolved,2026-01-11,2026-01-11,Customer Support,Tier1,False,162,False
+TKT00497,Hosting,Critical,AG022,29.51,8,Resolved,2026-01-24,2026-01-25,Hosting Support,Tier1,True,149,False
+TKT00498,Website Builder,High,AG022,30.29,12,Resolved,2026-01-13,2026-01-14,Hosting Support,Tier3,True,160,False
+TKT00499,Hosting,Medium,AG014,11.8,4,Resolved,2026-05-21,2026-05-21,Hosting Support,Tier3,False,32,False
+TKT00500,Website Builder,Low,AG023,39.85,24,Open,2026-04-11,2026-04-12,Hosting Support,Tier1,True,72,False
+TKT00501,Email Support,Medium,AG078,5.38,4,Resolved,2026-04-15,2026-04-15,Hosting Support,Tier2,False,68,False
+TKT00502,Email Support,Critical,AG030,42.12,24,Resolved,2026-04-23,2026-04-24,Technical Support,Tier3,True,60,False
+TKT00503,Domain Management,Critical,AG099,21.0,8,Resolved,2026-02-21,2026-02-21,Technical Support,Tier3,False,121,False
+TKT00504,Login Issue,Low,AG074,13.12,4,Open,2026-04-30,2026-04-30,Customer Support,Tier2,True,53,False
+TKT00505,Domain Management,Critical,AG047,33.33,4,Resolved,2025-12-27,2025-12-28,Domain Support,Tier3,False,177,False
+TKT00506,Website Builder,Critical,AG073,13.28,12,Open,2026-01-30,2026-01-30,Technical Support,Tier3,False,143,False
+TKT00507,Hosting,Critical,AG023,36.48,12,Open,2026-03-23,2026-03-24,Hosting Support,Tier2,False,91,False
+TKT00508,Website Builder,High,AG100,47.46,24,Resolved,2026-02-20,2026-02-21,Customer Support,Tier3,True,122,False
+TKT00509,Email Support,Medium,AG013,21.99,8,Open,2026-01-21,2026-01-21,Domain Support,Tier2,True,152,False
+TKT00510,Email Support,Low,AG012,8.55,8,Resolved,2026-06-08,2026-06-08,Hosting Support,Tier2,True,14,False
+TKT00511,Billing,High,AG011,4.01,4,Resolved,2026-06-21,2026-06-21,Domain Support,Tier3,False,1,False
+TKT00512,Website Builder,Low,AG100,34.45,8,Resolved,2026-01-24,2026-01-25,Domain Support,Tier1,True,149,False
+TKT00513,Website Builder,High,AG025,40.98,4,Open,2026-05-31,2026-06-01,Hosting Support,Tier3,True,22,False
+TKT00514,Email Support,Low,AG047,29.91,8,Resolved,2026-03-19,2026-03-20,Billing Support,Tier1,False,95,False
+TKT00515,Domain Management,Critical,AG052,37.64,8,Open,2026-02-15,2026-02-16,Customer Support,Tier3,True,127,False
+TKT00516,Website Builder,High,AG093,44.2,12,Resolved,2026-03-15,2026-03-16,Technical Support,Tier1,True,99,False
+TKT00517,Hosting,Low,AG034,22.37,8,Resolved,2026-04-08,2026-04-08,Hosting Support,Tier1,True,75,False
+TKT00518,Domain Management,Low,AG066,24.65,12,Open,2026-01-30,2026-01-31,Hosting Support,Tier2,False,143,False
+TKT00519,Website Builder,Critical,AG099,46.4,8,Resolved,2026-05-18,2026-05-19,Domain Support,Tier3,False,35,False
+TKT00520,Login Issue,Critical,AG015,43.14,12,Resolved,2026-02-11,2026-02-12,Domain Support,Tier3,True,131,False
+TKT00521,Billing,High,AG053,32.81,12,Open,2026-02-20,2026-02-21,Hosting Support,Tier1,False,122,False
+TKT00522,Login Issue,Critical,AG087,12.67,12,Resolved,2026-01-16,2026-01-16,Hosting Support,Tier1,False,157,False
+TKT00523,Billing,High,AG024,15.75,8,Resolved,2026-02-25,2026-02-25,Billing Support,Tier1,True,117,False
+TKT00524,Billing,Medium,AG026,42.02,8,Open,2026-05-13,2026-05-14,Technical Support,Tier1,True,40,False
+TKT00525,Login Issue,Critical,AG079,6.63,4,Open,2026-01-21,2026-01-21,Customer Support,Tier2,False,152,False
+TKT00526,Hosting,High,AG063,30.17,8,Open,2026-01-05,2026-01-06,Technical Support,Tier2,True,168,False
+TKT00527,Billing,Low,AG068,36.26,24,Resolved,2026-03-26,2026-03-27,Hosting Support,Tier1,False,88,False
+TKT00528,Email Support,Medium,AG059,19.5,4,Open,2026-01-14,2026-01-14,Domain Support,Tier2,True,159,False
+TKT00529,Billing,Critical,AG075,1.56,4,Resolved,2026-01-29,2026-01-29,Technical Support,Tier3,False,144,True
+TKT00530,Domain Management,Medium,AG035,9.8,24,Open,2026-01-22,2026-01-22,Technical Support,Tier2,True,151,True
+TKT00531,Billing,Critical,AG090,24.44,12,Resolved,2026-01-12,2026-01-13,Domain Support,Tier2,False,161,False
+TKT00532,Billing,Medium,AG013,9.45,12,Resolved,2026-02-14,2026-02-14,Hosting Support,Tier2,False,128,True
+TKT00533,Email Support,Medium,AG061,10.21,4,Resolved,2026-01-20,2026-01-20,Domain Support,Tier2,True,153,False
+TKT00534,Email Support,High,AG063,47.79,12,Resolved,2026-06-04,2026-06-05,Hosting Support,Tier3,True,18,False
+TKT00535,Email Support,Medium,AG008,19.72,8,Resolved,2026-01-04,2026-01-04,Domain Support,Tier3,True,169,False
+TKT00536,Domain Management,High,AG047,22.14,12,Open,2025-12-24,2025-12-24,Hosting Support,Tier2,False,180,False
+TKT00537,Login Issue,High,AG087,1.93,8,Open,2026-02-17,2026-02-17,Hosting Support,Tier3,True,125,True
+TKT00538,Domain Management,High,AG042,47.03,24,Resolved,2026-05-07,2026-05-08,Customer Support,Tier2,False,46,False
+TKT00539,Billing,Medium,AG082,22.8,12,Resolved,2026-04-16,2026-04-16,Hosting Support,Tier3,False,67,False
+TKT00540,Login Issue,Low,AG021,40.9,12,Resolved,2026-01-05,2026-01-06,Technical Support,Tier2,False,168,False
+TKT00541,Website Builder,Critical,AG035,34.39,24,Resolved,2026-06-03,2026-06-04,Hosting Support,Tier3,False,19,False
+TKT00542,Billing,Low,AG017,20.46,8,Resolved,2026-02-12,2026-02-12,Customer Support,Tier1,True,130,False
+TKT00543,Login Issue,Low,AG061,19.66,4,Resolved,2026-04-10,2026-04-10,Domain Support,Tier3,True,73,False
+TKT00544,Website Builder,Medium,AG011,5.88,24,Resolved,2026-06-02,2026-06-02,Billing Support,Tier1,False,20,True
+TKT00545,Billing,Medium,AG068,21.83,8,Resolved,2026-03-17,2026-03-17,Customer Support,Tier3,False,97,False
+TKT00546,Domain Management,Critical,AG060,41.44,12,Open,2025-12-28,2025-12-29,Domain Support,Tier1,True,176,False
+TKT00547,Hosting,Critical,AG068,28.77,12,Resolved,2026-03-11,2026-03-12,Domain Support,Tier3,True,103,False
+TKT00548,Hosting,High,AG047,38.82,24,Resolved,2026-04-16,2026-04-17,Billing Support,Tier2,True,67,False
+TKT00549,Billing,High,AG037,1.0,24,Open,2026-04-23,2026-04-23,Customer Support,Tier3,False,60,True
+TKT00550,Hosting,High,AG002,45.51,24,Resolved,2026-04-23,2026-04-24,Hosting Support,Tier1,True,60,False
+TKT00551,Billing,Critical,AG072,26.77,24,Resolved,2026-02-12,2026-02-13,Billing Support,Tier1,False,130,False
+TKT00552,Billing,High,AG011,39.94,24,Resolved,2026-01-08,2026-01-09,Hosting Support,Tier3,False,165,False
+TKT00553,Email Support,High,AG053,14.38,8,Resolved,2026-03-09,2026-03-09,Billing Support,Tier1,False,105,False
+TKT00554,Hosting,Critical,AG035,6.19,24,Resolved,2026-03-17,2026-03-17,Technical Support,Tier1,True,97,True
+TKT00555,Website Builder,Low,AG024,3.33,4,Resolved,2026-05-23,2026-05-23,Technical Support,Tier1,False,30,True
+TKT00556,Billing,Low,AG020,35.17,4,Resolved,2026-03-26,2026-03-27,Billing Support,Tier2,False,88,False
+TKT00557,Hosting,High,AG060,15.64,4,Resolved,2026-02-11,2026-02-11,Customer Support,Tier1,True,131,False
+TKT00558,Hosting,Low,AG070,13.53,24,Resolved,2026-03-06,2026-03-06,Billing Support,Tier2,False,108,True
+TKT00559,Login Issue,Medium,AG050,39.93,24,Resolved,2026-03-22,2026-03-23,Customer Support,Tier1,False,92,False
+TKT00560,Login Issue,Medium,AG061,35.56,24,Resolved,2026-04-19,2026-04-20,Technical Support,Tier1,True,64,False
+TKT00561,Website Builder,Low,AG033,36.0,24,Resolved,2026-03-19,2026-03-20,Billing Support,Tier2,True,95,False
+TKT00562,Billing,Low,AG031,41.59,24,Resolved,2026-06-20,2026-06-21,Customer Support,Tier1,False,2,False
+TKT00563,Hosting,Medium,AG002,28.48,4,Open,2026-04-23,2026-04-24,Domain Support,Tier3,True,60,False
+TKT00564,Login Issue,Medium,AG021,18.46,24,Resolved,2026-04-06,2026-04-06,Hosting Support,Tier2,True,77,True
+TKT00565,Email Support,Medium,AG090,3.81,4,Resolved,2026-01-10,2026-01-10,Domain Support,Tier1,False,163,True
+TKT00566,Email Support,High,AG057,47.14,8,Resolved,2026-06-09,2026-06-10,Domain Support,Tier2,True,13,False
+TKT00567,Login Issue,Critical,AG091,12.78,24,Open,2026-06-17,2026-06-17,Technical Support,Tier3,False,5,True
+TKT00568,Billing,High,AG042,9.92,24,Resolved,2026-03-05,2026-03-05,Hosting Support,Tier3,True,109,True
+TKT00569,Billing,Critical,AG038,4.24,12,Open,2026-01-15,2026-01-15,Technical Support,Tier2,True,158,True
+TKT00570,Website Builder,Critical,AG094,37.47,8,Resolved,2026-05-23,2026-05-24,Hosting Support,Tier2,True,30,False
+TKT00571,Login Issue,Critical,AG025,16.07,24,Open,2026-05-21,2026-05-21,Billing Support,Tier3,False,32,True
+TKT00572,Email Support,High,AG015,16.16,4,Open,2026-04-27,2026-04-27,Customer Support,Tier1,True,56,False
+TKT00573,Login Issue,Medium,AG014,9.4,24,Resolved,2026-05-24,2026-05-24,Customer Support,Tier1,False,29,True
+TKT00574,Website Builder,High,AG007,31.92,12,Resolved,2026-04-01,2026-04-02,Hosting Support,Tier3,True,82,False
+TKT00575,Billing,Critical,AG011,1.62,24,Resolved,2026-04-27,2026-04-27,Technical Support,Tier3,False,56,True
+TKT00576,Email Support,Low,AG079,39.64,12,Open,2026-05-31,2026-06-01,Customer Support,Tier3,True,22,False
+TKT00577,Login Issue,Medium,AG067,40.22,4,Resolved,2026-02-27,2026-02-28,Billing Support,Tier3,False,115,False
+TKT00578,Website Builder,Medium,AG073,9.9,8,Open,2026-02-24,2026-02-24,Hosting Support,Tier2,True,118,False
+TKT00579,Website Builder,High,AG087,37.02,24,Resolved,2026-04-17,2026-04-18,Customer Support,Tier1,True,66,False
+TKT00580,Website Builder,High,AG085,26.85,8,Open,2026-06-19,2026-06-20,Hosting Support,Tier2,False,3,False
+TKT00581,Website Builder,High,AG048,43.42,24,Resolved,2026-06-20,2026-06-21,Technical Support,Tier3,True,2,False
+TKT00582,Billing,Critical,AG099,27.47,12,Resolved,2026-03-02,2026-03-03,Domain Support,Tier2,False,112,False
+TKT00583,Login Issue,High,AG077,1.01,4,Open,2026-04-30,2026-04-30,Billing Support,Tier2,True,53,True
+TKT00584,Billing,Medium,AG041,15.12,4,Resolved,2026-06-13,2026-06-13,Hosting Support,Tier3,True,9,False
+TKT00585,Hosting,High,AG020,5.43,8,Resolved,2026-03-30,2026-03-30,Technical Support,Tier3,True,84,True
+TKT00586,Domain Management,Low,AG074,11.95,24,Open,2026-02-15,2026-02-15,Billing Support,Tier3,True,127,True
+TKT00587,Hosting,Medium,AG063,35.01,4,Open,2026-04-23,2026-04-24,Technical Support,Tier1,False,60,False
+TKT00588,Login Issue,High,AG045,4.69,24,Resolved,2026-05-21,2026-05-21,Customer Support,Tier1,True,32,True
+TKT00589,Email Support,Critical,AG007,30.79,12,Open,2026-03-16,2026-03-17,Customer Support,Tier2,True,98,False
+TKT00590,Email Support,Medium,AG020,16.36,4,Resolved,2026-06-03,2026-06-03,Domain Support,Tier3,True,19,False
+TKT00591,Domain Management,Critical,AG019,11.44,8,Resolved,2026-05-28,2026-05-28,Customer Support,Tier2,True,25,False
+TKT00592,Domain Management,Low,AG052,26.76,24,Resolved,2026-02-04,2026-02-05,Billing Support,Tier2,True,138,False
+TKT00593,Email Support,Medium,AG072,23.93,8,Resolved,2026-04-21,2026-04-21,Customer Support,Tier2,False,62,False
+TKT00594,Website Builder,Low,AG015,16.2,24,Resolved,2026-04-02,2026-04-02,Technical Support,Tier2,True,81,True
+TKT00595,Website Builder,Low,AG099,16.07,12,Resolved,2026-01-10,2026-01-10,Technical Support,Tier3,False,163,False
+TKT00596,Hosting,Low,AG030,30.29,8,Resolved,2026-01-27,2026-01-28,Billing Support,Tier3,True,146,False
+TKT00597,Login Issue,Medium,AG080,6.28,8,Resolved,2026-05-29,2026-05-29,Customer Support,Tier2,True,24,True
+TKT00598,Hosting,Low,AG043,15.34,8,Open,2026-01-27,2026-01-27,Billing Support,Tier1,False,146,False
+TKT00599,Website Builder,Medium,AG089,26.79,4,Resolved,2026-02-26,2026-02-27,Hosting Support,Tier3,True,116,False
+TKT00600,Login Issue,High,AG026,13.01,12,Resolved,2026-05-24,2026-05-24,Domain Support,Tier3,True,29,False
+TKT00601,Email Support,High,AG085,4.13,12,Resolved,2026-04-20,2026-04-20,Customer Support,Tier2,False,63,True
+TKT00602,Hosting,Low,AG041,11.86,24,Open,2026-01-22,2026-01-22,Hosting Support,Tier1,True,151,True
+TKT00603,Hosting,Low,AG006,10.35,8,Open,2026-02-15,2026-02-15,Technical Support,Tier2,False,127,False
+TKT00604,Billing,Low,AG045,19.49,12,Resolved,2026-04-06,2026-04-06,Technical Support,Tier1,False,77,False
+TKT00605,Email Support,High,AG050,39.16,4,Open,2026-01-27,2026-01-28,Technical Support,Tier1,True,146,False
+TKT00606,Hosting,Medium,AG012,17.06,24,Open,2026-05-14,2026-05-14,Hosting Support,Tier3,True,39,True
+TKT00607,Website Builder,Medium,AG055,20.61,12,Open,2026-04-21,2026-04-21,Technical Support,Tier2,True,62,False
+TKT00608,Billing,Medium,AG018,10.72,12,Open,2026-06-17,2026-06-17,Billing Support,Tier2,True,5,True
+TKT00609,Website Builder,Medium,AG041,31.84,4,Open,2026-04-17,2026-04-18,Hosting Support,Tier3,True,66,False
+TKT00610,Billing,Low,AG098,9.65,12,Resolved,2026-04-15,2026-04-15,Domain Support,Tier2,False,68,True
+TKT00611,Email Support,High,AG020,36.04,8,Resolved,2025-12-25,2025-12-26,Billing Support,Tier1,True,179,False
+TKT00612,Website Builder,High,AG078,36.84,8,Open,2026-02-03,2026-02-04,Billing Support,Tier1,True,139,False
+TKT00613,Email Support,Critical,AG018,17.89,24,Resolved,2026-02-08,2026-02-08,Billing Support,Tier2,False,134,True
+TKT00614,Billing,Medium,AG029,23.27,4,Resolved,2026-06-13,2026-06-13,Customer Support,Tier2,False,9,False
+TKT00615,Email Support,Medium,AG097,11.46,8,Resolved,2026-05-22,2026-05-22,Billing Support,Tier2,False,31,False
+TKT00616,Hosting,Medium,AG055,33.33,24,Resolved,2026-05-04,2026-05-05,Hosting Support,Tier3,False,49,False
+TKT00617,Hosting,Low,AG067,34.85,4,Resolved,2026-01-09,2026-01-10,Domain Support,Tier1,True,164,False
+TKT00618,Hosting,Low,AG072,25.38,24,Open,2026-02-09,2026-02-10,Customer Support,Tier1,False,133,False
+TKT00619,Domain Management,High,AG060,21.66,8,Resolved,2026-05-01,2026-05-01,Technical Support,Tier3,True,52,False
+TKT00620,Billing,Critical,AG083,33.43,24,Resolved,2026-04-23,2026-04-24,Hosting Support,Tier1,True,60,False
+TKT00621,Email Support,Medium,AG051,37.6,24,Resolved,2026-02-25,2026-02-26,Domain Support,Tier1,True,117,False
+TKT00622,Email Support,Medium,AG059,22.32,4,Resolved,2025-12-30,2025-12-30,Technical Support,Tier3,True,174,False
+TKT00623,Login Issue,Low,AG015,34.76,24,Resolved,2026-03-08,2026-03-09,Customer Support,Tier3,False,106,False
+TKT00624,Website Builder,Medium,AG049,35.16,24,Resolved,2026-03-10,2026-03-11,Billing Support,Tier2,True,104,False
+TKT00625,Billing,Medium,AG099,8.62,4,Resolved,2026-04-17,2026-04-17,Technical Support,Tier2,False,66,False
+TKT00626,Billing,Low,AG017,14.57,8,Resolved,2026-01-16,2026-01-16,Hosting Support,Tier2,True,157,False
+TKT00627,Hosting,Low,AG078,22.56,24,Resolved,2026-02-11,2026-02-11,Billing Support,Tier3,False,131,True
+TKT00628,Hosting,Low,AG077,22.33,4,Resolved,2026-05-01,2026-05-01,Hosting Support,Tier2,True,52,False
+TKT00629,Billing,Low,AG084,3.3,12,Resolved,2026-06-09,2026-06-09,Billing Support,Tier1,False,13,True
+TKT00630,Login Issue,Low,AG014,16.56,24,Resolved,2026-05-09,2026-05-09,Billing Support,Tier3,False,44,True
+TKT00631,Email Support,Medium,AG059,29.72,12,Resolved,2026-04-04,2026-04-05,Customer Support,Tier2,False,79,False
+TKT00632,Hosting,Low,AG098,18.32,24,Open,2026-04-04,2026-04-04,Customer Support,Tier2,False,79,True
+TKT00633,Email Support,High,AG043,7.32,24,Open,2026-03-22,2026-03-22,Billing Support,Tier3,True,92,True
+TKT00634,Login Issue,Low,AG062,29.77,12,Resolved,2026-03-17,2026-03-18,Hosting Support,Tier2,False,97,False
+TKT00635,Website Builder,High,AG017,25.69,24,Open,2026-06-10,2026-06-11,Domain Support,Tier2,True,12,False
+TKT00636,Billing,High,AG025,42.53,4,Resolved,2026-03-19,2026-03-20,Customer Support,Tier2,True,95,False
+TKT00637,Billing,Critical,AG053,35.66,4,Resolved,2026-05-23,2026-05-24,Technical Support,Tier3,True,30,False
+TKT00638,Billing,High,AG033,1.53,4,Resolved,2025-12-31,2025-12-31,Technical Support,Tier3,False,173,True
+TKT00639,Login Issue,High,AG044,37.05,24,Open,2026-01-10,2026-01-11,Hosting Support,Tier1,True,163,False
+TKT00640,Domain Management,Critical,AG061,10.12,4,Resolved,2026-05-07,2026-05-07,Domain Support,Tier1,False,46,False
+TKT00641,Website Builder,High,AG060,42.93,24,Resolved,2026-02-22,2026-02-23,Hosting Support,Tier2,False,120,False
+TKT00642,Login Issue,Medium,AG074,27.09,12,Resolved,2026-04-07,2026-04-08,Customer Support,Tier1,False,76,False
+TKT00643,Domain Management,Critical,AG081,40.51,8,Open,2026-04-27,2026-04-28,Hosting Support,Tier2,True,56,False
+TKT00644,Domain Management,High,AG091,28.97,4,Resolved,2026-02-15,2026-02-16,Domain Support,Tier1,False,127,False
+TKT00645,Domain Management,Critical,AG039,42.22,8,Open,2026-05-08,2026-05-09,Technical Support,Tier1,True,45,False
+TKT00646,Login Issue,Medium,AG012,18.59,24,Open,2026-04-25,2026-04-25,Customer Support,Tier2,True,58,True
+TKT00647,Hosting,High,AG100,9.94,12,Resolved,2026-03-04,2026-03-04,Customer Support,Tier3,True,110,True
+TKT00648,Login Issue,Critical,AG050,10.64,4,Resolved,2026-03-29,2026-03-29,Technical Support,Tier1,True,85,False
+TKT00649,Login Issue,Low,AG067,16.66,12,Resolved,2025-12-30,2025-12-30,Hosting Support,Tier2,True,174,False
+TKT00650,Billing,High,AG036,16.08,12,Resolved,2026-05-01,2026-05-01,Customer Support,Tier2,True,52,False
+TKT00651,Login Issue,Low,AG080,8.4,4,Resolved,2026-01-28,2026-01-28,Hosting Support,Tier2,False,145,False
+TKT00652,Email Support,High,AG074,13.74,8,Resolved,2026-03-16,2026-03-16,Customer Support,Tier2,False,98,False
+TKT00653,Login Issue,Medium,AG004,26.41,24,Resolved,2026-06-16,2026-06-17,Customer Support,Tier2,True,6,False
+TKT00654,Hosting,Medium,AG091,5.05,24,Open,2026-01-17,2026-01-17,Technical Support,Tier2,False,156,True
+TKT00655,Email Support,Low,AG097,39.42,24,Open,2026-02-24,2026-02-25,Billing Support,Tier1,False,118,False
+TKT00656,Domain Management,Critical,AG061,5.57,8,Resolved,2026-02-15,2026-02-15,Billing Support,Tier3,False,127,True
+TKT00657,Hosting,Medium,AG090,43.9,12,Resolved,2026-01-06,2026-01-07,Domain Support,Tier2,True,167,False
+TKT00658,Login Issue,High,AG062,4.07,24,Resolved,2026-02-18,2026-02-18,Technical Support,Tier2,True,124,True
+TKT00659,Hosting,Low,AG042,24.87,4,Resolved,2026-03-30,2026-03-31,Hosting Support,Tier2,False,84,False
+TKT00660,Billing,Medium,AG071,28.76,8,Resolved,2026-04-10,2026-04-11,Domain Support,Tier1,False,73,False
+TKT00661,Email Support,Critical,AG056,10.79,12,Open,2026-01-21,2026-01-21,Billing Support,Tier1,True,152,True
+TKT00662,Email Support,Critical,AG015,35.75,24,Resolved,2026-06-15,2026-06-16,Hosting Support,Tier1,False,7,False
+TKT00663,Hosting,Low,AG077,9.28,4,Open,2026-05-12,2026-05-12,Domain Support,Tier2,False,41,False
+TKT00664,Login Issue,Low,AG028,31.31,8,Open,2026-03-20,2026-03-21,Customer Support,Tier1,True,94,False
+TKT00665,Domain Management,Critical,AG079,22.29,24,Resolved,2026-04-03,2026-04-03,Billing Support,Tier3,False,80,True
+TKT00666,Email Support,High,AG056,15.09,12,Resolved,2026-03-25,2026-03-25,Hosting Support,Tier1,False,89,False
+TKT00667,Domain Management,Low,AG048,40.84,4,Resolved,2026-04-27,2026-04-28,Hosting Support,Tier2,True,56,False
+TKT00668,Login Issue,Medium,AG056,41.48,24,Resolved,2026-06-20,2026-06-21,Domain Support,Tier2,False,2,False
+TKT00669,Billing,Medium,AG061,21.45,8,Resolved,2026-01-16,2026-01-16,Hosting Support,Tier2,False,157,False
+TKT00670,Billing,High,AG086,40.48,8,Resolved,2026-03-26,2026-03-27,Customer Support,Tier1,True,88,False
+TKT00671,Hosting,Critical,AG018,7.77,4,Resolved,2026-06-12,2026-06-12,Domain Support,Tier2,False,10,False
+TKT00672,Hosting,Critical,AG071,30.29,24,Resolved,2026-05-27,2026-05-28,Technical Support,Tier1,True,26,False
+TKT00673,Login Issue,Critical,AG094,20.96,8,Open,2026-02-07,2026-02-07,Technical Support,Tier2,False,135,False
+TKT00674,Login Issue,Critical,AG091,2.57,12,Resolved,2026-06-04,2026-06-04,Hosting Support,Tier2,True,18,True
+TKT00675,Email Support,High,AG060,7.68,4,Open,2026-01-29,2026-01-29,Hosting Support,Tier1,True,144,False
+TKT00676,Email Support,Low,AG088,23.21,12,Open,2026-04-28,2026-04-28,Customer Support,Tier2,True,55,False
+TKT00677,Website Builder,Critical,AG074,23.04,12,Resolved,2026-05-02,2026-05-02,Technical Support,Tier2,False,51,False
+TKT00678,Email Support,High,AG094,8.87,12,Resolved,2026-02-13,2026-02-13,Domain Support,Tier3,True,129,True
+TKT00679,Email Support,High,AG095,27.92,4,Resolved,2026-02-19,2026-02-20,Domain Support,Tier1,True,123,False
+TKT00680,Domain Management,High,AG017,24.76,12,Resolved,2026-03-22,2026-03-23,Technical Support,Tier1,True,92,False
+TKT00681,Website Builder,Medium,AG085,29.38,24,Resolved,2026-01-16,2026-01-17,Billing Support,Tier2,True,157,False
+TKT00682,Website Builder,Low,AG044,23.79,4,Resolved,2026-02-18,2026-02-18,Hosting Support,Tier1,False,124,False
+TKT00683,Hosting,Critical,AG031,36.38,24,Resolved,2026-04-03,2026-04-04,Billing Support,Tier3,False,80,False
+TKT00684,Domain Management,Low,AG007,3.55,8,Resolved,2026-05-01,2026-05-01,Domain Support,Tier2,False,52,True
+TKT00685,Website Builder,Medium,AG049,23.38,24,Resolved,2026-05-23,2026-05-23,Technical Support,Tier1,False,30,True
+TKT00686,Hosting,Critical,AG087,1.56,12,Open,2026-05-19,2026-05-19,Customer Support,Tier1,False,34,True
+TKT00687,Hosting,High,AG043,45.94,12,Resolved,2026-04-23,2026-04-24,Customer Support,Tier2,False,60,False
+TKT00688,Email Support,Medium,AG094,22.67,8,Open,2026-02-24,2026-02-24,Technical Support,Tier3,True,118,False
+TKT00689,Login Issue,Low,AG009,15.72,4,Resolved,2026-03-10,2026-03-10,Customer Support,Tier3,True,104,False
+TKT00690,Domain Management,Medium,AG093,33.22,12,Resolved,2026-01-04,2026-01-05,Billing Support,Tier1,True,169,False
+TKT00691,Login Issue,Medium,AG077,30.11,4,Resolved,2026-04-05,2026-04-06,Customer Support,Tier3,True,78,False
+TKT00692,Email Support,Medium,AG015,18.67,8,Resolved,2026-05-31,2026-05-31,Technical Support,Tier2,True,22,False
+TKT00693,Domain Management,Critical,AG089,31.02,12,Resolved,2026-06-19,2026-06-20,Billing Support,Tier1,False,3,False
+TKT00694,Hosting,Critical,AG043,37.52,4,Resolved,2026-02-04,2026-02-05,Technical Support,Tier1,False,138,False
+TKT00695,Billing,Critical,AG023,4.26,24,Resolved,2026-02-15,2026-02-15,Billing Support,Tier3,False,127,True
+TKT00696,Email Support,Low,AG057,11.26,12,Resolved,2026-02-15,2026-02-15,Customer Support,Tier1,True,127,True
+TKT00697,Domain Management,Critical,AG003,27.85,24,Resolved,2026-04-10,2026-04-11,Customer Support,Tier1,False,73,False
+TKT00698,Email Support,High,AG051,13.52,4,Open,2026-01-31,2026-01-31,Domain Support,Tier2,False,142,False
+TKT00699,Email Support,Low,AG070,19.98,8,Resolved,2026-03-12,2026-03-12,Domain Support,Tier3,False,102,False
+TKT00700,Website Builder,High,AG043,6.7,12,Resolved,2026-03-09,2026-03-09,Customer Support,Tier3,True,105,True
+TKT00701,Domain Management,Low,AG059,18.17,12,Resolved,2025-12-31,2025-12-31,Billing Support,Tier3,True,173,False
+TKT00702,Email Support,Medium,AG039,46.47,24,Resolved,2026-06-05,2026-06-06,Technical Support,Tier2,True,17,False
+TKT00703,Hosting,Medium,AG018,42.61,4,Resolved,2026-06-08,2026-06-09,Customer Support,Tier3,True,14,False
+TKT00704,Login Issue,High,AG064,23.99,24,Resolved,2026-04-30,2026-04-30,Customer Support,Tier2,True,53,True
+TKT00705,Email Support,Low,AG052,16.87,4,Resolved,2026-02-19,2026-02-19,Hosting Support,Tier2,True,123,False
+TKT00706,Billing,Low,AG005,35.83,8,Resolved,2026-06-19,2026-06-20,Customer Support,Tier2,True,3,False
+TKT00707,Email Support,Medium,AG002,12.41,8,Resolved,2026-01-20,2026-01-20,Technical Support,Tier1,False,153,False
+TKT00708,Website Builder,Low,AG014,29.73,4,Resolved,2026-06-18,2026-06-19,Hosting Support,Tier3,True,4,False
+TKT00709,Billing,Critical,AG044,3.97,24,Resolved,2026-03-10,2026-03-10,Customer Support,Tier3,True,104,True
+TKT00710,Billing,Low,AG076,16.11,8,Resolved,2026-02-04,2026-02-04,Customer Support,Tier1,False,138,False
+TKT00711,Hosting,Medium,AG090,7.64,12,Open,2026-05-06,2026-05-06,Billing Support,Tier2,True,47,True
+TKT00712,Login Issue,Medium,AG013,44.51,24,Resolved,2026-05-03,2026-05-04,Customer Support,Tier2,True,50,False
+TKT00713,Billing,Low,AG091,1.3,12,Resolved,2026-05-04,2026-05-04,Domain Support,Tier3,True,49,True
+TKT00714,Email Support,High,AG067,10.69,24,Resolved,2026-01-11,2026-01-11,Billing Support,Tier1,True,162,True
+TKT00715,Email Support,Critical,AG079,29.02,4,Resolved,2026-02-04,2026-02-05,Technical Support,Tier2,True,138,False
+TKT00716,Billing,Low,AG068,27.21,4,Open,2026-05-16,2026-05-17,Technical Support,Tier3,True,37,False
+TKT00717,Email Support,Medium,AG036,22.82,4,Resolved,2026-02-24,2026-02-24,Customer Support,Tier1,False,118,False
+TKT00718,Billing,Low,AG007,24.38,12,Resolved,2026-02-19,2026-02-20,Billing Support,Tier2,False,123,False
+TKT00719,Hosting,Low,AG014,16.71,4,Open,2026-05-25,2026-05-25,Billing Support,Tier1,True,28,False
+TKT00720,Login Issue,Low,AG031,23.8,24,Open,2025-12-30,2025-12-30,Hosting Support,Tier2,False,174,True
+TKT00721,Email Support,High,AG030,10.34,4,Resolved,2026-02-14,2026-02-14,Billing Support,Tier1,True,128,False
+TKT00722,Billing,Critical,AG029,35.67,4,Resolved,2026-05-01,2026-05-02,Hosting Support,Tier2,True,52,False
+TKT00723,Billing,Medium,AG079,42.85,24,Resolved,2026-02-03,2026-02-04,Domain Support,Tier2,True,139,False
+TKT00724,Billing,High,AG035,22.51,8,Resolved,2026-05-18,2026-05-18,Billing Support,Tier1,True,35,False
+TKT00725,Login Issue,Critical,AG059,14.19,24,Resolved,2026-04-27,2026-04-27,Technical Support,Tier1,False,56,True
+TKT00726,Email Support,Medium,AG074,29.37,8,Resolved,2026-06-06,2026-06-07,Domain Support,Tier3,False,16,False
+TKT00727,Billing,Critical,AG060,41.52,12,Resolved,2026-05-01,2026-05-02,Domain Support,Tier3,True,52,False
+TKT00728,Hosting,Medium,AG076,12.65,8,Open,2026-02-27,2026-02-27,Customer Support,Tier2,True,115,False
+TKT00729,Hosting,Low,AG055,2.88,24,Resolved,2026-03-04,2026-03-04,Customer Support,Tier2,False,110,True
+TKT00730,Website Builder,Low,AG089,12.3,24,Resolved,2026-04-11,2026-04-11,Billing Support,Tier2,False,72,True
+TKT00731,Login Issue,Low,AG062,12.24,12,Resolved,2026-03-04,2026-03-04,Domain Support,Tier3,True,110,False
+TKT00732,Hosting,Medium,AG091,46.89,24,Resolved,2026-01-05,2026-01-06,Technical Support,Tier3,False,168,False
+TKT00733,Login Issue,Low,AG050,34.08,12,Open,2026-01-05,2026-01-06,Customer Support,Tier2,False,168,False
+TKT00734,Email Support,Medium,AG088,36.39,4,Open,2026-04-10,2026-04-11,Technical Support,Tier3,True,73,False
+TKT00735,Email Support,High,AG007,25.19,4,Resolved,2026-03-15,2026-03-16,Technical Support,Tier2,True,99,False
+TKT00736,Billing,Low,AG072,18.18,8,Resolved,2026-03-18,2026-03-18,Technical Support,Tier1,True,96,False
+TKT00737,Email Support,Medium,AG097,31.5,8,Resolved,2026-06-17,2026-06-18,Technical Support,Tier2,False,5,False
+TKT00738,Login Issue,High,AG045,14.03,24,Resolved,2026-01-28,2026-01-28,Hosting Support,Tier3,True,145,True
+TKT00739,Website Builder,High,AG058,23.1,12,Resolved,2026-02-01,2026-02-01,Billing Support,Tier2,True,141,False
+TKT00740,Billing,High,AG010,4.77,4,Resolved,2026-01-28,2026-01-28,Technical Support,Tier1,True,145,False
+TKT00741,Billing,Low,AG038,24.33,24,Open,2026-05-07,2026-05-08,Billing Support,Tier2,False,46,False
+TKT00742,Email Support,Low,AG038,20.75,8,Resolved,2026-02-19,2026-02-19,Customer Support,Tier1,False,123,False
+TKT00743,Domain Management,High,AG063,20.35,24,Resolved,2026-03-07,2026-03-07,Technical Support,Tier3,True,107,True
+TKT00744,Domain Management,Medium,AG034,43.22,8,Resolved,2026-04-02,2026-04-03,Technical Support,Tier2,True,81,False
+TKT00745,Domain Management,Critical,AG022,7.97,8,Open,2026-03-15,2026-03-15,Technical Support,Tier1,True,99,True
+TKT00746,Email Support,Medium,AG021,40.45,8,Resolved,2025-12-31,2026-01-01,Customer Support,Tier2,True,173,False
+TKT00747,Domain Management,Medium,AG027,21.72,4,Resolved,2026-02-12,2026-02-12,Technical Support,Tier1,False,130,False
+TKT00748,Billing,High,AG016,22.08,4,Resolved,2026-01-06,2026-01-06,Domain Support,Tier1,False,167,False
+TKT00749,Billing,Low,AG095,44.61,12,Resolved,2026-03-01,2026-03-02,Domain Support,Tier2,True,113,False
+TKT00750,Email Support,Critical,AG044,38.58,4,Resolved,2026-01-11,2026-01-12,Customer Support,Tier1,True,162,False
+TKT00751,Hosting,Medium,AG058,15.48,12,Resolved,2026-03-14,2026-03-14,Technical Support,Tier1,True,100,False
+TKT00752,Billing,High,AG026,28.42,4,Resolved,2026-05-27,2026-05-28,Hosting Support,Tier2,True,26,False
+TKT00753,Hosting,Medium,AG063,46.86,12,Open,2026-03-12,2026-03-13,Hosting Support,Tier3,True,102,False
+TKT00754,Domain Management,Critical,AG019,43.7,24,Resolved,2026-05-16,2026-05-17,Domain Support,Tier2,True,37,False
+TKT00755,Domain Management,High,AG058,14.38,4,Resolved,2026-01-08,2026-01-08,Domain Support,Tier3,False,165,False
+TKT00756,Domain Management,Medium,AG094,38.77,24,Resolved,2026-06-04,2026-06-05,Billing Support,Tier3,True,18,False
+TKT00757,Domain Management,Critical,AG068,7.75,12,Resolved,2025-12-30,2025-12-30,Hosting Support,Tier2,True,174,True
+TKT00758,Email Support,High,AG054,1.31,8,Open,2025-12-25,2025-12-25,Domain Support,Tier3,True,179,True
+TKT00759,Hosting,High,AG071,10.37,24,Resolved,2026-06-15,2026-06-15,Technical Support,Tier3,False,7,True
+TKT00760,Email Support,Critical,AG029,24.22,4,Resolved,2026-03-11,2026-03-12,Billing Support,Tier2,False,103,False
+TKT00761,Email Support,Critical,AG016,45.93,12,Resolved,2025-12-31,2026-01-01,Billing Support,Tier2,True,173,False
+TKT00762,Domain Management,Critical,AG009,2.34,12,Open,2026-03-18,2026-03-18,Domain Support,Tier3,False,96,True
+TKT00763,Email Support,Critical,AG089,41.81,4,Resolved,2026-02-12,2026-02-13,Hosting Support,Tier3,True,130,False
+TKT00764,Billing,Low,AG019,40.73,12,Resolved,2026-05-17,2026-05-18,Billing Support,Tier2,True,36,False
+TKT00765,Domain Management,Critical,AG082,3.49,12,Resolved,2026-05-29,2026-05-29,Technical Support,Tier2,True,24,True
+TKT00766,Email Support,Medium,AG098,25.15,4,Open,2026-05-22,2026-05-23,Billing Support,Tier3,False,31,False
+TKT00767,Email Support,High,AG035,42.0,12,Resolved,2026-03-25,2026-03-26,Hosting Support,Tier3,False,89,False
+TKT00768,Login Issue,Medium,AG067,39.7,12,Resolved,2026-02-28,2026-03-01,Domain Support,Tier2,False,114,False
+TKT00769,Billing,Low,AG028,44.28,8,Open,2026-05-11,2026-05-12,Billing Support,Tier1,True,42,False
+TKT00770,Login Issue,Low,AG017,20.62,4,Resolved,2026-04-13,2026-04-13,Technical Support,Tier2,False,70,False
+TKT00771,Hosting,High,AG023,7.53,12,Resolved,2026-04-02,2026-04-02,Customer Support,Tier1,True,81,True
+TKT00772,Billing,Medium,AG040,41.27,8,Resolved,2025-12-24,2025-12-25,Billing Support,Tier1,False,180,False
+TKT00773,Login Issue,Low,AG003,33.47,24,Resolved,2026-01-10,2026-01-11,Customer Support,Tier1,True,163,False
+TKT00774,Email Support,Low,AG061,2.54,4,Resolved,2026-05-26,2026-05-26,Customer Support,Tier1,False,27,True
+TKT00775,Login Issue,Low,AG078,32.38,8,Open,2026-06-17,2026-06-18,Billing Support,Tier1,False,5,False
+TKT00776,Billing,High,AG075,2.38,12,Resolved,2026-04-15,2026-04-15,Billing Support,Tier3,True,68,True
+TKT00777,Login Issue,Low,AG075,24.73,4,Open,2026-05-18,2026-05-19,Billing Support,Tier3,True,35,False
+TKT00778,Billing,Low,AG093,46.32,4,Resolved,2026-02-15,2026-02-16,Hosting Support,Tier3,False,127,False
+TKT00779,Website Builder,Medium,AG057,18.22,4,Resolved,2026-05-30,2026-05-30,Technical Support,Tier2,False,23,False
+TKT00780,Billing,Critical,AG015,11.07,12,Resolved,2026-02-02,2026-02-02,Domain Support,Tier1,True,140,True
+TKT00781,Domain Management,High,AG072,24.3,4,Resolved,2026-05-23,2026-05-24,Technical Support,Tier2,True,30,False
+TKT00782,Hosting,High,AG088,19.08,24,Resolved,2026-05-17,2026-05-17,Hosting Support,Tier2,False,36,True
+TKT00783,Hosting,Medium,AG009,47.29,24,Resolved,2026-02-11,2026-02-12,Billing Support,Tier1,False,131,False
+TKT00784,Hosting,Critical,AG067,32.59,4,Resolved,2026-03-30,2026-03-31,Billing Support,Tier2,False,84,False
+TKT00785,Login Issue,Medium,AG009,33.67,12,Resolved,2026-04-01,2026-04-02,Technical Support,Tier1,False,82,False
+TKT00786,Hosting,Critical,AG036,6.77,12,Resolved,2026-03-22,2026-03-22,Technical Support,Tier2,False,92,True
+TKT00787,Website Builder,High,AG019,47.41,24,Resolved,2026-06-18,2026-06-19,Customer Support,Tier2,False,4,False
+TKT00788,Email Support,Medium,AG004,24.37,4,Resolved,2026-01-28,2026-01-29,Customer Support,Tier2,True,145,False
+TKT00789,Hosting,High,AG020,46.69,12,Open,2026-02-11,2026-02-12,Hosting Support,Tier1,True,131,False
+TKT00790,Website Builder,Critical,AG060,32.07,8,Resolved,2026-01-06,2026-01-07,Domain Support,Tier2,False,167,False
+TKT00791,Website Builder,Low,AG098,26.49,4,Resolved,2026-01-16,2026-01-17,Customer Support,Tier2,False,157,False
+TKT00792,Hosting,Critical,AG059,15.78,4,Resolved,2026-03-27,2026-03-27,Billing Support,Tier3,False,87,False
+TKT00793,Billing,Critical,AG056,42.58,8,Resolved,2026-01-15,2026-01-16,Domain Support,Tier2,True,158,False
+TKT00794,Hosting,Critical,AG061,27.74,8,Open,2026-04-01,2026-04-02,Customer Support,Tier2,False,82,False
+TKT00795,Hosting,High,AG099,24.25,12,Resolved,2026-03-22,2026-03-23,Customer Support,Tier1,True,92,False
+TKT00796,Domain Management,High,AG095,7.03,4,Resolved,2026-01-14,2026-01-14,Domain Support,Tier1,False,159,False
+TKT00797,Domain Management,Critical,AG045,17.22,4,Resolved,2026-01-05,2026-01-05,Billing Support,Tier1,False,168,False
+TKT00798,Email Support,Low,AG040,28.85,4,Resolved,2026-05-13,2026-05-14,Billing Support,Tier1,False,40,False
+TKT00799,Email Support,Critical,AG073,2.76,24,Resolved,2026-04-15,2026-04-15,Customer Support,Tier3,False,68,True
+TKT00800,Domain Management,Critical,AG074,28.64,24,Resolved,2026-05-16,2026-05-17,Hosting Support,Tier1,False,37,False
+TKT00801,Email Support,Medium,AG044,5.7,24,Open,2026-02-19,2026-02-19,Technical Support,Tier1,False,123,True
+TKT00802,Hosting,Medium,AG064,18.08,4,Open,2026-02-28,2026-02-28,Billing Support,Tier2,False,114,False
+TKT00803,Website Builder,Critical,AG029,3.23,4,Open,2026-02-11,2026-02-11,Customer Support,Tier3,False,131,True
+TKT00804,Website Builder,Critical,AG055,13.85,8,Resolved,2026-01-02,2026-01-02,Customer Support,Tier3,False,171,False
+TKT00805,Domain Management,Critical,AG085,24.72,12,Resolved,2026-04-22,2026-04-23,Domain Support,Tier2,False,61,False
+TKT00806,Hosting,Medium,AG003,30.37,8,Open,2026-05-26,2026-05-27,Domain Support,Tier1,False,27,False
+TKT00807,Email Support,Critical,AG073,13.59,4,Open,2026-01-15,2026-01-15,Billing Support,Tier2,False,158,False
+TKT00808,Billing,High,AG056,7.94,24,Resolved,2026-05-31,2026-05-31,Customer Support,Tier3,True,22,True
+TKT00809,Domain Management,High,AG083,40.76,8,Resolved,2026-04-03,2026-04-04,Hosting Support,Tier1,False,80,False
+TKT00810,Billing,Medium,AG004,12.21,8,Resolved,2026-02-09,2026-02-09,Domain Support,Tier2,False,133,False
+TKT00811,Login Issue,Medium,AG021,20.83,12,Resolved,2026-06-05,2026-06-05,Customer Support,Tier2,False,17,False
+TKT00812,Billing,Low,AG093,31.96,24,Resolved,2026-03-30,2026-03-31,Customer Support,Tier1,False,84,False
+TKT00813,Login Issue,Critical,AG047,29.28,4,Resolved,2026-02-11,2026-02-12,Billing Support,Tier1,True,131,False
+TKT00814,Website Builder,Low,AG067,27.84,12,Resolved,2026-04-11,2026-04-12,Customer Support,Tier1,True,72,False
+TKT00815,Domain Management,High,AG075,37.34,24,Resolved,2026-04-20,2026-04-21,Domain Support,Tier1,True,63,False
+TKT00816,Billing,High,AG057,6.02,24,Resolved,2026-03-02,2026-03-02,Hosting Support,Tier1,False,112,True
+TKT00817,Email Support,Low,AG041,26.07,24,Resolved,2026-02-09,2026-02-10,Billing Support,Tier2,True,133,False
+TKT00818,Email Support,High,AG040,18.06,4,Open,2026-06-06,2026-06-06,Customer Support,Tier3,True,16,False
+TKT00819,Email Support,Medium,AG033,33.46,24,Resolved,2025-12-24,2025-12-25,Technical Support,Tier3,True,180,False
+TKT00820,Billing,Critical,AG050,26.14,4,Resolved,2026-05-10,2026-05-11,Technical Support,Tier2,True,43,False
+TKT00821,Billing,High,AG027,45.01,8,Resolved,2026-03-07,2026-03-08,Technical Support,Tier3,False,107,False
+TKT00822,Domain Management,Low,AG100,38.1,24,Resolved,2026-02-18,2026-02-19,Domain Support,Tier2,False,124,False
+TKT00823,Login Issue,Medium,AG090,42.21,12,Open,2026-04-15,2026-04-16,Customer Support,Tier2,False,68,False
+TKT00824,Website Builder,High,AG059,29.3,4,Resolved,2026-05-18,2026-05-19,Billing Support,Tier3,False,35,False
+TKT00825,Billing,Low,AG052,38.18,8,Resolved,2026-03-30,2026-03-31,Technical Support,Tier3,True,84,False
+TKT00826,Billing,Medium,AG077,6.21,24,Resolved,2026-02-05,2026-02-05,Domain Support,Tier2,True,137,True
+TKT00827,Email Support,High,AG037,13.25,8,Resolved,2026-06-12,2026-06-12,Domain Support,Tier2,True,10,False
+TKT00828,Hosting,Medium,AG003,19.49,4,Open,2026-02-08,2026-02-08,Hosting Support,Tier3,True,134,False
+TKT00829,Hosting,Medium,AG034,43.62,8,Resolved,2026-01-15,2026-01-16,Domain Support,Tier3,False,158,False
+TKT00830,Billing,Low,AG048,29.22,8,Open,2026-05-30,2026-05-31,Customer Support,Tier1,False,23,False
+TKT00831,Hosting,Critical,AG016,37.35,8,Resolved,2026-06-11,2026-06-12,Billing Support,Tier2,False,11,False
+TKT00832,Hosting,Medium,AG056,36.08,8,Open,2026-03-17,2026-03-18,Billing Support,Tier2,True,97,False
+TKT00833,Hosting,Medium,AG004,20.66,12,Resolved,2026-06-15,2026-06-15,Billing Support,Tier3,False,7,False
+TKT00834,Domain Management,Critical,AG011,43.64,4,Resolved,2026-06-05,2026-06-06,Billing Support,Tier2,False,17,False
+TKT00835,Email Support,Critical,AG091,33.28,24,Open,2026-06-16,2026-06-17,Technical Support,Tier1,True,6,False
+TKT00836,Login Issue,High,AG031,27.18,24,Resolved,2026-04-02,2026-04-03,Hosting Support,Tier3,True,81,False
+TKT00837,Website Builder,Critical,AG039,1.25,24,Resolved,2026-03-28,2026-03-28,Billing Support,Tier3,True,86,True
+TKT00838,Domain Management,Medium,AG065,28.28,24,Resolved,2026-05-29,2026-05-30,Domain Support,Tier1,True,24,False
+TKT00839,Website Builder,Critical,AG019,15.91,12,Resolved,2026-05-12,2026-05-12,Technical Support,Tier1,True,41,False
+TKT00840,Domain Management,High,AG056,24.46,12,Resolved,2026-04-27,2026-04-28,Hosting Support,Tier2,False,56,False
+TKT00841,Billing,High,AG095,21.48,24,Resolved,2026-01-14,2026-01-14,Hosting Support,Tier3,False,159,True
+TKT00842,Billing,Low,AG030,3.5,8,Resolved,2026-03-07,2026-03-07,Domain Support,Tier2,True,107,True
+TKT00843,Hosting,Low,AG064,34.18,4,Resolved,2026-04-27,2026-04-28,Technical Support,Tier3,False,56,False
+TKT00844,Login Issue,Medium,AG016,22.51,12,Resolved,2026-03-03,2026-03-03,Billing Support,Tier2,True,111,False
+TKT00845,Email Support,High,AG073,40.24,8,Open,2026-04-08,2026-04-09,Customer Support,Tier3,True,75,False
+TKT00846,Login Issue,Medium,AG099,20.57,24,Resolved,2026-02-16,2026-02-16,Technical Support,Tier1,False,126,True
+TKT00847,Email Support,Low,AG051,33.02,12,Open,2026-05-08,2026-05-09,Customer Support,Tier2,True,45,False
+TKT00848,Hosting,Critical,AG059,2.36,12,Open,2026-06-05,2026-06-05,Customer Support,Tier2,True,17,True
+TKT00849,Hosting,High,AG094,31.84,8,Resolved,2026-06-04,2026-06-05,Customer Support,Tier3,False,18,False
+TKT00850,Login Issue,Low,AG071,16.19,24,Resolved,2026-02-24,2026-02-24,Domain Support,Tier2,True,118,True
+TKT00851,Hosting,Low,AG003,12.28,8,Resolved,2026-05-01,2026-05-01,Domain Support,Tier2,False,52,False
+TKT00852,Email Support,Medium,AG016,31.42,12,Resolved,2026-02-18,2026-02-19,Domain Support,Tier3,False,124,False
+TKT00853,Website Builder,Medium,AG046,43.48,4,Resolved,2026-04-19,2026-04-20,Hosting Support,Tier1,False,64,False
+TKT00854,Hosting,Critical,AG035,21.94,24,Resolved,2026-05-07,2026-05-07,Domain Support,Tier2,True,46,True
+TKT00855,Hosting,Low,AG006,21.4,12,Resolved,2026-02-08,2026-02-08,Billing Support,Tier3,True,134,False
+TKT00856,Website Builder,Low,AG038,44.74,24,Resolved,2025-12-27,2025-12-28,Customer Support,Tier2,False,177,False
+TKT00857,Billing,High,AG032,7.98,24,Resolved,2026-04-03,2026-04-03,Hosting Support,Tier1,True,80,True
+TKT00858,Website Builder,Low,AG066,44.11,24,Resolved,2026-03-09,2026-03-10,Customer Support,Tier2,False,105,False
+TKT00859,Website Builder,Low,AG099,17.71,4,Resolved,2026-04-09,2026-04-09,Domain Support,Tier1,True,74,False
+TKT00860,Login Issue,Low,AG054,40.62,12,Resolved,2026-04-30,2026-05-01,Hosting Support,Tier3,False,53,False
+TKT00861,Hosting,High,AG044,36.6,8,Resolved,2026-05-02,2026-05-03,Billing Support,Tier1,False,51,False
+TKT00862,Login Issue,Critical,AG069,41.97,4,Resolved,2026-03-10,2026-03-11,Domain Support,Tier1,True,104,False
+TKT00863,Hosting,Critical,AG089,9.07,24,Open,2026-05-10,2026-05-10,Domain Support,Tier2,False,43,True
+TKT00864,Email Support,Critical,AG039,33.46,4,Resolved,2026-06-04,2026-06-05,Billing Support,Tier1,True,18,False
+TKT00865,Login Issue,Medium,AG004,6.26,8,Resolved,2026-05-12,2026-05-12,Billing Support,Tier3,True,41,True
+TKT00866,Email Support,Medium,AG012,21.48,12,Resolved,2026-02-24,2026-02-24,Billing Support,Tier2,False,118,False
+TKT00867,Billing,Medium,AG095,2.03,24,Resolved,2026-02-18,2026-02-18,Domain Support,Tier1,False,124,True
+TKT00868,Billing,High,AG073,28.51,24,Resolved,2026-03-31,2026-04-01,Technical Support,Tier1,True,83,False
+TKT00869,Email Support,Critical,AG054,30.63,24,Open,2026-04-18,2026-04-19,Hosting Support,Tier3,False,65,False
+TKT00870,Hosting,Critical,AG066,2.74,24,Resolved,2026-01-12,2026-01-12,Customer Support,Tier3,True,161,True
+TKT00871,Domain Management,Low,AG035,20.83,24,Resolved,2026-06-21,2026-06-21,Customer Support,Tier2,False,1,True
+TKT00872,Hosting,Low,AG021,22.07,12,Resolved,2026-06-04,2026-06-04,Domain Support,Tier2,False,18,False
+TKT00873,Billing,High,AG078,11.91,24,Resolved,2026-06-05,2026-06-05,Technical Support,Tier3,False,17,True
+TKT00874,Email Support,High,AG061,46.11,8,Open,2026-03-26,2026-03-27,Billing Support,Tier2,True,88,False
+TKT00875,Billing,Medium,AG026,32.35,8,Open,2026-06-04,2026-06-05,Domain Support,Tier1,False,18,False
+TKT00876,Hosting,High,AG031,45.32,8,Open,2026-01-24,2026-01-25,Customer Support,Tier1,False,149,False
+TKT00877,Domain Management,Medium,AG023,42.4,4,Resolved,2026-05-27,2026-05-28,Technical Support,Tier2,True,26,False
+TKT00878,Login Issue,Medium,AG063,30.03,12,Resolved,2026-02-21,2026-02-22,Technical Support,Tier1,False,121,False
+TKT00879,Email Support,Low,AG091,43.13,4,Resolved,2026-03-19,2026-03-20,Domain Support,Tier1,True,95,False
+TKT00880,Website Builder,Low,AG072,37.74,4,Open,2026-03-09,2026-03-10,Customer Support,Tier1,True,105,False
+TKT00881,Domain Management,Medium,AG094,41.93,12,Resolved,2026-03-18,2026-03-19,Hosting Support,Tier2,True,96,False
+TKT00882,Domain Management,High,AG018,8.25,4,Resolved,2026-01-02,2026-01-02,Domain Support,Tier2,True,171,False
+TKT00883,Hosting,High,AG037,12.53,8,Resolved,2026-02-17,2026-02-17,Technical Support,Tier2,False,125,False
+TKT00884,Email Support,Medium,AG020,17.95,24,Resolved,2026-05-20,2026-05-20,Billing Support,Tier2,False,33,True
+TKT00885,Hosting,High,AG004,44.15,24,Resolved,2026-05-14,2026-05-15,Customer Support,Tier3,True,39,False
+TKT00886,Domain Management,Critical,AG099,4.98,8,Resolved,2026-01-14,2026-01-14,Customer Support,Tier2,True,159,True
+TKT00887,Email Support,Medium,AG074,32.03,4,Open,2026-02-17,2026-02-18,Technical Support,Tier2,False,125,False
+TKT00888,Email Support,High,AG093,42.63,12,Resolved,2026-06-06,2026-06-07,Customer Support,Tier2,True,16,False
+TKT00889,Hosting,Medium,AG070,33.91,24,Resolved,2026-02-11,2026-02-12,Domain Support,Tier1,False,131,False
+TKT00890,Website Builder,High,AG050,4.96,8,Open,2026-02-18,2026-02-18,Hosting Support,Tier2,True,124,True
+TKT00891,Website Builder,High,AG067,5.36,12,Resolved,2026-02-11,2026-02-11,Customer Support,Tier1,False,131,True
+TKT00892,Domain Management,Critical,AG065,12.34,4,Resolved,2026-01-14,2026-01-14,Technical Support,Tier2,False,159,False
+TKT00893,Email Support,Low,AG058,6.82,12,Open,2026-05-16,2026-05-16,Customer Support,Tier2,False,37,True
+TKT00894,Email Support,Medium,AG045,47.2,12,Resolved,2026-03-17,2026-03-18,Hosting Support,Tier3,True,97,False
+TKT00895,Website Builder,Medium,AG014,34.57,12,Open,2026-04-25,2026-04-26,Hosting Support,Tier1,False,58,False
+TKT00896,Billing,Critical,AG053,22.35,4,Resolved,2026-05-20,2026-05-20,Customer Support,Tier2,True,33,False
+TKT00897,Hosting,Low,AG048,23.38,24,Open,2026-02-24,2026-02-24,Hosting Support,Tier3,False,118,True
+TKT00898,Website Builder,Critical,AG082,41.98,24,Resolved,2026-03-03,2026-03-04,Domain Support,Tier3,False,111,False
+TKT00899,Billing,Medium,AG063,39.72,24,Resolved,2026-04-23,2026-04-24,Hosting Support,Tier3,True,60,False
+TKT00900,Hosting,Critical,AG005,33.64,8,Open,2026-05-26,2026-05-27,Technical Support,Tier1,False,27,False
+TKT00901,Domain Management,High,AG006,6.19,8,Resolved,2026-01-16,2026-01-16,Technical Support,Tier2,False,157,True
+TKT00902,Hosting,Low,AG019,15.25,8,Open,2026-01-31,2026-01-31,Domain Support,Tier1,False,142,False
+TKT00903,Billing,Medium,AG095,42.79,24,Resolved,2026-01-08,2026-01-09,Customer Support,Tier3,False,165,False
+TKT00904,Login Issue,Critical,AG062,4.18,12,Open,2026-03-05,2026-03-05,Domain Support,Tier2,False,109,True
+TKT00905,Email Support,Medium,AG098,23.34,8,Open,2026-05-23,2026-05-23,Domain Support,Tier2,False,30,False
+TKT00906,Email Support,High,AG012,8.0,24,Resolved,2026-01-19,2026-01-19,Billing Support,Tier2,False,154,True
+TKT00907,Email Support,Critical,AG095,26.43,12,Resolved,2026-02-05,2026-02-06,Billing Support,Tier3,True,137,False
+TKT00908,Email Support,High,AG072,27.88,4,Open,2026-05-10,2026-05-11,Customer Support,Tier1,True,43,False
+TKT00909,Website Builder,Medium,AG097,45.99,24,Open,2026-02-10,2026-02-11,Customer Support,Tier1,True,132,False
+TKT00910,Domain Management,Medium,AG032,46.23,24,Resolved,2026-04-26,2026-04-27,Hosting Support,Tier3,False,57,False
+TKT00911,Login Issue,Critical,AG003,19.88,12,Resolved,2026-02-04,2026-02-04,Billing Support,Tier2,True,138,False
+TKT00912,Domain Management,Critical,AG033,41.4,4,Resolved,2026-03-15,2026-03-16,Customer Support,Tier3,True,99,False
+TKT00913,Billing,High,AG099,14.41,4,Resolved,2026-03-12,2026-03-12,Technical Support,Tier2,True,102,False
+TKT00914,Domain Management,Medium,AG004,3.77,4,Resolved,2026-04-27,2026-04-27,Domain Support,Tier1,False,56,True
+TKT00915,Domain Management,High,AG049,7.7,4,Resolved,2026-05-28,2026-05-28,Billing Support,Tier1,True,25,False
+TKT00916,Website Builder,Critical,AG015,24.17,12,Resolved,2026-03-16,2026-03-17,Technical Support,Tier2,False,98,False
+TKT00917,Login Issue,Critical,AG082,4.08,8,Resolved,2026-03-24,2026-03-24,Technical Support,Tier3,True,90,True
+TKT00918,Website Builder,Medium,AG039,12.58,24,Resolved,2026-05-27,2026-05-27,Customer Support,Tier3,True,26,True
+TKT00919,Billing,High,AG070,37.8,8,Resolved,2026-01-05,2026-01-06,Hosting Support,Tier2,False,168,False
+TKT00920,Hosting,High,AG084,2.96,8,Resolved,2026-01-05,2026-01-05,Customer Support,Tier2,False,168,True
+TKT00921,Email Support,Critical,AG045,29.1,8,Open,2026-01-04,2026-01-05,Hosting Support,Tier2,True,169,False
+TKT00922,Website Builder,Low,AG039,8.59,4,Resolved,2026-03-09,2026-03-09,Customer Support,Tier1,False,105,False
+TKT00923,Billing,High,AG088,42.28,12,Resolved,2026-02-06,2026-02-07,Domain Support,Tier2,True,136,False
+TKT00924,Domain Management,High,AG027,32.13,24,Open,2026-01-10,2026-01-11,Technical Support,Tier1,True,163,False
+TKT00925,Login Issue,Critical,AG001,31.38,4,Resolved,2026-06-11,2026-06-12,Domain Support,Tier3,False,11,False
+TKT00926,Website Builder,Low,AG084,36.84,4,Open,2026-02-21,2026-02-22,Customer Support,Tier3,False,121,False
+TKT00927,Domain Management,Critical,AG077,32.6,12,Resolved,2026-03-16,2026-03-17,Billing Support,Tier3,True,98,False
+TKT00928,Domain Management,Medium,AG057,6.86,4,Resolved,2026-04-09,2026-04-09,Customer Support,Tier2,False,74,False
+TKT00929,Website Builder,High,AG092,10.0,8,Resolved,2026-06-14,2026-06-14,Domain Support,Tier2,True,8,False
+TKT00930,Email Support,Medium,AG001,14.2,8,Resolved,2026-02-06,2026-02-06,Customer Support,Tier2,False,136,False
+TKT00931,Billing,Medium,AG009,9.01,8,Resolved,2026-02-09,2026-02-09,Billing Support,Tier2,True,133,False
+TKT00932,Email Support,High,AG025,42.41,4,Open,2026-05-28,2026-05-29,Hosting Support,Tier2,False,25,False
+TKT00933,Hosting,Low,AG042,1.09,24,Resolved,2026-01-03,2026-01-03,Technical Support,Tier1,False,170,True
+TKT00934,Website Builder,Low,AG093,24.29,8,Resolved,2026-02-07,2026-02-08,Technical Support,Tier2,False,135,False
+TKT00935,Hosting,Medium,AG043,15.86,4,Open,2026-02-04,2026-02-04,Customer Support,Tier3,True,138,False
+TKT00936,Hosting,Low,AG032,46.97,8,Resolved,2026-04-03,2026-04-04,Technical Support,Tier2,True,80,False
+TKT00937,Login Issue,Low,AG062,30.42,24,Resolved,2026-03-16,2026-03-17,Hosting Support,Tier3,False,98,False
+TKT00938,Billing,Low,AG061,40.5,8,Resolved,2026-05-24,2026-05-25,Customer Support,Tier2,True,29,False
+TKT00939,Website Builder,Critical,AG098,45.35,4,Resolved,2026-04-23,2026-04-24,Hosting Support,Tier1,True,60,False
+TKT00940,Login Issue,Critical,AG041,46.8,4,Resolved,2026-03-13,2026-03-14,Customer Support,Tier2,True,101,False
+TKT00941,Email Support,Critical,AG009,15.17,4,Resolved,2026-03-14,2026-03-14,Hosting Support,Tier1,False,100,False
+TKT00942,Hosting,Low,AG080,40.95,24,Resolved,2026-03-06,2026-03-07,Hosting Support,Tier3,True,108,False
+TKT00943,Hosting,Critical,AG080,22.31,4,Resolved,2026-02-19,2026-02-19,Customer Support,Tier2,False,123,False
+TKT00944,Login Issue,Low,AG002,28.63,4,Open,2026-02-06,2026-02-07,Billing Support,Tier3,True,136,False
+TKT00945,Domain Management,High,AG054,30.96,24,Open,2026-06-13,2026-06-14,Domain Support,Tier1,True,9,False
+TKT00946,Login Issue,Low,AG017,7.47,12,Open,2026-01-11,2026-01-11,Domain Support,Tier3,False,162,True
+TKT00947,Website Builder,Medium,AG019,15.63,24,Resolved,2026-02-05,2026-02-05,Hosting Support,Tier2,False,137,True
+TKT00948,Login Issue,Medium,AG008,18.34,8,Open,2026-05-02,2026-05-02,Hosting Support,Tier1,False,51,False
+TKT00949,Billing,Medium,AG009,17.16,12,Resolved,2026-01-15,2026-01-15,Domain Support,Tier3,False,158,False
+TKT00950,Domain Management,High,AG079,29.19,12,Resolved,2026-06-09,2026-06-10,Technical Support,Tier1,True,13,False
+TKT00951,Login Issue,Critical,AG029,22.35,4,Resolved,2026-06-07,2026-06-07,Billing Support,Tier2,True,15,False
+TKT00952,Email Support,High,AG095,12.23,24,Resolved,2026-04-19,2026-04-19,Domain Support,Tier1,True,64,True
+TKT00953,Login Issue,High,AG004,18.05,4,Resolved,2026-05-03,2026-05-03,Technical Support,Tier2,True,50,False
+TKT00954,Domain Management,Low,AG004,30.67,8,Resolved,2025-12-27,2025-12-28,Technical Support,Tier1,True,177,False
+TKT00955,Email Support,Medium,AG044,42.61,8,Resolved,2026-03-09,2026-03-10,Billing Support,Tier1,True,105,False
+TKT00956,Login Issue,Low,AG087,40.62,8,Resolved,2026-04-24,2026-04-25,Customer Support,Tier2,True,59,False
+TKT00957,Billing,High,AG048,15.34,8,Open,2026-04-15,2026-04-15,Hosting Support,Tier2,True,68,False
+TKT00958,Billing,Medium,AG025,6.57,24,Resolved,2026-04-04,2026-04-04,Technical Support,Tier3,False,79,True
+TKT00959,Billing,Low,AG098,46.92,8,Open,2026-06-01,2026-06-02,Technical Support,Tier1,False,21,False
+TKT00960,Email Support,High,AG017,12.62,24,Resolved,2026-01-29,2026-01-29,Customer Support,Tier2,True,144,True
+TKT00961,Hosting,High,AG064,8.87,24,Resolved,2026-05-05,2026-05-05,Technical Support,Tier3,False,48,True
+TKT00962,Hosting,Critical,AG061,25.7,12,Open,2026-04-16,2026-04-17,Domain Support,Tier3,True,67,False
+TKT00963,Billing,Critical,AG031,10.74,24,Resolved,2026-05-30,2026-05-30,Technical Support,Tier2,False,23,True
+TKT00964,Domain Management,High,AG071,27.85,4,Resolved,2026-04-25,2026-04-26,Customer Support,Tier2,False,58,False
+TKT00965,Billing,Low,AG060,25.38,12,Resolved,2025-12-28,2025-12-29,Domain Support,Tier2,False,176,False
+TKT00966,Hosting,High,AG035,20.22,24,Resolved,2026-01-30,2026-01-30,Billing Support,Tier2,True,143,True
+TKT00967,Login Issue,High,AG011,13.48,12,Open,2026-01-02,2026-01-02,Hosting Support,Tier3,True,171,False
+TKT00968,Billing,Low,AG016,37.94,4,Resolved,2026-01-07,2026-01-08,Customer Support,Tier3,True,166,False
+TKT00969,Email Support,High,AG033,16.69,12,Resolved,2026-06-17,2026-06-17,Billing Support,Tier3,True,5,False
+TKT00970,Email Support,High,AG002,47.93,12,Resolved,2026-05-05,2026-05-06,Technical Support,Tier2,False,48,False
+TKT00971,Email Support,Low,AG061,39.63,8,Resolved,2026-04-12,2026-04-13,Billing Support,Tier1,True,71,False
+TKT00972,Website Builder,Critical,AG093,23.3,24,Resolved,2026-02-02,2026-02-02,Customer Support,Tier2,True,140,True
+TKT00973,Email Support,Critical,AG027,21.15,24,Resolved,2026-01-10,2026-01-10,Hosting Support,Tier1,False,163,True
+TKT00974,Billing,High,AG095,7.53,4,Resolved,2025-12-31,2025-12-31,Technical Support,Tier2,True,173,False
+TKT00975,Email Support,Critical,AG098,20.7,12,Resolved,2026-01-09,2026-01-09,Hosting Support,Tier1,True,164,False
+TKT00976,Billing,High,AG073,44.34,24,Resolved,2025-12-26,2025-12-27,Billing Support,Tier2,True,178,False
+TKT00977,Billing,Critical,AG014,26.12,12,Open,2026-04-09,2026-04-10,Domain Support,Tier3,False,74,False
+TKT00978,Login Issue,Medium,AG005,5.38,24,Resolved,2026-03-06,2026-03-06,Billing Support,Tier1,True,108,True
+TKT00979,Hosting,High,AG027,43.83,8,Resolved,2026-04-01,2026-04-02,Hosting Support,Tier1,False,82,False
+TKT00980,Website Builder,Low,AG022,3.7,12,Resolved,2026-06-09,2026-06-09,Domain Support,Tier1,True,13,True
+TKT00981,Hosting,Critical,AG096,7.07,4,Resolved,2026-03-07,2026-03-07,Billing Support,Tier1,True,107,False
+TKT00982,Email Support,Critical,AG021,15.56,12,Open,2026-03-01,2026-03-01,Billing Support,Tier3,False,113,False
+TKT00983,Login Issue,Medium,AG058,13.95,4,Resolved,2026-03-25,2026-03-25,Hosting Support,Tier1,False,89,False
+TKT00984,Hosting,Critical,AG060,43.78,4,Resolved,2026-04-15,2026-04-16,Technical Support,Tier3,False,68,False
+TKT00985,Email Support,High,AG051,17.3,8,Resolved,2026-02-17,2026-02-17,Billing Support,Tier1,False,125,False
+TKT00986,Email Support,Medium,AG090,22.52,4,Resolved,2026-05-10,2026-05-10,Customer Support,Tier1,True,43,False
+TKT00987,Email Support,High,AG086,13.87,4,Resolved,2026-04-29,2026-04-29,Domain Support,Tier2,True,54,False
+TKT00988,Login Issue,Low,AG065,47.78,12,Resolved,2026-04-26,2026-04-27,Domain Support,Tier1,False,57,False
+TKT00989,Login Issue,Critical,AG004,10.75,4,Resolved,2026-05-20,2026-05-20,Domain Support,Tier2,False,33,False
+TKT00990,Hosting,Low,AG002,41.22,12,Resolved,2026-06-14,2026-06-15,Billing Support,Tier2,False,8,False
+TKT00991,Login Issue,Low,AG071,23.78,8,Resolved,2026-05-28,2026-05-28,Billing Support,Tier2,False,25,False
+TKT00992,Billing,Low,AG078,40.55,4,Resolved,2026-06-17,2026-06-18,Technical Support,Tier1,False,5,False
+TKT00993,Email Support,Low,AG087,8.92,12,Resolved,2026-01-30,2026-01-30,Domain Support,Tier2,True,143,True
+TKT00994,Login Issue,Medium,AG057,11.18,4,Open,2026-01-25,2026-01-25,Customer Support,Tier2,False,148,False
+TKT00995,Website Builder,Low,AG007,21.87,24,Resolved,2026-01-08,2026-01-08,Billing Support,Tier2,True,165,True
+TKT00996,Login Issue,Critical,AG004,10.4,4,Resolved,2026-01-06,2026-01-06,Billing Support,Tier3,True,167,False
+TKT00997,Login Issue,Medium,AG093,11.37,8,Resolved,2026-04-24,2026-04-24,Domain Support,Tier3,True,59,False
+TKT00998,Domain Management,Medium,AG080,39.33,8,Open,2026-04-29,2026-04-30,Domain Support,Tier2,True,54,False
+TKT00999,Login Issue,High,AG042,11.92,8,Resolved,2026-04-03,2026-04-03,Domain Support,Tier3,False,80,False
+TKT01000,Billing,Critical,AG029,1.56,4,Resolved,2026-03-16,2026-03-16,Hosting Support,Tier2,True,98,True
