@@ -69,6 +69,27 @@ tiers = [
     "Tier2",
     "Tier3"
 ]
+customer_regions = [
+    "USA",
+    "Canada",
+    "UK",
+    "Germany",
+    "Australia",
+    "India"
+]
+
+complexities = [
+    "Low",
+    "Medium",
+    "High"
+]
+
+resolution_categories = [
+    "Self-Service",
+    "Agent Resolved",
+    "Escalated Resolution",
+    "Engineering Fix"
+]
 for i in range(100):
 
     agent = {
@@ -93,6 +114,9 @@ for i in range(1000):
      start_date="-180d",
      end_date="today"
 )
+    forecast_week = created_date.isocalendar()[1]
+
+    forecast_month = created_date.strftime("%Y-%m")
     resolution_hours = round(
       random.uniform(1,48),
       2
@@ -112,6 +136,21 @@ for i in range(1000):
         "Category": random.choice(categories),
 
         "Priority": random.choice(priorities),
+        "ForecastWeek":
+            forecast_week,
+
+        "ForecastMonth":
+            forecast_month,
+
+        "CustomerRegion":
+            random.choice(customer_regions),
+
+        "TicketComplexity":
+            random.choice(complexities),
+
+        "ResolutionCategory":
+            random.choice(resolution_categories
+            ),
 
         "AssignedAgent":
             random.choice(
