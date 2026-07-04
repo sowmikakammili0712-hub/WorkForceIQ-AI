@@ -37,3 +37,40 @@ Traditional reports answer these questions individually.
 **WorkForceIQ AI consolidates them into a single executive analytics platform.**
 
 ---
+## ⭐ Key Features
+
+- Executive Operations Dashboard
+- Agent Performance Analytics
+- SLA & Compliance Monitoring
+- Forecasting & Capacity Planning
+- AI-Powered Executive Insights
+- Interactive What-If Analysis
+- Star Schema Data Model
+- Advanced DAX Measures
+- Dynamic KPI Calculations
+- Python-Based Synthetic Data Generator
+- Interactive Filters and Drilldowns
+- Executive Health Score
+- Dynamic Business Recommendations
+
+## 📂 Repository Structure
+
+``text
+WorkForceIQ-AI
+│
+├── 01_Documentation
+├── 02_Dataset
+├── 03_SQL
+├── 04_PowerBI
+├── 05_DAX
+├── 06_Python
+├── 07_AI
+├── 08_CaseStudy
+├── 09_Presentation
+├── 10_Screenshots
+├── 11_Resources
+│
+├── README.md
+└── requirements.txt
+```
+
