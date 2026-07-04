@@ -2,6 +2,8 @@
 
 ## Enterprise Workforce Analytics Platform
 
+![Cover Dashboard](10_Screenshots/Cover.png)
+
 An end-to-end workforce analytics solution built using **Python**, **SQL**, and **Power BI** to monitor operational performance, optimize workforce utilization, forecast staffing demand, and deliver AI-driven business recommendations.
 
 ---
