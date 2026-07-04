@@ -10,8 +10,20 @@
 ![Analytics](https://img.shields.io/badge/Analytics-Enterprise-success?style=for-the-badge)
 
 ## Enterprise Workforce Analytics Platform
+A portfolio project demonstrating the complete analytics lifecycle—from synthetic data generation and dimensional modeling to interactive dashboards, forecasting, and AI-inspired executive decision support.
 
 ![Cover Dashboard](10_Screenshots/Cover.png.png)
+
+## 🏆 Project Highlights
+
+- 📊 5 Interactive Dashboards
+- 👥 100 Synthetic Agents
+- 🎫 1,000 Customer Support Tickets
+- ⭐ 40+ Advanced DAX Measures
+- 🤖 AI Recommendation Engine
+- 📈 Forecasting & Capacity Planning
+- 🏗 Enterprise Star Schema
+- 🧠 Executive Decision Support
 ## 📊 Project Statistics
 
 | Metric | Value |
@@ -64,19 +76,19 @@ Traditional reports answer these questions individually.
 ---
 ## 🛠 Technology Stack
 
-| Category | Technology |
-|-----------|------------|
-| Programming | Python |
-| Data Processing | Pandas, NumPy |
-| Synthetic Data | Faker |
-| Database | SQL |
-| Business Intelligence | Power BI |
-| Data Modeling | Star Schema |
-| ETL | Power Query |
-| Analytics | DAX |
-| Forecasting | Power BI Forecasting |
-| Documentation | Markdown |
-| Version Control | Git & GitHub |
+| Layer           | Technology        |
+| --------------- | ----------------- |
+| Programming     | Python            |
+| Data Generation | Faker             |
+| Data Processing | Pandas, NumPy     |
+| Database        | SQL               |
+| Data Modeling   | Star Schema       |
+| ETL             | Power Query       |
+| Analytics       | DAX               |
+| Visualization   | Power BI          |
+| Forecasting     | What-if Parameter |
+| Version Control | Git & GitHub      |
+
 ## 🏗 Solution Architecture
 
 ## ⭐ Key Features
@@ -99,30 +111,47 @@ Traditional reports answer these questions individually.
 
 ### Executive Dashboard
 
+**Audience:** Senior Leadership
+
+Tracks executive KPIs, operational health, ticket trends, queue distribution and SLA performance.
+
 ![Executive](10_Screenshots/Executive Dashboard.png.png)
 
 ---
 
-### Agent Performance
+### Agent Performance Dashboard
+
+**Audience:** Operations Managers
+
+Analyzes utilization, productivity, staffing efficiency and workforce performance.
 
 ![Agent](10_Screenshots/Agent Performance dashboard.png.png)
 
 ---
 
-### SLA & Operations
+### SLA & Operations Dashboard
 
+**Audience:** Service Delivery Managers
+
+Monitors SLA compliance, backlog aging, escalations and resolution trends.
 ![SLA](10_Screenshots/SLA& Operations.png.png)
 
 ---
 
 ### Forecasting & Planning
 
+**Audience:** Workforce Planning Teams
+
+Supports staffing forecasts, capacity planning and scenario analysis through What-If parameters.
 ![Forecast](10_Screenshots/Forecasting & Planning.png.png.png)
 
 ---
 
 ### AI Insights
 
+**Audience:** Executive Leadership
+
+Provides dynamic business recommendations, operational risk alerts and executive summaries using DAX-driven business logic.
 ![AI](10_Screenshots/AI Insights.png.png)
 ## 📂 Repository Structure
 
@@ -193,15 +222,16 @@ This solution demonstrates how enterprise support organizations can leverage ana
 - Machine Learning Forecast Models
 - Real-Time Streaming Dashboard
 - API Integration
+
+
 ## 👩‍💻 About the Author
 
 **Sowmika Kammili**
 
 Data Analyst | Power BI Developer | SQL | Python | Business Intelligence
 
-Passionate about transforming operational data into actionable business insights through analytics, automation, and modern BI solutions.
+🔗 LinkedIn:
+https://www.linkedin.com/in/sowmikakammili
 
-Feel free to connect:
-
-- LinkedIn
-- GitHub
+💻 GitHub:
+https://github.com/sowmikakammili0712-hub
