@@ -91,6 +91,7 @@ Traditional reports answer these questions individually.
 | Version Control | Git & GitHub      |
 
 ## 🏗 Solution Architecture
+                   
 
 ## ⭐ Key Features
 
