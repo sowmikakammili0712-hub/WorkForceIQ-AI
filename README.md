@@ -1,68 +1,39 @@
-# WorkFoercsIQ-AI
-AI Powered Workforce Planning &amp; Operations Analytics Platform using SQL, Power BI, Python &amp; AI
 # 🚀 WorkForceIQ AI
 
-## AI Powered Workforce Planning & Decision Intelligence Platform
+## Enterprise Workforce Analytics Platform
 
-WorkForceIQ AI is an enterprise-scale Business Intelligence platform designed to help support organizations forecast workload, optimize staffing, monitor SLA compliance and generate AI-powered business recommendations.
+An end-to-end workforce analytics solution built using **Python**, **SQL**, and **Power BI** to monitor operational performance, optimize workforce utilization, forecast staffing demand, and deliver AI-driven business recommendations.
 
-## Tech Stack
+---
 
-- SQL
-- Power BI
-- Excel
-- Python
-- AI (LLM)
-- GitHub
+## 📌 Project Overview
 
-## Features
+WorkForceIQ AI is a comprehensive analytics platform designed for enterprise support operations. It simulates a real-world customer support environment by generating synthetic operational data, modeling it using a star schema, and presenting actionable insights through interactive Power BI dashboards.
 
-✅ Workforce Forecasting
+The platform enables business leaders to:
 
-✅ Capacity Planning
+- Monitor operational KPIs in real time
+- Analyze agent productivity and utilization
+- Track SLA compliance and backlog trends
+- Forecast staffing requirements
+- Generate AI-inspired operational recommendations
+- Support executive decision-making through data-driven insights
 
-✅ Occupancy Analysis
+---
 
-✅ Shrinkage Modelling
+## 🎯 Business Problem
 
-✅ Executive Dashboard
+Enterprise support organizations process thousands of customer tickets every month. Leadership teams often struggle to answer critical operational questions such as:
 
-✅ AI Executive Summary
+- Are we meeting our SLA targets?
+- Which support queues require additional staffing?
+- Which agents are overutilized or underutilized?
+- Where are ticket backlogs increasing?
+- How many analysts will be required next month?
+- How can operational costs be optimized while maintaining service quality?
 
-✅ AI Recommendation Engine
+Traditional reports answer these questions individually.
 
-## Project Roadmap
+**WorkForceIQ AI consolidates them into a single executive analytics platform.**
 
-Business Discovery
-
-↓
-
-Data Modelling
-
-↓
-
-SQL
-
-↓
-
-Power BI
-
-↓
-
-Python
-
-↓
-
-AI
-
-↓
-
-Portfolio
-
-## Status
-
-Sprint 1
-
-Business Discovery
-
-Work in Progress 🚧
+---
