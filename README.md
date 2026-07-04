@@ -24,6 +24,7 @@ A portfolio project demonstrating the complete analytics lifecycle—from synthe
 - 📈 Forecasting & Capacity Planning
 - 🏗 Enterprise Star Schema
 - 🧠 Executive Decision Support
+
 ## 📊 Project Statistics
 
 | Metric | Value |
