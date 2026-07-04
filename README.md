@@ -37,6 +37,21 @@ Traditional reports answer these questions individually.
 **WorkForceIQ AI consolidates them into a single executive analytics platform.**
 
 ---
+## 🛠 Technology Stack
+
+| Category | Technology |
+|-----------|------------|
+| Programming | Python |
+| Data Processing | Pandas, NumPy |
+| Synthetic Data | Faker |
+| Database | SQL |
+| Business Intelligence | Power BI |
+| Data Modeling | Star Schema |
+| ETL | Power Query |
+| Analytics | DAX |
+| Forecasting | Power BI Forecasting |
+| Documentation | Markdown |
+| Version Control | Git & GitHub |
 ## ⭐ Key Features
 
 - Executive Operations Dashboard
@@ -52,10 +67,9 @@ Traditional reports answer these questions individually.
 - Interactive Filters and Drilldowns
 - Executive Health Score
 - Dynamic Business Recommendations
-
 ## 📂 Repository Structure
 
-``text
+```text
 WorkForceIQ-AI
 │
 ├── 01_Documentation
@@ -73,4 +87,3 @@ WorkForceIQ-AI
 ├── README.md
 └── requirements.txt
 ```
-
