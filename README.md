@@ -117,7 +117,7 @@ Traditional reports answer these questions individually.
 
 ### Forecasting & Planning
 
-![Forecast](10_Screenshots/Forecasting.png.png)
+![Forecast](10_Screenshots/Forecasting & Planning.png.png.png)
 
 ---
 
