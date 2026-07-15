@@ -133,6 +133,39 @@ for i in range(100):
     agents.append(agent)
 
 agents_df = pd.DataFrame(agents)
+agents_df["ActualTicketsHandled"] = np.random.randint(
+    40,
+    120,
+    len(agents_df)
+)
+agents_df["ActualHoursWorked"] = round(
+    agents_df["CapacityHoursPerWeek"]
+    *
+    np.random.uniform(
+        0.7,
+        1.1,
+        len(agents_df)
+    ),
+    2
+)
+agents_df["UtilizationPercent"] = round(
+    (
+        agents_df["ActualHoursWorked"]
+        /
+        agents_df["CapacityHoursPerWeek"]
+    ) * 100,
+    2
+)
+agents_df["CostPerTicket"] = round(
+    (
+        agents_df["AgentCostPerHour"]
+        *
+        agents_df["ActualHoursWorked"]
+    )
+    /
+    agents_df["ActualTicketsHandled"],
+    2
+)
 dim_agent = agents_df.copy()
 dim_agent.to_csv(
     "02_Dataset/Dimensions/dim_agent.csv",
@@ -174,39 +207,7 @@ dim_date.to_csv(
     "02_Dataset/Dimensions/dim_date.csv",
     index=False
 )
-agents_df["ActualTicketsHandled"] = np.random.randint(
-    40,
-    120,
-    len(agents_df)
-)
-agents_df["ActualHoursWorked"] = round(
-    agents_df["CapacityHoursPerWeek"]
-    *
-    np.random.uniform(
-        0.7,
-        1.1,
-        len(agents_df)
-    ),
-    2
-)
-agents_df["UtilizationPercent"] = round(
-    (
-        agents_df["ActualHoursWorked"]
-        /
-        agents_df["CapacityHoursPerWeek"]
-    ) * 100,
-    2
-)
-agents_df["CostPerTicket"] = round(
-    (
-        agents_df["AgentCostPerHour"]
-        *
-        agents_df["ActualHoursWorked"]
-    )
-    /
-    agents_df["ActualTicketsHandled"],
-    2
-)
+
 print("\nAgent Sample:")
 print(agents_df.head())
 print("\nAgent Columns:")
