@@ -1,183 +1,197 @@
-# ⭐ Star Schema Relationship Diagram
+# Relationship Diagram
 
 ## Overview
 
-The WorkForceIQ AI data model follows a **Star Schema** architecture to optimize query performance, simplify report development, and support scalable analytics.
+The WorkForceIQ AI semantic model is built using a Star Schema, where a central fact table is connected to multiple dimension tables through one-to-many relationships.
 
-The model consists of one central fact table surrounded by multiple dimension tables.
-
-This design minimizes redundancy, improves filter propagation, and enables reusable DAX calculations across all dashboards.
+This design minimizes model complexity, improves query performance, and supports scalable analytical reporting in Power BI.
 
 ---
 
-# Star Schema Diagram
+# Relationship Diagram
 
 ![Star Schema](ArchitectureAssets/StarSchema.png)
 
 ---
 
-# Data Model
+# Model Relationships
 
-The analytical model consists of:
-
-## Fact Table
-
-**Fact_Tickets**
-
-Stores transactional ticket-level information including:
-
-- Ticket ID
-- Agent ID
-- Queue ID
-- Region ID
-- Created Date
-- Closed Date
-- Resolution Hours
-- SLA Status
-- Escalation Status
-- Ticket Cost
-- Forecast Metrics
+| Parent Table | Child Table | Relationship | Filter Direction |
+|--------------|-------------|--------------|------------------|
+| Dim_Agent | Fact_Tickets | One-to-Many | Single |
+| Dim_Date | Fact_Tickets | One-to-Many | Single |
+| Dim_Queue | Fact_Tickets | One-to-Many | Single |
+| Dim_Region | Fact_Tickets | One-to-Many | Single |
 
 ---
 
-## Dimension Tables
+# Relationship Structure
 
-### Dim_Date
-
-Provides calendar intelligence.
-
-Columns include:
-
-- Date
-- Month
-- Quarter
-- Year
-- Month Name
+```text
+                 Dim_Agent
+                      │
+                      │
+Dim_Date ───── Fact_Tickets ───── Dim_Queue
+                      │
+                      │
+                 Dim_Region
+```
 
 ---
 
-### Dim_Agent
+# Cardinality
 
-Contains workforce information.
+All relationships follow a **One-to-Many** design.
 
-Columns include:
+**One**
 
-- Agent ID
-- Agent Name
-- Team
-- Experience Level
-- Capacity
-- Utilization
-
----
-
-### Dim_Queue
-
-Contains support queue information.
-
-Examples include:
-
-- Hosting
-- Billing
-- Customer Support
-- Website Builder
-- Technical Support
-- Domain Management
-
----
-
-### Dim_Region
-
-Stores customer geography.
+One business entity exists in the dimension table.
 
 Examples:
 
-- Australia
-- Canada
-- Germany
-- India
-- UK
-- USA
-
----
-
-# Relationship Design
-
-The model uses:
-
-- One-to-Many Relationships
-- Single Direction Cross Filtering
-- Dimension-to-Fact Filtering
-
-This design improves report performance while preventing ambiguous filter paths.
-
----
-
-# Relationship Flow
-
-Dim_Date
+- One Agent
+- One Region
+- One Queue
+- One Calendar Date
 
 ↓
 
-Fact_Tickets
+**Many**
 
-↑
+Multiple support tickets may reference the same business entity.
 
-Dim_Agent
+Examples:
 
-↑
+- One Agent handles many tickets.
+- One Queue contains many tickets.
+- One Region generates many tickets.
+- One Date contains many ticket transactions.
 
-Dim_Queue
+---
 
-↑
+# Filter Direction
 
-Dim_Region
+The model uses **Single Direction Filtering**.
+
+Dimension
+
+↓
+
+Fact
+
+This approach was selected because it:
+
+- Prevents ambiguous relationships
+- Improves report performance
+- Simplifies DAX calculations
+- Follows Microsoft Power BI best practices
+- Reduces model complexity
 
 ---
 
 # Why Star Schema?
 
-The Star Schema provides several advantages:
+A Star Schema was selected instead of a Snowflake Schema because it provides:
 
-- Faster DAX calculations
-- Simplified report development
-- Better model scalability
-- Improved Power BI performance
-- Reduced model complexity
-- Easier maintenance
+| Star Schema Benefit | Business Value |
+|---------------------|----------------|
+| Fewer table joins | Faster dashboard performance |
+| Simpler relationships | Easier report development |
+| Better DAX optimization | Improved calculation efficiency |
+| Lower model complexity | Easier maintenance |
+| Improved usability | Better experience for report developers |
+
+The model is optimized for analytical workloads where query performance and usability are more important than storage normalization.
 
 ---
 
-# Business Benefits
+# Relationship Validation
 
-Using a dimensional model enables:
+The following validation rules are applied during model development:
 
-- Executive Reporting
-- Workforce Analytics
+- Every ticket must reference a valid agent.
+- Every ticket must reference a valid queue.
+- Every ticket must reference a valid region.
+- Every ticket must reference a valid calendar date.
+- Duplicate primary keys are not permitted in dimension tables.
+- Foreign key integrity is maintained throughout the model.
+
+---
+# Relationship Design Decisions
+
+| Design Decision | Rationale |
+|-----------------|-----------|
+| Star Schema | Optimized for analytical reporting and Power BI performance |
+| Single Fact Table | Maintains a consistent transactional grain |
+| Separate Dimension Tables | Reduces redundancy and improves maintainability |
+| One-to-Many Relationships | Supports efficient filtering and aggregation |
+| Single-Direction Filtering | Prevents ambiguity and improves query execution |
+| Surrogate Keys | Simplifies joins and future model expansion |
+
+# Business Impact
+
+The relationship model enables:
+
+- Executive KPI reporting
+- Workforce performance analysis
+- Queue-level reporting
+- Regional comparisons
+- Time intelligence
+- Capacity planning
 - Forecasting
-- Capacity Planning
-- AI Recommendation Engine
-- KPI Monitoring
-- Cross-filtering across dashboards
+- AI-assisted recommendations
+- Trusted AI Governance
 
 ---
 
 # Best Practices Followed
 
-✅ One Fact Table
+The semantic model follows enterprise Power BI modeling standards:
 
-✅ Separate Dimension Tables
-
-✅ Surrogate Keys
-
-✅ Optimized Relationships
-
-✅ Reusable Measures
-
-✅ Enterprise BI Modeling Standards
+- Star Schema architecture
+- One-to-Many relationships
+- Single-direction filtering
+- Descriptive dimensions
+- Transactional fact table
+- Reusable dimensions
+- Optimized DAX model
+- High-performance reporting
 
 ---
 
-**Project:** WorkForceIQ AI
+# Data Lineage
 
-**Version:** 1.0
+The relationship model forms the foundation of the enterprise analytics pipeline.
+
+```text
+Python Data Generator
+        ↓
+Synthetic CSV Dataset
+        ↓
+Power Query ETL
+        ↓
+Dimension Tables + Fact Table
+        ↓
+Relationship Model
+        ↓
+Power BI Semantic Model
+        ↓
+DAX Measures
+        ↓
+Enterprise Dashboards
+        ↓
+AI Recommendation Engine
+        ↓
+Trusted AI Governance Center
+```
+
+The semantic model ensures that every dashboard, KPI, and recommendation is built on a consistent, governed, and scalable data foundation.
+
+---
+
+# Key Takeaways
+
+- The semantic model follows a Star Schema architecture.
+- One-to-many relationships improve reporting performance and scalability.
+- Single-direction filtering reduces ambiguity and simplifies DAX.
+- The relationship model provides a robust foundation for analytics, AI recommendations, and governance.

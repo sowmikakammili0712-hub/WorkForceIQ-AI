@@ -1,237 +1,248 @@
-# 📊 Enterprise Data Model
+# Enterprise Data Model
 
 ## Overview
 
-The WorkForceIQ AI solution is built using a **Star Schema** dimensional model optimized for enterprise reporting, interactive analytics, and high-performance DAX calculations.
+WorkForceIQ AI follows a Star Schema data model optimized for analytical reporting, dashboard performance, and simplified DAX calculations.
 
-The model separates transactional data from descriptive attributes, enabling scalable reporting and reusable business logic across multiple dashboards.
-
----
-
-# Data Model Objectives
-
-The data model was designed to:
-
-- Improve report performance
-- Simplify DAX calculations
-- Support reusable KPIs
-- Enable interactive filtering
-- Reduce data redundancy
-- Support future scalability
+The model separates transactional data from descriptive attributes, enabling efficient filtering, aggregation, and business intelligence reporting.
 
 ---
 
-# Model Architecture
+# Star Schema
 
-The solution follows a Star Schema consisting of:
+![Star Schema](ArchitectureAssets/StarSchema.png)
+---
+
+# Why Star Schema?
+
+A Star Schema was selected over a Snowflake Schema for the following reasons:
+
+| Star Schema | Benefit |
+|-------------|----------|
+| Fewer joins | Faster dashboard performance |
+| Simpler relationships | Easier report development |
+| Better DAX performance | Optimized calculations |
+| User-friendly model | Easier for analysts to understand |
+
+Given the analytical nature of WorkForceIQ AI, the Star Schema provides the best balance between performance, maintainability, and scalability.
+
+---
+
+# Model Overview
+
+The data model consists of:
 
 - 1 Fact Table
 - 4 Dimension Tables
+- One-to-Many Relationships
+- Single Direction Filtering
 
-![Star Schema](ArchitectureAssets/StarSchema.png)
+This design follows Microsoft Power BI best practices for enterprise reporting.
 
 ---
 
 # Fact Table
 
-## tickets
+## Fact_Tickets
 
-The Fact_Tickets table stores all ticket-level transactional information.
+The Fact_Tickets table stores transactional operational data generated from enterprise support activities.
 
-### Grain
+Each row represents a single customer support ticket.
 
-One row represents one customer support ticket.
+### Key Attributes
 
-### Primary Key
-
-- TicketID
-
-### Key Metrics
-
+- Ticket ID
+- Agent ID
+- Queue ID
+- Region ID
+- Date ID
+- Priority
+- Status
 - Resolution Hours
-- Ticket Cost
-- SLA Status
-- Escalation Status
-- Forecast Tickets
-- Forecast Cost
-- Capacity Metrics
+- SLA Hours
+- Escalation Flag
+- Cost Per Ticket
+
+The fact table is used for:
+
+- SLA reporting
+- Resolution analytics
+- Cost analysis
+- Capacity planning
+- Forecasting
+- AI recommendations
 
 ---
 
 # Dimension Tables
 
-## dim_Date
+## Dim_Agent
 
-Supports time intelligence and trend analysis.
+Stores workforce information.
 
-### Key
+Attributes include:
 
-Date
-
-### Attributes
-
-- Year
-- Quarter
-- Month
-- Month Name
-- Day
-
----
-
-## dim_Agent
-
-Contains workforce information.
-
-### Key
-
-AgentID
-
-### Attributes
-
+- Agent ID
 - Agent Name
 - Team
 - Experience Level
-- Capacity Hours
-- Utilization Target
+- Department
+
+Used for:
+
+- Agent Performance
+- Utilization Analysis
+- Workforce Planning
 
 ---
 
-## dim_Queue
+## Dim_Date
 
-Contains operational queues.
+Provides calendar intelligence.
 
-### Key
+Includes:
 
-QueueID
+- Date
+- Month
+- Quarter
+- Year
+- Week
+- Day Name
 
-### Attributes
+Used for:
 
-- Hosting
-- Billing
-- Customer Support
-- Website Builder
+- Trend Analysis
+- Time Intelligence
+- Forecasting
+
+---
+
+## Dim_Queue
+
+Stores operational queue information.
+
+Examples:
+
 - Technical Support
-- Domain Management
+- Billing
+- Customer Success
+- Escalations
+
+Used for:
+
+- Queue Performance
+- Backlog Monitoring
+- Capacity Analysis
 
 ---
 
-## dim_Region
+## Dim_Region
 
-Contains customer geography.
+Stores geographical information.
 
-### Key
+Examples:
 
-RegionID
+- North America
+- Europe
+- Asia-Pacific
 
-### Attributes
+Used for:
 
-- Australia
-- Canada
-- Germany
-- India
-- UK
-- USA
+- Regional Reporting
+- Operational Comparison
+- Executive Insights
 
 ---
 
 # Relationship Design
 
-All dimension tables connect directly to the Fact_Tickets table using **one-to-many relationships**.
+All relationships follow:
 
-Relationship characteristics:
-
-- Cardinality: One-to-Many
-- Cross Filter Direction: Single
-- Active Relationships: Yes
-
-This design eliminates ambiguity while maximizing query performance.
-
----
-
-# Filter Flow
-
-dim_Date
+Dimension
 
 ↓
 
-tickets
+Fact
 
-↑
+One-to-Many
 
-dim_Agent
+↓
 
-↑
+Single Direction Filter
 
-dim_Queue
-
-↑
-
-dim_Region
+This minimizes ambiguity and improves query performance.
 
 ---
 
-# Why Star Schema?
+# Cardinality
 
-The dimensional model offers several advantages:
+| Relationship | Cardinality |
+|--------------|-------------|
+| Agent → Tickets | One-to-Many |
+| Date → Tickets | One-to-Many |
+| Queue → Tickets | One-to-Many |
+| Region → Tickets | One-to-Many |
 
-- Faster query execution
-- Optimized DAX performance
-- Simpler report development
-- Easier maintenance
+---
+
+# Data Grain
+
+The grain of the fact table is:
+
+> **One record represents one customer support ticket.**
+
+Maintaining a consistent grain simplifies DAX calculations and prevents double counting.
+
+---
+
+# Benefits of Star Schema
+
+The selected model provides several advantages:
+
+- Faster report performance
+- Simplified DAX measures
+- Reduced model complexity
 - Better scalability
-- Enterprise BI best practices
+- Easier maintenance
+- Improved filter propagation
 
 ---
 
-# Power BI Modeling Best Practices
+# Business Use Cases
 
-The project follows Microsoft-recommended modeling standards:
+The model supports enterprise analytics scenarios including:
 
-- Separate Fact and Dimension tables
-- Use surrogate keys
-- Avoid many-to-many relationships
-- Single-direction filtering
-- Reusable DAX measures
-- Optimized relationships
+- Executive reporting
+- Workforce utilization
+- SLA monitoring
+- Backlog management
+- Capacity forecasting
+- AI-assisted recommendations
+- Governance analytics
 
 ---
 
-# Scalability
+# Best Practices Followed
 
-The current model supports:
-
-- Executive Reporting
-- Workforce Analytics
-- SLA Monitoring
-- Forecasting
-- Capacity Planning
-- AI Recommendation Engine
-
-The architecture can easily be extended by adding new dimensions (e.g., Customer, Product, Channel) without redesigning the model.
+- Star Schema modeling
+- One-to-Many relationships
+- Single Direction filtering
+- Separate Dimension and Fact tables
+- Surrogate Keys
+- Optimized DAX calculations
+- Enterprise naming conventions
 
 ---
 
 # Future Enhancements
 
-Planned improvements include:
+Future versions of the model may include:
 
-- Azure SQL Database
+- Fact Workforce Capacity
+- Fact Forecast
+- Fact Staffing Plan
+- Dim Customer
+- Dim Product
+- Slowly Changing Dimensions (SCD)
 - Incremental Refresh
-- Microsoft Fabric Lakehouse
-- Direct Lake Mode
-- Real-Time Streaming
-- Row-Level Security (RLS)
-
----
-
-# Summary
-
-The WorkForceIQ AI data model provides a scalable and efficient analytical foundation that enables interactive reporting, advanced DAX calculations, forecasting, and executive decision support.
-
----
-
-**Project:** WorkForceIQ AI
-
-**Version:** 1.0
-
-**Author:** Sowmika Kammili
+- Microsoft Fabric Lakehouse integration

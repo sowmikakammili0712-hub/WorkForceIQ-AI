@@ -1,47 +1,87 @@
-# Business Requirement Document
+# Business Requirements Document (BRD)
 
-## Project
+## Project Name
 
 WorkForceIQ AI
 
-## Business Problem
+---
 
-Customer support operations currently rely on manual reporting and lack workforce forecasting, capacity planning and executive visibility.
+# Business Problem
 
-Leadership cannot accurately estimate staffing requirements or proactively manage SLA performance.
+Operations teams often rely on fragmented reports, delayed insights, and manual analysis to monitor workforce performance. This limits their ability to proactively manage SLA compliance, staffing, and operational efficiency.
 
-## Objectives
+---
 
-- Improve Forecast Accuracy (>90%)
+# Business Objectives
 
-- Improve SLA (>95%)
+- Improve operational visibility.
+- Monitor workforce performance.
+- Enhance SLA compliance.
+- Support staffing decisions.
+- Introduce explainable AI-assisted recommendations.
+- Promote responsible AI governance.
 
-- Optimize Workforce Capacity
+---
 
-- Reduce Reporting Time
+# Stakeholders
 
-- Enable Executive Decision Making
+| Stakeholder | Responsibility |
+|--------------|----------------|
+| Executive Leadership | Strategic decision-making |
+| Operations Manager | SLA monitoring |
+| Workforce Planner | Capacity planning |
+| BI Team | Dashboard development |
+| Analytics Team | KPI development |
 
-## Stakeholders
+---
 
-CEO
+# Scope
 
-Operations Director
+## In Scope
 
-Workforce Manager
+- Executive reporting
+- Workforce analytics
+- SLA monitoring
+- Forecasting
+- AI recommendations
+- Governance dashboard
 
-Team Leads
+## Out of Scope
 
-Business Intelligence Team
+- Live production integration
+- Automated workforce scheduling
+- Machine learning forecasting
+- External API integrations
 
-## Success Metrics
+---
 
-Forecast Accuracy
+# Success Criteria
 
-Occupancy
+- Improved operational visibility
+- Standardized KPI reporting
+- Explainable recommendations
+- Trusted AI governance
+- Scalable analytics architecture
 
-Shrinkage
+---
 
-Capacity Gap
+# Risks
 
-SLA
+- Synthetic data limitations
+- Manual refresh process
+- Rule-based recommendations
+- No real-time streaming
+
+---
+
+# Assumptions
+
+- Data quality is maintained.
+- Business thresholds are approved.
+- Users understand KPI definitions.
+
+---
+
+# Key Takeaways
+
+The WorkForceIQ AI solution addresses enterprise workforce analytics challenges through governed reporting, explainable AI recommendations, and scalable Power BI architecture.
